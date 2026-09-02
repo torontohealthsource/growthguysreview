@@ -1,0 +1,2077 @@
+{
+  "name": "Growth Guys published Janoshik lab reports",
+  "counted_on": "2026-09-01",
+  "source": "https://growthguys.com/lab-results/",
+  "totals": {
+    "total_reports": 229,
+    "distinct_products": 128,
+    "reports_with_purity": 171,
+    "avg_purity": 99.04,
+    "min_purity": 93.844,
+    "max_purity": 99.99,
+    "below_98_count": 30
+  },
+  "reports": [
+    {
+      "product": "NAD+ 600mg",
+      "batch": "NAD05",
+      "purity_pct": null,
+      "mass": "602.01 mg",
+      "result_date": "2026-08-31",
+      "date_added": "2026-08-31",
+      "report_url": "https://verify.janoshik.com/tests/227441-NAD_5WCKK95LIVDS"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET27",
+      "purity_pct": 99.53,
+      "mass": "21.49 mg",
+      "result_date": "2026-08-31",
+      "date_added": "2026-08-31",
+      "report_url": "https://verify.janoshik.com/tests/227444-Retatrutide_SZRQKHISG84A"
+    },
+    {
+      "product": "Tadalafil 20mg",
+      "batch": "TAD04",
+      "purity_pct": null,
+      "mass": "20.91 mg",
+      "result_date": "2026-08-06",
+      "date_added": "2026-08-28",
+      "report_url": "https://verify.janoshik.com/tests/216018-Tadalafil_TXCDTDVITABU"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS08",
+      "purity_pct": 98.84,
+      "mass": "10.67 mg",
+      "result_date": "2026-08-21",
+      "date_added": "2026-08-21",
+      "report_url": "https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC41",
+      "purity_pct": 97.68,
+      "mass": "11.36 ius",
+      "result_date": "2026-08-20",
+      "date_added": "2026-08-20",
+      "report_url": "https://verify.janoshik.com/tests/224531-Human_Growth_Hormone_T8RG65MSWEIP"
+    },
+    {
+      "product": "Retatrutide",
+      "batch": "RET01",
+      "purity_pct": 96.27,
+      "mass": "10.94 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-09",
+      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
+      "product": "GHK-Cu 100mg",
+      "batch": null,
+      "purity_pct": 99.51,
+      "mass": "95.57 mg",
+      "result_date": "2026-08-05",
+      "date_added": "2026-08-20",
+      "report_url": "https://verify.janoshik.com/tests/215381-Sample_100_GHKCu_JMHLART6NIKH"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin 18,000iu",
+      "batch": "HCG08",
+      "purity_pct": null,
+      "mass": "18083 ius",
+      "result_date": "2026-07-10",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/203792-Human_Chorionic_Gonadtropin_hCG_EYEP6E5MID5C"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin 8500iu",
+      "batch": "HCG07",
+      "purity_pct": null,
+      "mass": "8619 ius",
+      "result_date": "2026-07-10",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/203789-Human_Chorionic_Gonadtropin_hCG_7DXIFVN9R585"
+    },
+    {
+      "product": "Eloralintide 10mg",
+      "batch": "ELO01",
+      "purity_pct": 99.54,
+      "mass": "12.74 mg",
+      "result_date": "2026-08-07",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/216570-Eloralintide_8H57M96DX4XH"
+    },
+    {
+      "product": "Thymosin Alpha-1 12.5mg",
+      "batch": "TA03",
+      "purity_pct": 99.74,
+      "mass": "11.47 mg",
+      "result_date": "2026-08-07",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/216567-Thymosin_Alpha1_SGD8S2GYEYNN"
+    },
+    {
+      "product": "PT-141 10mg",
+      "batch": "PT04",
+      "purity_pct": 99.48,
+      "mass": "11.30 mg",
+      "result_date": "2026-08-07",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/216564-PT141_MHUV6L8TJXUU"
+    },
+    {
+      "product": "Kisspeptin 5mg",
+      "batch": "KIS02",
+      "purity_pct": 99.76,
+      "mass": "5.11 mg",
+      "result_date": "2026-07-28",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/211386-Kisspeptin_DMVTAWS4LAGQ"
+    },
+    {
+      "product": "CJC-1295 with DAC 5mg",
+      "batch": "DAC02",
+      "purity_pct": 98.99,
+      "mass": "6.01 mg",
+      "result_date": "2026-07-30",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/212511-Sample_97_CJC1295_with_DAC_24U6G1Y3KPYU"
+    },
+    {
+      "product": "Selank 10mg",
+      "batch": "SEL04",
+      "purity_pct": 99.85,
+      "mass": "11.21 mg",
+      "result_date": "2026-07-29",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/212505-Sample_42_Selank_8USUYMVKBPWW"
+    },
+    {
+      "product": "Melanotan 1 (MT-1) 10mg",
+      "batch": "MT101",
+      "purity_pct": 99.65,
+      "mass": "10.64 mg",
+      "result_date": "2026-07-29",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/212499-Sample_M1_Melanotan1_6EXSEGV1I8GT"
+    },
+    {
+      "product": "Ipamorelin",
+      "batch": "IPA04",
+      "purity_pct": 99.88,
+      "mass": "11.06 mg",
+      "result_date": "2026-08-07",
+      "date_added": "2026-08-11",
+      "report_url": "https://verify.janoshik.com/tests/216558-Ipamorelin_CJCPSTJ4XI8H"
+    },
+    {
+      "product": "Brain Blend Semax/Selank 6mg/6mg",
+      "batch": "COG02",
+      "purity_pct": null,
+      "mass": "12.18 mg",
+      "result_date": "2026-08-07",
+      "date_added": "2026-08-07",
+      "report_url": "https://verify.janoshik.com/tests/216561-Brain_Blend_E73H7LB978VX"
+    },
+    {
+      "product": "GHK-Cu 50mg",
+      "batch": "GHK10",
+      "purity_pct": 99.66,
+      "mass": "48.81 mg",
+      "result_date": "2026-08-05",
+      "date_added": "2026-08-07",
+      "report_url": "https://verify.janoshik.com/tests/215378-Sample_50_GHKCu_75FV6BK9NT94"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC10",
+      "purity_pct": 98.51,
+      "mass": "11.22 mg",
+      "result_date": "2026-07-31",
+      "date_added": "2026-08-05",
+      "report_url": "https://verify.janoshik.com/tests/212938-BPC157_YMH3UQVGGN1W"
+    },
+    {
+      "product": "Retatrutide 60mg",
+      "batch": "RET25",
+      "purity_pct": 99.55,
+      "mass": "68.33 mg",
+      "result_date": "2026-07-30",
+      "date_added": "2026-08-01",
+      "report_url": "https://verify.janoshik.com/tests/212502-Sample_23_Retatrutide_8BYAWCM8X7MH"
+    },
+    {
+      "product": "Healing Blend 10mg/10mg",
+      "batch": "BPCTB10",
+      "purity_pct": null,
+      "mass": "20.39 mg",
+      "result_date": "2026-07-29",
+      "date_added": "2026-07-30",
+      "report_url": "https://verify.janoshik.com/tests/211380-BPC157_TB500_Healing_Blend_X2D658D9FRGI"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC40",
+      "purity_pct": 96.94,
+      "mass": "43.31 ius",
+      "result_date": "2026-07-30",
+      "date_added": "2026-07-30",
+      "report_url": "https://verify.janoshik.com/tests/212941-Human_Growth_Hormone_9I9N3V554DC3"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC39",
+      "purity_pct": 96.57,
+      "mass": "42.62 ius",
+      "result_date": "2026-07-30",
+      "date_added": "2026-07-30",
+      "report_url": "https://verify.janoshik.com/tests/210348-Human_Growth_Hormone_KFDHWLCC3RFI"
+    },
+    {
+      "product": "Tirzepatide 10mg",
+      "batch": "TZ07",
+      "purity_pct": 99.51,
+      "mass": "10.62 mg",
+      "result_date": "2026-07-28",
+      "date_added": "2026-07-28",
+      "report_url": "https://verify.janoshik.com/tests/211383-Tirzepatide_BABRVF2SLNFC"
+    },
+    {
+      "product": "Tadalafil 5mg",
+      "batch": "TAD03",
+      "purity_pct": null,
+      "mass": "5.33 mg",
+      "result_date": "2026-06-26",
+      "date_added": "2026-07-27",
+      "report_url": "https://verify.janoshik.com/tests/196442-Tadalafil_221KFGLKUIZQ"
+    },
+    {
+      "product": "Enclomiphene 12.5mg Tablets",
+      "batch": "ENC03",
+      "purity_pct": null,
+      "mass": "11.11 mg",
+      "result_date": "2026-07-03",
+      "date_added": "2026-07-27",
+      "report_url": "https://verify.janoshik.com/tests/196440-Enclomiphene_77QGMTICS9JR"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC38",
+      "purity_pct": 93.844,
+      "mass": "28.15 ius",
+      "result_date": "2026-07-24",
+      "date_added": "2026-07-26",
+      "report_url": "https://verify.janoshik.com/tests/210296-Human_Growth_Hormone_6AQTRNJ4PFLG"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC37",
+      "purity_pct": 96.79,
+      "mass": "44.83 ius",
+      "result_date": "2026-07-10",
+      "date_added": "2026-07-11",
+      "report_url": "https://verify.janoshik.com/tests/203798-Human_Growth_Hormone_TCB6DJ8NIJ3M"
+    },
+    {
+      "product": "FOXO4-DRI",
+      "batch": "FOX01",
+      "purity_pct": 97.04,
+      "mass": "11.45 mg",
+      "result_date": "2026-03-25",
+      "date_added": "2026-07-11",
+      "report_url": "https://verify.janoshik.com/tests/124401-FOXO4DRI_7Y41MI94TBDY"
+    },
+    {
+      "product": "VIP 10mg",
+      "batch": "VIP01",
+      "purity_pct": 99.8,
+      "mass": "11.02 mg",
+      "result_date": "2026-03-25",
+      "date_added": "2026-07-11",
+      "report_url": "https://verify.janoshik.com/tests/124399-VIP_JNIPC71YVSQK"
+    },
+    {
+      "product": "GHRP-2 5mg",
+      "batch": "RP201",
+      "purity_pct": 99.85,
+      "mass": "6.11 mg",
+      "result_date": "2026-02-25",
+      "date_added": "2026-07-11",
+      "report_url": "https://verify.janoshik.com/tests/110134-GHRP2_RL53MNW883NA"
+    },
+    {
+      "product": "GHRP-6 5mg",
+      "batch": "GHR601",
+      "purity_pct": 99.02,
+      "mass": "5.45 mg",
+      "result_date": "2026-03-30",
+      "date_added": "2026-07-11",
+      "report_url": "https://verify.janoshik.com/tests/125049-GHRP6_ZTHTR24GPYLM"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET24",
+      "purity_pct": 99.69,
+      "mass": "21.56 mg",
+      "result_date": "2026-07-09",
+      "date_added": "2026-07-09",
+      "report_url": "https://verify.janoshik.com/tests/203795-Retatrutide_4Z2TDQEL25QL"
+    },
+    {
+      "product": "Melanotan-2 10mg",
+      "batch": "MT204",
+      "purity_pct": 99.74,
+      "mass": "10.81 mg",
+      "result_date": "2026-07-03",
+      "date_added": "2026-07-07",
+      "report_url": "https://verify.janoshik.com/tests/203776-Melanotan2_6N866XJK1VL2"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLO06",
+      "purity_pct": null,
+      "mass": "87.43 mg",
+      "result_date": "2026-07-07",
+      "date_added": "2026-07-07",
+      "report_url": "https://verify.janoshik.com/tests/203778-GLOW_Blend_CF25HDCK27TM"
+    },
+    {
+      "product": "Semax 10mg",
+      "batch": "SEM04",
+      "purity_pct": 99.317,
+      "mass": "12.11 mg",
+      "result_date": "2026-07-03",
+      "date_added": "2026-07-06",
+      "report_url": "https://verify.janoshik.com/tests/203781-Semax_U1DE8UHJPJ2D"
+    },
+    {
+      "product": "DSIP",
+      "batch": "DSIP02",
+      "purity_pct": 99.51,
+      "mass": "12.12 mg",
+      "result_date": "2026-06-19",
+      "date_added": "2026-07-06",
+      "report_url": "https://verify.janoshik.com/tests/193866-DSIP_1I89IVHP44BI"
+    },
+    {
+      "product": "KLOW Blend",
+      "batch": "KLO05",
+      "purity_pct": null,
+      "mass": "85.01 mg",
+      "result_date": "2026-06-23",
+      "date_added": "2026-07-01",
+      "report_url": "https://verify.janoshik.com/tests/193863-KLOW_Blend_ZZ2SQN16VYHX"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET23",
+      "purity_pct": 99.69,
+      "mass": "10.99 mg",
+      "result_date": "2026-06-29",
+      "date_added": "2026-06-30",
+      "report_url": "https://verify.janoshik.com/tests/200510-Retatrutide_QF96WVK2V1NW"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES07",
+      "purity_pct": 99.86,
+      "mass": "11.83 mg",
+      "result_date": "2026-04-14",
+      "date_added": "2026-06-12",
+      "report_url": "https://verify.janoshik.com/tests/136047-Tesamorelin_B55JAG5A8B24"
+    },
+    {
+      "product": "Healing Blend 6mg/6mg",
+      "batch": "BPCTB09",
+      "purity_pct": null,
+      "mass": "11.74 mg",
+      "result_date": "2026-04-16",
+      "date_added": "2026-06-10",
+      "report_url": "https://verify.janoshik.com/tests/137462-BPC157_TB500_Healing_Blend_FVT8M352ZYTR"
+    },
+    {
+      "product": "Selank 12.5mg",
+      "batch": "SEL03",
+      "purity_pct": 99.57,
+      "mass": "13.78 mg",
+      "result_date": "2026-02-13",
+      "date_added": "2026-06-10",
+      "report_url": "https://verify.janoshik.com/tests/106895-Selank_XU9KS1PTHRA3"
+    },
+    {
+      "product": "AOD-9604 2.5mg",
+      "batch": "AOD01",
+      "purity_pct": 99.48,
+      "mass": "2.59 mg",
+      "result_date": "2026-03-25",
+      "date_added": "2026-05-05",
+      "report_url": "https://verify.janoshik.com/tests/124400-AOD9604_CYICTTG3DF1W"
+    },
+    {
+      "product": "ARA-290 10mg",
+      "batch": "ARA01",
+      "purity_pct": 99.87,
+      "mass": "11.92 mg",
+      "result_date": "2026-03-30",
+      "date_added": "2026-05-05",
+      "report_url": "https://verify.janoshik.com/tests/125048-ARA290_PZDK4HQYA3JE"
+    },
+    {
+      "product": "Pinnealon 10mg",
+      "batch": "PIN01",
+      "purity_pct": 99.39,
+      "mass": "11.25 mg",
+      "result_date": "2026-03-30",
+      "date_added": "2026-05-05",
+      "report_url": "https://verify.janoshik.com/tests/125050-Pinnealon_7IKXPT68ZX8Q"
+    },
+    {
+      "product": "GHK-Cu 70mg",
+      "batch": "GHK09",
+      "purity_pct": 99.005,
+      "mass": "71.91 mg",
+      "result_date": "2026-04-28",
+      "date_added": "2026-05-05",
+      "report_url": "https://verify.janoshik.com/tests/151000-GHKCu_PFU6AVVZC2L1"
+    },
+    {
+      "product": "NAD+ 350mg",
+      "batch": "NAD04",
+      "purity_pct": null,
+      "mass": "345.80 mg",
+      "result_date": "2026-04-17",
+      "date_added": "2026-05-04",
+      "report_url": "https://verify.janoshik.com/tests/147605-NAD_R96A7ZN13A76"
+    },
+    {
+      "product": "SS-31 50mg",
+      "batch": "SS03",
+      "purity_pct": 99.89,
+      "mass": "52.49 mg",
+      "result_date": "2026-02-06",
+      "date_added": "2026-04-26",
+      "report_url": "https://verify.janoshik.com/tests/105517-SS31_MMXWALAIGZWR"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC35",
+      "purity_pct": 97.33,
+      "mass": "26.85 ius",
+      "result_date": "2026-04-14",
+      "date_added": "2026-04-23",
+      "report_url": "https://verify.janoshik.com/tests/136044-Human_Growth_Hormone_P5VMXMWAV8P2"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC36",
+      "purity_pct": 97.85,
+      "mass": "42.72 ius",
+      "result_date": "2026-04-16",
+      "date_added": "2026-04-23",
+      "report_url": "https://verify.janoshik.com/tests/147606-Human_Growth_Hormone_Z4URN5QA5E42"
+    },
+    {
+      "product": "IGF-1 LR3 1mg",
+      "batch": "IGF04",
+      "purity_pct": 98.38,
+      "mass": "1.02 mg",
+      "result_date": "2026-02-05",
+      "date_added": "2026-04-23",
+      "report_url": "https://verify.janoshik.com/tests/105133-IGF1_LR3_6GCXHSQRFZ9L"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC34",
+      "purity_pct": 96.65,
+      "mass": "43.15 mg",
+      "result_date": "2026-03-24",
+      "date_added": "2026-04-23",
+      "report_url": "https://verify.janoshik.com/tests/124397-Human_Growth_Hormone_FJX6JEXCD6GQ"
+    },
+    {
+      "product": "L-Carnitine 750mg/mL 30mL",
+      "batch": "LCAR03",
+      "purity_pct": null,
+      "mass": "743.92 mg",
+      "result_date": "2026-01-19",
+      "date_added": "2026-04-21",
+      "report_url": "https://verify.janoshik.com/tests/97624-LCarnitine_N9BKE6VSXY7G"
+    },
+    {
+      "product": "SS-31 50mg",
+      "batch": "SS04",
+      "purity_pct": 99.746,
+      "mass": "48.32 mg",
+      "result_date": "2026-08-08",
+      "date_added": "2026-04-17",
+      "report_url": "https://verify.janoshik.com/tests/147604-SS31_8MJBZKCKY2WU"
+    },
+    {
+      "product": "TB-500 5mg",
+      "batch": "TB08",
+      "purity_pct": 99.87,
+      "mass": "5.82 mg",
+      "result_date": "2026-04-14",
+      "date_added": "2026-04-14",
+      "report_url": "https://verify.janoshik.com/tests/136045-TB500_YFPQKI1PBFKD"
+    },
+    {
+      "product": "KPV 10mg",
+      "batch": "KPV03",
+      "purity_pct": 99.35,
+      "mass": "11.64 mg",
+      "result_date": "2026-04-14",
+      "date_added": "2026-04-14",
+      "report_url": "https://verify.janoshik.com/tests/136043-KPV_816SCBET3URV"
+    },
+    {
+      "product": "Retatrutide 60mg",
+      "batch": "RET22",
+      "purity_pct": 99.79,
+      "mass": "67.03 mg",
+      "result_date": "2026-03-23",
+      "date_added": "2026-04-14",
+      "report_url": "https://verify.janoshik.com/tests/123381-Retatrutide_PZ7HW9WZK642"
+    },
+    {
+      "product": "Tirzepatide 60mg",
+      "batch": "TZ06",
+      "purity_pct": 99.88,
+      "mass": "68.85 mg",
+      "result_date": "2026-01-07",
+      "date_added": "2026-04-08",
+      "report_url": "https://verify.janoshik.com/tests/123410-Tirzepatide_UIHYFQU84X4X"
+    },
+    {
+      "product": "NAD+ 500mg",
+      "batch": "NAD03",
+      "purity_pct": null,
+      "mass": "499.55 mg",
+      "result_date": "2026-02-16",
+      "date_added": "2026-04-02",
+      "report_url": "https://verify.janoshik.com/tests/106894-NAD_RGC35AHMWI3W"
+    },
+    {
+      "product": "PT-141 10mg",
+      "batch": "PT03",
+      "purity_pct": 99.89,
+      "mass": "10.77 mg",
+      "result_date": "2026-03-25",
+      "date_added": "2026-03-31",
+      "report_url": "https://verify.janoshik.com/tests/124398-PT141_CU8DBA56R2DG"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET21",
+      "purity_pct": 99.56,
+      "mass": "11.56 mg",
+      "result_date": "2026-03-23",
+      "date_added": "2026-03-31",
+      "report_url": "https://verify.janoshik.com/tests/123380-Retatrutide_6XL5H95NCLHB"
+    },
+    {
+      "product": "GHK-Cu 70mg",
+      "batch": "GHK07",
+      "purity_pct": 99.94,
+      "mass": "66.32 mg",
+      "result_date": "2026-03-30",
+      "date_added": "2026-03-30",
+      "report_url": "https://verify.janoshik.com/tests/125047-GHKCu_77S9N4EECZ3G"
+    },
+    {
+      "product": "5-Amino-1MQ 10mg",
+      "batch": "5AM02",
+      "purity_pct": null,
+      "mass": "10.36 mg",
+      "result_date": "2026-02-04",
+      "date_added": "2026-03-30",
+      "report_url": "https://verify.janoshik.com/tests/105137-5amino1MQ_AQB5244Y1V71"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC09",
+      "purity_pct": 99.89,
+      "mass": "12.23 mg",
+      "result_date": "2026-03-24",
+      "date_added": "2026-03-24",
+      "report_url": "https://verify.janoshik.com/tests/123379-BPC157_RYQG3P2YCMYU"
+    },
+    {
+      "product": "TB-500 5mg",
+      "batch": "TB07",
+      "purity_pct": 99.742,
+      "mass": "5.87 mg",
+      "result_date": "2026-01-15",
+      "date_added": "2026-03-24",
+      "report_url": "https://verify.janoshik.com/tests/99290-TB500_TB4_R39CVCUAH4CE"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET17",
+      "purity_pct": 99.75,
+      "mass": "20.93 mg",
+      "result_date": "2026-01-15",
+      "date_added": "2026-03-24",
+      "report_url": "https://verify.janoshik.com/tests/99341-Retatrutide_RTX7IF6JUW83"
+    },
+    {
+      "product": "Tirzepatide 10mg",
+      "batch": "TZ05",
+      "purity_pct": 99.86,
+      "mass": "11.49 mg",
+      "result_date": "2026-01-07",
+      "date_added": "2026-03-20",
+      "report_url": "https://verify.janoshik.com/tests/123404-Tirzepatide_M8KKGXSBJ7LZ"
+    },
+    {
+      "product": "Tirzepatide 30mg",
+      "batch": "TZ07",
+      "purity_pct": 99.81,
+      "mass": "35.30 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-03-20",
+      "report_url": "https://verify.janoshik.com/tests/123405-Tirzepatide_7QS5N4XNPXJF"
+    },
+    {
+      "product": "Thymosin Alpha-1 12.5mg",
+      "batch": "TA02",
+      "purity_pct": 99.69,
+      "mass": "13.26 mg",
+      "result_date": "2025-12-05",
+      "date_added": "2026-03-18",
+      "report_url": "https://janoshik.com/tests/91578-Thymosin_Alpha1_UCGZDR6EBM3J"
+    },
+    {
+      "product": "BPC-157 5mg",
+      "batch": "BPC09",
+      "purity_pct": 99.88,
+      "mass": "5.84 mg",
+      "result_date": "2026-01-15",
+      "date_added": "2026-03-18",
+      "report_url": "https://verify.janoshik.com/tests/99291-BPC157_1WVYWMTL2C4V"
+    },
+    {
+      "product": "HGH (110iu Kit)",
+      "batch": "GGC32",
+      "purity_pct": 97.27,
+      "mass": "11.03 ius",
+      "result_date": "2026-01-08",
+      "date_added": "2026-03-16",
+      "report_url": "https://verify.janoshik.com/tests/97722-Human_Growth_Hormone_8MXPDC1EQMWK"
+    },
+    {
+      "product": "Melanotan-II (MT2) 10mg",
+      "batch": "MT203",
+      "purity_pct": 99.77,
+      "mass": "8.96 mg",
+      "result_date": "2026-03-09",
+      "date_added": "2026-03-09",
+      "report_url": "https://verify.janoshik.com/tests/112973-Melanotan2_CQGH6QRK44VN"
+    },
+    {
+      "product": "CJC-1295 No DAC + Ipamorelin 10mg",
+      "batch": "CJCIPA04",
+      "purity_pct": null,
+      "mass": "11.40 mg",
+      "result_date": "2026-02-05",
+      "date_added": "2026-03-01",
+      "report_url": "https://verify.janoshik.com/tests/105140-CJC1295_no_DAC_Ipamorelin_N2WTIRKQ1D9A"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET19",
+      "purity_pct": 99.55,
+      "mass": "10.02 mg",
+      "result_date": "2026-02-25",
+      "date_added": "2026-02-25",
+      "report_url": "https://verify.janoshik.com/tests/110138-Retatrutide_XNM763Y6K834"
+    },
+    {
+      "product": "GHK-Cu 70mg",
+      "batch": "GHK06",
+      "purity_pct": 99.8,
+      "mass": "68.24 mg",
+      "result_date": "2026-02-19",
+      "date_added": "2026-02-24",
+      "report_url": "https://verify.janoshik.com/tests/108811-GHKCu_7I677PDRZGL6"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES06",
+      "purity_pct": 99.89,
+      "mass": "11.91 mg",
+      "result_date": "2026-02-19",
+      "date_added": "2026-02-19",
+      "report_url": "https://janoshik.com/tests/108812-Tesamorelin_XW85ULFY4M8L"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC08-10",
+      "purity_pct": 99.72,
+      "mass": "12.53 mg",
+      "result_date": "2025-10-21",
+      "date_added": "2026-02-19",
+      "report_url": "https://verify.janoshik.com/tests/84144-BPC157_FGSX2Z7KSHAQ"
+    },
+    {
+      "product": "Cartalax 25mg",
+      "batch": "CAR01",
+      "purity_pct": 99.525,
+      "mass": "25.24 mg",
+      "result_date": "2025-12-18",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/94024-Cartalax_VTPQWE1TIRIK"
+    },
+    {
+      "product": "Melanotan-1 10mg",
+      "batch": "MT101",
+      "purity_pct": 99.759,
+      "mass": "11.07 mg",
+      "result_date": "2026-01-16",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/99324-Melanotan1_CDPUG8C9T2NW"
+    },
+    {
+      "product": "Brain Blend 6mg/6mg",
+      "batch": "COG01",
+      "purity_pct": null,
+      "mass": "13 mg",
+      "result_date": "2025-11-27",
+      "date_added": "2026-02-14",
+      "report_url": "https://janoshik.com/tests/90603-Brain_Blend_RP5YH3YVW7TL"
+    },
+    {
+      "product": "Chonluten 30mg",
+      "batch": "CHO01",
+      "purity_pct": 97.76,
+      "mass": "31.05 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/96029-Chonluten_UT24CNF329U8"
+    },
+    {
+      "product": "Cardiogen 20mg",
+      "batch": "CAR01",
+      "purity_pct": 99.53,
+      "mass": "23.93 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/96030-Cardiogen_XZCTA4ICNBVX"
+    },
+    {
+      "product": "Thymulin 15mg",
+      "batch": "THYM01",
+      "purity_pct": 99.51,
+      "mass": "15.79 mg",
+      "result_date": "2025-12-18",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/94026-Thymulin_CJRII8D4TF9P"
+    },
+    {
+      "product": "Ovagen 10mg",
+      "batch": "OVA01",
+      "purity_pct": 97.75,
+      "mass": "11.09 mg",
+      "result_date": "2026-01-16",
+      "date_added": "2026-02-14",
+      "report_url": "https://verify.janoshik.com/tests/99285-Ovagen_SCVW1BC934EI"
+    },
+    {
+      "product": "Healing Blend 6mg/6mg",
+      "batch": "BPCTB08",
+      "purity_pct": null,
+      "mass": "12.65 mg",
+      "result_date": "2026-02-12",
+      "date_added": "2026-02-12",
+      "report_url": "https://verify.janoshik.com/tests/106897-BPC157_TB500_Healing_Blend_R54P26FVZEYR"
+    },
+    {
+      "product": "BAM15 70mg Tablets",
+      "batch": "BAM01",
+      "purity_pct": null,
+      "mass": "68.5 mg",
+      "result_date": "2025-12-31",
+      "date_added": "2026-02-11",
+      "report_url": "https://verify.janoshik.com/tests/95243-BAM15_3JVSE56KJ2E3"
+    },
+    {
+      "product": "5-Amino-1MQ Tablets",
+      "batch": "5AT01",
+      "purity_pct": null,
+      "mass": "47.85 mg",
+      "result_date": "2025-12-23",
+      "date_added": "2026-02-11",
+      "report_url": "https://verify.janoshik.com/tests/94618-5Amino1MQ_BKIKE9IBPU1R"
+    },
+    {
+      "product": "Semax 10mg",
+      "batch": "SEM03",
+      "purity_pct": 98.9,
+      "mass": "13.41 mg",
+      "result_date": "2026-02-05",
+      "date_added": "2026-02-11",
+      "report_url": "https://verify.janoshik.com/tests/105621-Semax_HF715WN3MZDE"
+    },
+    {
+      "product": "CJC-1295 no DAC 10mg",
+      "batch": "CJC02",
+      "purity_pct": 99.77,
+      "mass": "12.72 mg",
+      "result_date": "2026-02-05",
+      "date_added": "2026-02-11",
+      "report_url": "https://verify.janoshik.com/tests/105144-CJC1295_no_DAC_AXFJMFK1HVZN"
+    },
+    {
+      "product": "Tirzepatide 10mg",
+      "batch": "TZ04-10",
+      "purity_pct": 99.49,
+      "mass": "11.20 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2026-02-10",
+      "report_url": "https://verify.janoshik.com/tests/79794-Tirzepatide_MCMDRSALEUR2"
+    },
+    {
+      "product": "BPC-157 Arginate 500mcg Tablets",
+      "batch": "ARG01",
+      "purity_pct": null,
+      "mass": "542 mcg",
+      "result_date": "2025-12-12",
+      "date_added": "2026-02-09",
+      "report_url": "https://verify.janoshik.com/tests/93494-BC500_BPC157_Arginate_3DW917CES62T"
+    },
+    {
+      "product": "Clenbuterol HCL 40mcgs",
+      "batch": "CLEN01",
+      "purity_pct": null,
+      "mass": "45.22 mcg",
+      "result_date": "2025-12-23",
+      "date_added": "2026-02-09",
+      "report_url": "https://janoshik.com/tests/94617-Clenbuterol_Z117RN95J6J8"
+    },
+    {
+      "product": "Telmisartan 40mg Tablets",
+      "batch": "TEL01",
+      "purity_pct": null,
+      "mass": "40.35 mg",
+      "result_date": "2025-12-30",
+      "date_added": "2026-02-09",
+      "report_url": "https://janoshik.com/tests/95248-Telmisartan_8C5YL2SGJRRT"
+    },
+    {
+      "product": "Sermorelin 10mg",
+      "batch": "SER03",
+      "purity_pct": 99.45,
+      "mass": "11.85 mg",
+      "result_date": "2025-12-18",
+      "date_added": "2026-02-05",
+      "report_url": "https://verify.janoshik.com/tests/94029-Sermorelin_5FSUJXR5I43K"
+    },
+    {
+      "product": "KLOW Blend 80mg",
+      "batch": "KLO03",
+      "purity_pct": null,
+      "mass": "108.37 mg",
+      "result_date": "2026-01-26",
+      "date_added": "2026-01-26",
+      "report_url": "https://verify.janoshik.com/tests/102114-KLOW_Blend_HAYU8JDUPGI6"
+    },
+    {
+      "product": "HGH (400iu Kit)",
+      "batch": "GGC33",
+      "purity_pct": 97.44,
+      "mass": "38.88 ius",
+      "result_date": "2026-01-26",
+      "date_added": "2026-01-26",
+      "report_url": "https://verify.janoshik.com/tests/102115-Human_Growth_Hormone_G3A5RFTSAHFE"
+    },
+    {
+      "product": "Enclomiphene Citrate Tablets",
+      "batch": "202512-01",
+      "purity_pct": null,
+      "mass": "13.18 mg",
+      "result_date": "2025-12-31",
+      "date_added": "2026-01-26",
+      "report_url": "https://verify.janoshik.com/tests/95249-Enclomiphene_125_mg_LS1CSDPWDKAJ"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS07",
+      "purity_pct": 99.762,
+      "mass": "11.81 mg",
+      "result_date": "2026-01-16",
+      "date_added": "2026-01-26",
+      "report_url": "https://verify.janoshik.com/tests/99326-MOTSC_ULGB9TD5FEAN"
+    },
+    {
+      "product": "L-Carnitine 750mg/mL 10mL",
+      "batch": "LCAR02",
+      "purity_pct": null,
+      "mass": "749.26 mg",
+      "result_date": "2026-01-20",
+      "date_added": "2026-01-20",
+      "report_url": "https://verify.janoshik.com/tests/97623-LCarnitine_2JUDACK3FHIV"
+    },
+    {
+      "product": "MOTS-C 40",
+      "batch": "MOTS06",
+      "purity_pct": 99.84,
+      "mass": "45.98 mg",
+      "result_date": "2026-01-16",
+      "date_added": "2026-01-16",
+      "report_url": "https://verify.janoshik.com/tests/99284-MOTSC_M4UVHQUTPHI7"
+    },
+    {
+      "product": "Selank 12.5mg",
+      "batch": "SEL02",
+      "purity_pct": 99.88,
+      "mass": "13.43 mg",
+      "result_date": "2025-11-27",
+      "date_added": "2026-01-16",
+      "report_url": "https://verify.janoshik.com/tests/90602-Selank_55IBCAJ9KUUL"
+    },
+    {
+      "product": "Human Menopausal Gonadotropin 75iu",
+      "batch": "HMG01",
+      "purity_pct": null,
+      "mass": "241 mcg",
+      "result_date": "2026-01-04",
+      "date_added": "2026-01-14",
+      "report_url": "https://verify.janoshik.com/tests/95808-Human_Menopausal_Gonadotropin_hMG_ZQ3DS1XBZ732"
+    },
+    {
+      "product": "Tesamorelin 20mg",
+      "batch": "TES05",
+      "purity_pct": 99.6,
+      "mass": "23.84 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-01-14",
+      "report_url": "https://verify.janoshik.com/tests/95809-Tesamorelin_2A5LCGSEGMYK"
+    },
+    {
+      "product": "Healing Blend 10mg/10mg",
+      "batch": "BPCTB07",
+      "purity_pct": null,
+      "mass": "22.54 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-01-14",
+      "report_url": "https://verify.janoshik.com/tests/95807-BP10TB10_ABZRNVJMVH4E"
+    },
+    {
+      "product": "HGH (150iu kit)",
+      "batch": "GGC31",
+      "purity_pct": 97.55,
+      "mass": "15.93 ius",
+      "result_date": "2025-12-12",
+      "date_added": "2026-01-10",
+      "report_url": "https://janoshik.com/tests/92926-Human_Growth_Hormone_74B6TJYKA9CW"
+    },
+    {
+      "product": "HGH (270iu Kit)",
+      "batch": "GGC30",
+      "purity_pct": 96.05,
+      "mass": "27.65 ius",
+      "result_date": "2025-12-10",
+      "date_added": "2026-01-10",
+      "report_url": "https://janoshik.com/tests/92444-Human_Growth_Hormone_3WUIDJYGJQPT"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC08",
+      "purity_pct": 99.72,
+      "mass": "12.53 mg",
+      "result_date": "2025-10-21",
+      "date_added": "2026-01-09",
+      "report_url": "https://janoshik.com/tests/84144-BPC157_FGSX2Z7KSHAQ"
+    },
+    {
+      "product": "GHK-Cu 50mg",
+      "batch": "GHK05",
+      "purity_pct": 99.29,
+      "mass": "64.7 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-01-07",
+      "report_url": "https://janoshik.com/tests/95969-GHKCu_BM7Q8ZK9M6ZF"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET16",
+      "purity_pct": 99.3,
+      "mass": "10.46 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-01-05",
+      "report_url": "https://janoshik.com/tests/96828-Retatrutide_ZKUJ8US6IQD5"
+    },
+    {
+      "product": "Healing Blend 6mg / 6mg",
+      "batch": "BPCTB06",
+      "purity_pct": null,
+      "mass": "7.13 mg",
+      "result_date": "2025-12-11",
+      "date_added": "2026-01-05",
+      "report_url": "https://janoshik.com/tests/93146-bt5_Healing_Blend_CFMGQXSNZ1GS"
+    },
+    {
+      "product": "SS-31 50mg",
+      "batch": "SS02",
+      "purity_pct": 99.78,
+      "mass": "50.27 mg",
+      "result_date": "2026-01-02",
+      "date_added": "2026-01-02",
+      "report_url": "https://janoshik.com/tests/96028-SS31_QMHKS712Y82P"
+    },
+    {
+      "product": "Tadalafil 20mg",
+      "batch": "TAD01",
+      "purity_pct": null,
+      "mass": "18.81 mg",
+      "result_date": "2025-12-09",
+      "date_added": "2026-01-01",
+      "report_url": "https://janoshik.com/tests/92440-T20_Tadalafil_CBR8P154LYNL"
+    },
+    {
+      "product": "Sildenafil 50mg",
+      "batch": "SIL01",
+      "purity_pct": null,
+      "mass": "48.92 mg",
+      "result_date": "2025-12-10",
+      "date_added": "2026-01-01",
+      "report_url": "https://janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ"
+    },
+    {
+      "product": "Orforglipron 6mg",
+      "batch": "OR01",
+      "purity_pct": null,
+      "mass": "6.88 mg",
+      "result_date": "2025-12-10",
+      "date_added": "2026-01-01",
+      "report_url": "https://janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLOW05",
+      "purity_pct": null,
+      "mass": "66.19 mg",
+      "result_date": "2025-12-02",
+      "date_added": "2025-12-30",
+      "report_url": "https://janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14"
+    },
+    {
+      "product": "NAD+ 500mg",
+      "batch": "NAD02",
+      "purity_pct": null,
+      "mass": "522.45 mg",
+      "result_date": "2025-12-08",
+      "date_added": "2025-12-30",
+      "report_url": "https://janoshik.com/tests/91587-NAD_SLRB4M8VP9IG"
+    },
+    {
+      "product": "5-Amino-1MQ 12.5mg",
+      "batch": "5AM01",
+      "purity_pct": null,
+      "mass": "12.72 mg",
+      "result_date": "2025-11-26",
+      "date_added": "2025-12-24",
+      "report_url": "https://janoshik.com/tests/90605-5Amino1MQ_MTI42QU9CXZK"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET14",
+      "purity_pct": 99.18,
+      "mass": "22.09 mg",
+      "result_date": "2025-11-13",
+      "date_added": "2025-12-22",
+      "report_url": "https://janoshik.com/tests/87874-Retatrutide_ETUAGIDRSLUC"
+    },
+    {
+      "product": "TB-500 10mg",
+      "batch": "TB06",
+      "purity_pct": 99.15,
+      "mass": "11.57 mg",
+      "result_date": "2025-12-18",
+      "date_added": "2025-12-21",
+      "report_url": "https://janoshik.com/tests/94417-TB500_X6AF33KU5IUX"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES04",
+      "purity_pct": 99.54,
+      "mass": "11.78 mg",
+      "result_date": "2025-12-18",
+      "date_added": "2025-12-18",
+      "report_url": "https://janoshik.com/tests/94027-Tesamorelin_HSMPUV8N74EF"
+    },
+    {
+      "product": "CJC-1295 with DAC 12.5mg",
+      "batch": "DAC01",
+      "purity_pct": 99.07,
+      "mass": "13.05 mg",
+      "result_date": "2025-11-19",
+      "date_added": "2025-12-16",
+      "report_url": "https://janoshik.com/tests/89219-CJC1295_with_DAC_15FTGD28H6PV"
+    },
+    {
+      "product": "LL-37 10mg",
+      "batch": "LL01",
+      "purity_pct": 99.62,
+      "mass": "11.37 mg",
+      "result_date": "2025-11-19",
+      "date_added": "2025-12-16",
+      "report_url": "https://janoshik.com/tests/89218-LL37_4KG9NT5CZ91J"
+    },
+    {
+      "product": "DSIP 12.5mg",
+      "batch": "DSP01",
+      "purity_pct": 99.03,
+      "mass": "12.71 mg",
+      "result_date": "2025-11-20",
+      "date_added": "2025-12-16",
+      "report_url": "https://janoshik.com/tests/89412-DSIP_WIGURMXTN6I2"
+    },
+    {
+      "product": "Kisspeptin 12.5mg",
+      "batch": "KIS01",
+      "purity_pct": 99.54,
+      "mass": "12.69 mg",
+      "result_date": "2025-11-20",
+      "date_added": "2025-12-16",
+      "report_url": "https://janoshik.com/tests/89411-Kisspeptin_K4NVUGIU1L34"
+    },
+    {
+      "product": "Ipamorelin 10mg",
+      "batch": "IPA03",
+      "purity_pct": 99.82,
+      "mass": "11.72 mg",
+      "result_date": "2025-12-11",
+      "date_added": "2025-12-15",
+      "report_url": "https://janoshik.com/tests/93162-Ipamorelin_YTPKZP3NT9S9"
+    },
+    {
+      "product": "Semax 10mg",
+      "batch": "SEM02",
+      "purity_pct": 99.61,
+      "mass": "11.7 mg",
+      "result_date": "2025-12-11",
+      "date_added": "2025-12-11",
+      "report_url": "https://janoshik.com/tests/92927-Semax_DKUPNXRHX46Q"
+    },
+    {
+      "product": "BPC-157 5mg",
+      "batch": "BPC08",
+      "purity_pct": 99.83,
+      "mass": "6.01 mg",
+      "result_date": "2025-12-10",
+      "date_added": "2025-12-11",
+      "report_url": "https://janoshik.com/tests/91580-BPC157_TUHDLB5TS8ZN"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin (hCG) 14000iu",
+      "batch": "HCG05",
+      "purity_pct": null,
+      "mass": "14590 ius",
+      "result_date": "2025-12-09",
+      "date_added": "2025-12-09",
+      "report_url": "https://janoshik.com/tests/92442-H10_hCG_T9XKW9IY9EUH"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin (hCG) 7000iu",
+      "batch": "HCG06",
+      "purity_pct": null,
+      "mass": "8014 ius",
+      "result_date": "2025-12-09",
+      "date_added": "2025-12-09",
+      "report_url": "https://janoshik.com/tests/92443-H5_hCG_GYXG1EZBBDYH"
+    },
+    {
+      "product": "NAD+ 600mg",
+      "batch": "NAD01",
+      "purity_pct": null,
+      "mass": "595 mg",
+      "result_date": "2025-09-29",
+      "date_added": "2025-12-06",
+      "report_url": "https://janoshik.com/tests/80131-NAD_HQ5RLIIW5AK1"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS05",
+      "purity_pct": 99.58,
+      "mass": "11.94 mg",
+      "result_date": "2025-12-05",
+      "date_added": "2025-12-05",
+      "report_url": "https://janoshik.com/tests/91579-MOTSC_ISQ6QTXBH4XI"
+    },
+    {
+      "product": "Tirzepatide 30mg",
+      "batch": "TZ04",
+      "purity_pct": 99.88,
+      "mass": "32.81 mg",
+      "result_date": "2025-11-27",
+      "date_added": "2025-12-05",
+      "report_url": "https://janoshik.com/tests/90604-Tirzepatide_S7Y1D4AWB273"
+    },
+    {
+      "product": "KPV 10mg",
+      "batch": "KPV02",
+      "purity_pct": 99.76,
+      "mass": "9.7 mg",
+      "result_date": "2025-11-05",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/86385-KPV_NDJHTG21ARAV"
+    },
+    {
+      "product": "GHK-Cu 70mg",
+      "batch": "GHK04",
+      "purity_pct": 99.52,
+      "mass": "72.33 mg",
+      "result_date": "2025-11-05",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/86382-GHKCu_GMLCIY37P97S"
+    },
+    {
+      "product": "IGF-1 LR3 1mg",
+      "batch": "IGF03",
+      "purity_pct": 98.39,
+      "mass": "1.20 mg",
+      "result_date": "2025-11-27",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/90606-IGF1_LR3_445TK79U8QXT"
+    },
+    {
+      "product": "SLU-PP-332 20mg Tablets",
+      "batch": "SLU02",
+      "purity_pct": null,
+      "mass": "22.21 mg",
+      "result_date": "2025-11-18",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/88497-SLUPP332_8TX4JYMGGNVQ"
+    },
+    {
+      "product": "Tadalafil 5mg Tablets",
+      "batch": "TAD02",
+      "purity_pct": null,
+      "mass": "4.97 mg",
+      "result_date": "2025-11-14",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/88496-Tadalafil_CNUHRKI25BZN"
+    },
+    {
+      "product": "Sermorelin 10mg",
+      "batch": "SER02",
+      "purity_pct": 99.65,
+      "mass": "10.53 mg",
+      "result_date": "2025-09-25",
+      "date_added": "2025-12-03",
+      "report_url": "https://janoshik.com/tests/80129-Sermorelin_ZF8QH4JW36XS"
+    },
+    {
+      "product": "L-Carnitine 750mg/mL",
+      "batch": "LCAR01",
+      "purity_pct": null,
+      "mass": "740.14 mg",
+      "result_date": "2025-08-11",
+      "date_added": "2025-11-16",
+      "report_url": "https://janoshik.com/tests/74195-LCarnitine_YCRUTRIAVJL1"
+    },
+    {
+      "product": "Retatrutide 60mg",
+      "batch": "RET15",
+      "purity_pct": 99.86,
+      "mass": "61.24 mg",
+      "result_date": "2025-10-21",
+      "date_added": "2025-11-15",
+      "report_url": "https://janoshik.com/tests/84358-Retatrutide_48E4KD8WTH76"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET13",
+      "purity_pct": 99.73,
+      "mass": "22.35 mg",
+      "result_date": "2025-11-11",
+      "date_added": "2025-11-12",
+      "report_url": "https://janoshik.com/tests/86689-Retatrutide_67J5V7B6898C"
+    },
+    {
+      "product": "KLOW Blend 80mg",
+      "batch": "KLO02",
+      "purity_pct": null,
+      "mass": "90.38 mg",
+      "result_date": "2025-11-05",
+      "date_added": "2025-11-12",
+      "report_url": "https://janoshik.com/tests/86384-KLOW_Blend_78B1VAW9LUT4"
+    },
+    {
+      "product": "HGH (450iu kit)",
+      "batch": "GGC29",
+      "purity_pct": 95.88,
+      "mass": "44.9 ius",
+      "result_date": "2025-11-04",
+      "date_added": "2025-11-10",
+      "report_url": "https://janoshik.com/tests/86198-Human_Growth_Hormone_BJ8KP17PA7SA"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET11",
+      "purity_pct": 99.52,
+      "mass": "11.79 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-11-06",
+      "report_url": "https://janoshik.com/tests/79796-Retatrutide_1AXMFWMQETW2"
+    },
+    {
+      "product": "BPC-157 / TB-500 \u201cHealing Blend\u201d",
+      "batch": "BPCTB05",
+      "purity_pct": null,
+      "mass": "10.97 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-10-27",
+      "report_url": "https://janoshik.com/tests/79785-BP5TB5_LMVYFRBJ9TEB"
+    },
+    {
+      "product": "Epitalon 10mgq",
+      "batch": "EPI03",
+      "purity_pct": 99.44,
+      "mass": "12.59 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-10-12",
+      "report_url": "https://janoshik.com/tests/79789-Epitalon_HGDSATZ3PURY"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET12",
+      "purity_pct": 99.43,
+      "mass": "22.19 mg",
+      "result_date": "2025-10-09",
+      "date_added": "2025-10-09",
+      "report_url": "https://janoshik.com/tests/81966-Retatrutide_VEITWYLFZA6F"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC06",
+      "purity_pct": 99.3,
+      "mass": "12.93 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-10-07",
+      "report_url": "https://janoshik.com/tests/79783-BPC157_LWGW44RWVSMR"
+    },
+    {
+      "product": "PT-141 10mg",
+      "batch": "PT02",
+      "purity_pct": 99.87,
+      "mass": "11.98 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-10-07",
+      "report_url": "https://janoshik.com/tests/79788-PT141_XJBHZMJK5ATG"
+    },
+    {
+      "product": "TB-500 10mg",
+      "batch": "TB05",
+      "purity_pct": 99.53,
+      "mass": "12.13 mg",
+      "result_date": "2025-09-26",
+      "date_added": "2025-09-28",
+      "report_url": "https://verify.janoshik.com/tests/80133-TB500_JDH9G6WYRB72"
+    },
+    {
+      "product": "BPC-157 5mg",
+      "batch": "BPC07",
+      "purity_pct": 99.47,
+      "mass": "5.86 mg",
+      "result_date": "2025-09-22",
+      "date_added": "2025-09-27",
+      "report_url": "https://janoshik.com/tests/79786-BPC157_199QQCG4H3Y4"
+    },
+    {
+      "product": "Ipamorelin 10mg",
+      "batch": "IPA02",
+      "purity_pct": 99.89,
+      "mass": "10.06 mg",
+      "result_date": "2025-09-25",
+      "date_added": "2025-09-26",
+      "report_url": "https://janoshik.com/tests/80135-Ipamorelin_YNWBB1NAT2W8"
+    },
+    {
+      "product": "HGH (400iu kit)",
+      "batch": "GGC28",
+      "purity_pct": 96.56,
+      "mass": "43.77 mg",
+      "result_date": "2025-09-25",
+      "date_added": "2025-09-26",
+      "report_url": "https://janoshik.com/tests/80137-Human_Growth_Hormone_7W7C3KKY5EWB"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES03",
+      "purity_pct": 99.32,
+      "mass": "10.29 mg",
+      "result_date": "2025-07-04",
+      "date_added": "2025-09-25",
+      "report_url": "https://janoshik.com/tests/70033-Tesamorelin_JQDJ6M3ZSSX7"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS04",
+      "purity_pct": 99.457,
+      "mass": "11.23 mg",
+      "result_date": "2025-09-25",
+      "date_added": "2025-09-25",
+      "report_url": "https://janoshik.com/tests/80130-MOTSC_A2HRLWTWDMPZ"
+    },
+    {
+      "product": "IGF-1 LR3 1mg",
+      "batch": "IGF02",
+      "purity_pct": 99.51,
+      "mass": "1.11 mg",
+      "result_date": "2025-09-11",
+      "date_added": "2025-09-11",
+      "report_url": "https://janoshik.com/tests/78095-IGF1_LR3_WELEMMA2S6FV"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET10",
+      "purity_pct": 99.72,
+      "mass": "23.85 mg",
+      "result_date": "2025-09-09",
+      "date_added": "2025-09-09",
+      "report_url": "https://janoshik.com/tests/77672-Retatrutide_GZEN4QSYHW64"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLOW04",
+      "purity_pct": null,
+      "mass": "66.63 mg",
+      "result_date": "2025-09-01",
+      "date_added": "2025-09-08",
+      "report_url": "https://janoshik.com/tests/76922-GLOW_Blend_E1CPQYGRYJ2K"
+    },
+    {
+      "product": "CJC-1295 No DAC + Ipamorelin 10mg",
+      "batch": "CJCIPA03",
+      "purity_pct": null,
+      "mass": "11.17 mg",
+      "result_date": "2025-08-29",
+      "date_added": "2025-09-04",
+      "report_url": "https://janoshik.com/tests/76562-CJC1295_no_DAC_Ipamorelin_Blend_PUQ715J2MRLV"
+    },
+    {
+      "product": "SLU-PP-332 200MCG",
+      "batch": null,
+      "purity_pct": null,
+      "mass": "214.31 mg",
+      "result_date": "2025-08-27",
+      "date_added": "2025-09-04",
+      "report_url": "https://janoshik.com/tests/76237-SLUPP332_NDBGUKV21WAF"
+    },
+    {
+      "product": "Selank 10mg",
+      "batch": "SEL01",
+      "purity_pct": 99.92,
+      "mass": "10.38 mg",
+      "result_date": "2025-08-29",
+      "date_added": "2025-08-30",
+      "report_url": "https://janoshik.com/tests/76563-Selank_BT83I7XGXS9V"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES03",
+      "purity_pct": 99.11,
+      "mass": "10.72 mg",
+      "result_date": "2025-08-28",
+      "date_added": "2025-08-28",
+      "report_url": "https://janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI"
+    },
+    {
+      "product": "CJC-1295 no DAC 5mg",
+      "batch": "CJC01",
+      "purity_pct": 99.41,
+      "mass": "5.22 mg",
+      "result_date": "2025-02-28",
+      "date_added": "2025-08-26",
+      "report_url": "https://janoshik.com/tests/58686-CJC1295_no_DAC_B262VWAJ697U"
+    },
+    {
+      "product": "Mazdutide 10mg",
+      "batch": "MAZ01",
+      "purity_pct": 99.64,
+      "mass": "10.70 mg",
+      "result_date": "2025-08-04",
+      "date_added": "2025-08-26",
+      "report_url": "https://janoshik.com/tests/73421-Mazdutide_DTNN3VXD2JXH"
+    },
+    {
+      "product": "Thymosin Alpha-1 12.5mg",
+      "batch": "TA01",
+      "purity_pct": 99.32,
+      "mass": "12.58 mg",
+      "result_date": "2025-08-04",
+      "date_added": "2025-08-26",
+      "report_url": "https://janoshik.com/tests/73420-ThymosinAlpha_1_ADS2CJVU3RN4"
+    },
+    {
+      "product": "KLOW Blend",
+      "batch": "KLO01",
+      "purity_pct": null,
+      "mass": "92.01 mg",
+      "result_date": "2025-08-04",
+      "date_added": "2025-08-26",
+      "report_url": "https://janoshik.com/tests/73422-KLOW_DNBQBZASM655"
+    },
+    {
+      "product": "KPV 12.5mg",
+      "batch": "KPV01",
+      "purity_pct": 99.87,
+      "mass": "13.14 mg",
+      "result_date": "2025-07-16",
+      "date_added": "2025-08-26",
+      "report_url": "https://janoshik.com/tests/71254-KPV_JYGQ7S7J61Z2"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS02",
+      "purity_pct": 99.04,
+      "mass": "10.77 mg",
+      "result_date": "2025-08-11",
+      "date_added": "2025-08-12",
+      "report_url": "https://janoshik.com/tests/74196-MOTSC_IDG4RMXYIFBS"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLOW03",
+      "purity_pct": null,
+      "mass": "60.53 mg",
+      "result_date": "2025-08-11",
+      "date_added": "2025-08-11",
+      "report_url": "https://janoshik.com/tests/74194-GLOW_ZR9Q2C6PIKH1"
+    },
+    {
+      "product": "Semaglutide 5mg",
+      "batch": "SG05",
+      "purity_pct": 99.39,
+      "mass": "5.03 mg",
+      "result_date": "2025-08-08",
+      "date_added": "2025-08-08",
+      "report_url": "https://janoshik.com/tests/73890-Semaglutide_DZ1HNV1F2DG6"
+    },
+    {
+      "product": "BPC-157 / TB-500 \u201cHealing Blend\u201d",
+      "batch": "BPCTB04",
+      "purity_pct": null,
+      "mass": "5.09 mg",
+      "result_date": "2025-08-07",
+      "date_added": "2025-08-07",
+      "report_url": "https://janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN"
+    },
+    {
+      "product": "GHK-Cu 50mg",
+      "batch": "GHK03",
+      "purity_pct": 99.98,
+      "mass": "51.9 mg",
+      "result_date": "2025-08-07",
+      "date_added": "2025-08-07",
+      "report_url": "https://janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8"
+    },
+    {
+      "product": "Cagrilintide 10mg",
+      "batch": "CAG02",
+      "purity_pct": 99.66,
+      "mass": "10.28 mg",
+      "result_date": "2025-07-16",
+      "date_added": "2025-07-23",
+      "report_url": "https://janoshik.com/tests/71255-Cagrilintide_3GYPCWPET42D"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin (hCG)",
+      "batch": "HCG04",
+      "purity_pct": null,
+      "mass": "7861 ius",
+      "result_date": "2025-07-08",
+      "date_added": "2025-07-21",
+      "report_url": "https://janoshik.com/tests/70657-Human_Chorionic_Gonadotropin_hCG_8BG786457K14"
+    },
+    {
+      "product": "Melanotan-2 (MT-2)",
+      "batch": "MT202",
+      "purity_pct": 99.73,
+      "mass": "10.60 mg",
+      "result_date": "2025-07-09",
+      "date_added": "2025-07-15",
+      "report_url": "https://janoshik.com/tests/70658-MelanotanII_MC9ZQP4WHQFB"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET08",
+      "purity_pct": 99.68,
+      "mass": "18.77 mg",
+      "result_date": "2025-07-09",
+      "date_added": "2025-07-09",
+      "report_url": "https://janoshik.com/tests/70656-Retatrutide_FP4Y98KA71RH"
+    },
+    {
+      "product": "Tirzepatide 10mg",
+      "batch": "TZ03",
+      "purity_pct": 99.74,
+      "mass": "10.57 mg",
+      "result_date": "2025-07-09",
+      "date_added": "2025-07-09",
+      "report_url": "https://janoshik.com/tests/70659-Tirzepatide_R2PSJNPFELAT"
+    },
+    {
+      "product": "BPC-157 / TB-500 \u201cHealing Blend\u201d",
+      "batch": "BPCTB02",
+      "purity_pct": null,
+      "mass": "4.89 mg",
+      "result_date": "2025-04-28",
+      "date_added": "2025-07-06",
+      "report_url": "https://janoshik.com/tests/63522-BPC157_TB500_Healing_Blend_5N8QX9WL4BBX"
+    },
+    {
+      "product": "Semaglutide 10mg",
+      "batch": "SG04",
+      "purity_pct": 99.64,
+      "mass": "10.85 mg",
+      "result_date": "2025-06-25",
+      "date_added": "2025-06-28",
+      "report_url": "https://janoshik.com/tests/68856-Semaglutide_PMTUYB4SX7P7"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET06",
+      "purity_pct": 98.45,
+      "mass": "20.79 mg",
+      "result_date": "2025-06-23",
+      "date_added": "2025-06-28",
+      "report_url": "https://janoshik.com/tests/68529-Retatrutide_6V44PDQ1Y1TY"
+    },
+    {
+      "product": "Tesamorelin 10mg",
+      "batch": "TES02",
+      "purity_pct": 99.25,
+      "mass": "10.48 mg",
+      "result_date": "2025-06-25",
+      "date_added": "2025-06-25",
+      "report_url": "https://janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC26",
+      "purity_pct": 96.27,
+      "mass": "41.43 ius",
+      "result_date": "2025-06-23",
+      "date_added": "2025-06-24",
+      "report_url": "https://janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF"
+    },
+    {
+      "product": "Semax",
+      "batch": "SEM01",
+      "purity_pct": 99.78,
+      "mass": "11.66 mg",
+      "result_date": "2025-06-23",
+      "date_added": "2025-06-24",
+      "report_url": "https://janoshik.com/tests/68528-Semax_GD7UKTV42RDF"
+    },
+    {
+      "product": "MOTS-C",
+      "batch": "MOTS01",
+      "purity_pct": 99.39,
+      "mass": "10.72 mg",
+      "result_date": "2025-05-23",
+      "date_added": "2025-06-16",
+      "report_url": "https://janoshik.com/tests/65690-MOTSC_ST831QU27QF1"
+    },
+    {
+      "product": "SS-31 60mg",
+      "batch": "S3101",
+      "purity_pct": 99.86,
+      "mass": "62.05 mg",
+      "result_date": "2025-05-15",
+      "date_added": "2025-06-14",
+      "report_url": "https://janoshik.com/tests/65168-SS31_UPNWT1NX4UBK"
+    },
+    {
+      "product": "TB-500 10mg",
+      "batch": "TB04",
+      "purity_pct": 99.45,
+      "mass": "11.10 mg",
+      "result_date": "2025-04-29",
+      "date_added": "2025-06-12",
+      "report_url": "https://janoshik.com/tests/63521-TB500_EMGVERWSYB97"
+    },
+    {
+      "product": "TB-500 5mg",
+      "batch": "TB03",
+      "purity_pct": 99.43,
+      "mass": "5.28 mg",
+      "result_date": "2025-04-29",
+      "date_added": "2025-06-12",
+      "report_url": "https://janoshik.com/tests/63520-TB500_NUFXMVU4F7PL"
+    },
+    {
+      "product": "BPC-157 / TB-500 \u201cHealing Blend\u201d 5mg/5mg",
+      "batch": "BPCTB03",
+      "purity_pct": null,
+      "mass": "5.30 mg",
+      "result_date": "2025-05-23",
+      "date_added": "2025-06-12",
+      "report_url": "https://janoshik.com/tests/65692-BPC157_TB500_Healing_Blend_K6V7CJAK8HFD"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET05",
+      "purity_pct": 99.4,
+      "mass": "10.31 mg",
+      "result_date": "2025-04-29",
+      "date_added": "2025-06-02",
+      "report_url": "https://janoshik.com/tests/63515-Retatrutide_PR53CZB488M9"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLOW02",
+      "purity_pct": null,
+      "mass": "59.8 mg",
+      "result_date": "2025-05-23",
+      "date_added": "2025-05-26",
+      "report_url": "https://janoshik.com/tests/65693-GLOW_VMS85WWL2IGQ"
+    },
+    {
+      "product": "GHK-Cu 50mg",
+      "batch": "GHK01",
+      "purity_pct": 99.9,
+      "mass": "57.75 mg",
+      "result_date": "2025-05-23",
+      "date_added": "2025-05-26",
+      "report_url": "https://janoshik.com/tests/65689-GHKCu_FJGXPWWSNXV5"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC25",
+      "purity_pct": 96.98,
+      "mass": "13.21 ius",
+      "result_date": "2025-05-16",
+      "date_added": "2025-05-24",
+      "report_url": "https://janoshik.com/tests/65169-Human_Growth_Hormone_191_rHGH_WMFDU1XXFLBZ"
+    },
+    {
+      "product": "BPC-157",
+      "batch": "BPC04",
+      "purity_pct": 99.59,
+      "mass": "5.07 mg",
+      "result_date": "2025-04-29",
+      "date_added": "2025-05-22",
+      "report_url": "https://janoshik.com/tests/63516-BPC157_316XJY3VQFWF"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC05",
+      "purity_pct": 99.77,
+      "mass": "10.53 mg",
+      "result_date": "2025-04-29",
+      "date_added": "2025-05-22",
+      "report_url": "https://janoshik.com/tests/63518-BPC157_D47WECAYUDMC"
+    },
+    {
+      "product": "Retatrutide",
+      "batch": "RET06",
+      "purity_pct": 99.6,
+      "mass": "11.19 mg",
+      "result_date": "2025-05-15",
+      "date_added": "2025-05-15",
+      "report_url": "https://janoshik.com/tests/65167-Retatrutide_1S5H7YT4EU87"
+    },
+    {
+      "product": "Semaglutide",
+      "batch": "SG03",
+      "purity_pct": 99.42,
+      "mass": "5.2 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-05-11",
+      "report_url": "https://janoshik.com/tests/56313-Semaglutide_G2ZNEHW1675W"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC23",
+      "purity_pct": 95.7,
+      "mass": "39.98 ius",
+      "result_date": "2025-03-06",
+      "date_added": "2025-03-24",
+      "report_url": "https://janoshik.com/tests/59041-Human_Growth_Hormone_191_rHGH_1UZ5K67W3Y6C"
+    },
+    {
+      "product": "Tirzepatide",
+      "batch": "TZ03",
+      "purity_pct": 99.19,
+      "mass": "10.74 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-03-15",
+      "report_url": "https://janoshik.com/tests/56319-Tirzepatide_T9BXMTNYUCPK"
+    },
+    {
+      "product": "Sermorelin",
+      "batch": "SER01",
+      "purity_pct": 99.2,
+      "mass": "5.02 mg",
+      "result_date": "2025-01-15",
+      "date_added": "2025-03-15",
+      "report_url": "https://janoshik.com/tests/55832-Sermorelin_24EKY194S89T"
+    },
+    {
+      "product": "Retatrutide",
+      "batch": "RET04",
+      "purity_pct": 99.65,
+      "mass": "12.11 mg",
+      "result_date": "2025-03-10",
+      "date_added": "2025-03-10",
+      "report_url": "https://janoshik.com/tests/59264-Retatrutide_84IMSIQUNYGH"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC24",
+      "purity_pct": 97.82,
+      "mass": "10.35 ius",
+      "result_date": "2025-03-10",
+      "date_added": "2025-03-10",
+      "report_url": "https://janoshik.com/tests/59265-Human_Growth_Hormone_191_rHGH_WDJS7YZ6EEQD"
+    },
+    {
+      "product": "PT-141",
+      "batch": "PT01",
+      "purity_pct": 99.83,
+      "mass": "11.31 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/56321-PT141_5ZDC9CHB1R22"
+    },
+    {
+      "product": "Ipamorelin",
+      "batch": "IPA01",
+      "purity_pct": 99.83,
+      "mass": "10.96 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/56320-Ipamorelin_FJBPZK9UN8S7"
+    },
+    {
+      "product": "Epitalon",
+      "batch": "EPI01",
+      "purity_pct": 99.84,
+      "mass": "11.82 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/56318-Epitalon_5DQIHUW1PFFT"
+    },
+    {
+      "product": "CJC-1295 with DAC",
+      "batch": "CJC01",
+      "purity_pct": 95.31,
+      "mass": "10.51 mg",
+      "result_date": "2025-01-22",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/56317-CJCNo_DAC_P3BCGKYMFVRL"
+    },
+    {
+      "product": "GLOW Blend",
+      "batch": "GLOW01",
+      "purity_pct": 99.99,
+      "mass": "52.87 mg",
+      "result_date": "2025-01-15",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/55834-GLOW_Blend_HHZX15K37WDY"
+    },
+    {
+      "product": "CJC-1295 No DAC + Ipamorelin Blend",
+      "batch": "CJCIPA01",
+      "purity_pct": null,
+      "mass": "9.81 mg",
+      "result_date": "2025-01-15",
+      "date_added": "2025-02-03",
+      "report_url": "https://janoshik.com/tests/55833-CJC1295_No_DAC_Ipamorelin_YLMYPZW4J22R"
+    },
+    {
+      "product": "IGF-1 LR3",
+      "batch": "IGF1",
+      "purity_pct": 99.354,
+      "mass": "1.03 mg",
+      "result_date": "2025-01-21",
+      "date_added": "2025-01-27",
+      "report_url": "https://janoshik.com/tests/56316-IGF1_LR3_BRULG5A8CLVX"
+    },
+    {
+      "product": "Semaglutide",
+      "batch": "SG02",
+      "purity_pct": 99.39,
+      "mass": "5.76 mg",
+      "result_date": "2024-12-30",
+      "date_added": "2025-01-01",
+      "report_url": "https://janoshik.com/tests/54918-Semaglutide_SB2C3PPUQAJW"
+    },
+    {
+      "product": "Tesamorelin",
+      "batch": "TES01",
+      "purity_pct": 99.205,
+      "mass": "10.77 mg",
+      "result_date": "2024-12-30",
+      "date_added": "2025-01-01",
+      "report_url": "https://janoshik.com/tests/54915-Tesamorelin_GBMI1ZWUPM5N"
+    },
+    {
+      "product": "Cagrilintide",
+      "batch": "CAG01",
+      "purity_pct": 98.37,
+      "mass": "10.31 mg",
+      "result_date": "2024-12-30",
+      "date_added": "2025-01-01",
+      "report_url": "https://janoshik.com/tests/54916-Cagrilintide_2IBDBFNLQEN4"
+    },
+    {
+      "product": "Survodutide",
+      "batch": "SUR01",
+      "purity_pct": 99.0,
+      "mass": "10.86 mg",
+      "result_date": "2024-12-30",
+      "date_added": "2025-01-01",
+      "report_url": "https://janoshik.com/tests/54914-Survodutide_6A6WR5T5BGG4"
+    },
+    {
+      "product": "Melanotan-2",
+      "batch": "MT201",
+      "purity_pct": 99.406,
+      "mass": "12.76 mg",
+      "result_date": "2024-12-30",
+      "date_added": "2025-01-01",
+      "report_url": "https://janoshik.com/tests/54917-Melanotan2_PXUAZGFDEGC1"
+    },
+    {
+      "product": "Enclomiphene Citrate Tablets",
+      "batch": "202410-01",
+      "purity_pct": null,
+      "mass": "12.51 mg",
+      "result_date": "2024-11-04",
+      "date_added": "2024-11-30",
+      "report_url": "https://janoshik.com/tests/51656-Enclomiphene_125mg_BP2UQGL8EIR7"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC21",
+      "purity_pct": 96.78,
+      "mass": "11.39 ius",
+      "result_date": "2024-11-22",
+      "date_added": "2024-11-23",
+      "report_url": "https://janoshik.com/tests/53123-Human_Growth_Hormone_191aa_rHGH_WY9ETXSKQA4R"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC22",
+      "purity_pct": 96.62,
+      "mass": "40.4 ius",
+      "result_date": "2024-11-22",
+      "date_added": "2024-11-23",
+      "report_url": "https://janoshik.com/tests/53125-Human_Growth_Hormone_191aa_rHGH_V82TRC4X1URL"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC20",
+      "purity_pct": 95.96,
+      "mass": "10.94 ius",
+      "result_date": "2024-07-08",
+      "date_added": "2024-11-21",
+      "report_url": "https://janoshik.com/tests/44982-Human_Growth_Hormone_191_rHGH_NWYQWS88HZVT"
+    },
+    {
+      "product": "BPC-157 10mg",
+      "batch": "BPC02",
+      "purity_pct": 99.44,
+      "mass": "11.82 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-12",
+      "report_url": "https://janoshik.com/tests/49495-BPC157_8PMAGRAIH6GQ"
+    },
+    {
+      "product": "BPC-157 / TB-500 \"Healing Blend\" 6mg/6mg",
+      "batch": "BPCTB01",
+      "purity_pct": null,
+      "mass": "6.5 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-12",
+      "report_url": "https://janoshik.com/tests/49493-BPC157_TB500_Healing_Blend_XCFT8FGDF8V7"
+    },
+    {
+      "product": "hCG (7000iu)",
+      "batch": "HCG02",
+      "purity_pct": null,
+      "mass": "7135 ius",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-12",
+      "report_url": "https://janoshik.com/tests/49490-Human_Chorionic_Gonadotropin_hCG_FHQT94N4SR7J"
+    },
+    {
+      "product": "hCG (14000iu)",
+      "batch": "HCG03",
+      "purity_pct": null,
+      "mass": "14493 ius",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-12",
+      "report_url": "https://janoshik.com/tests/49491-Human_Chorionic_Gonadotropin_hCG_B5N8VY61WADF"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC19",
+      "purity_pct": 95.09,
+      "mass": "26.73 ius",
+      "result_date": "2024-07-04",
+      "date_added": "2024-09-28",
+      "report_url": "https://janoshik.com/tests/44981-Human_Growth_Hormone_191_rHGH_XSZVMT2EAYKK"
+    },
+    {
+      "product": "TB-500",
+      "batch": "TB02",
+      "purity_pct": 99.2,
+      "mass": "4.87 mg",
+      "result_date": "2024-03-13",
+      "date_added": "2024-09-26",
+      "report_url": "https://janoshik.com/tests/39893-TB500_P5Q1YM2H18LS"
+    },
+    {
+      "product": "BPC-157",
+      "batch": "BPC03",
+      "purity_pct": 99.84,
+      "mass": "6.12 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-09-26",
+      "report_url": "https://janoshik.com/tests/49496-BPC157_BI6M9AQIP3AL"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC16",
+      "purity_pct": 97.33,
+      "mass": "3.98 mg",
+      "result_date": "2024-04-19",
+      "date_added": "2024-09-25",
+      "report_url": "https://janoshik.com/tests/41097-Human_Growth_Hormone_191_rHGH_ET3Q5V4RIRPJ"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC17",
+      "purity_pct": 96.59,
+      "mass": "11.1 ius",
+      "result_date": "2024-06-11",
+      "date_added": "2024-09-25",
+      "report_url": "https://janoshik.com/tests/43677-Human_Growth_Hormone_191_rHGH_8P3BQ64V5XKZ"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC18",
+      "purity_pct": 96.75,
+      "mass": "40.68 ius",
+      "result_date": "2024-06-13",
+      "date_added": "2024-09-25",
+      "report_url": "https://janoshik.com/tests/43791-Human_Growth_Hormone_191_rHGH_P2PAGMXQB7GI"
+    },
+    {
+      "product": "Semaglutide",
+      "batch": "SG01",
+      "purity_pct": 99.33,
+      "mass": "5.30 mg",
+      "result_date": "2024-03-13",
+      "date_added": "2024-09-10",
+      "report_url": "https://janoshik.com/tests/39891-Semaglutide_HSP3VPQPWUW5"
+    }
+  ]
+}
