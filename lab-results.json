@@ -1,9 +1,9 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-09-01",
+  "counted_on": "2026-09-02",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 229,
+    "total_reports": 230,
     "distinct_products": 128,
     "reports_with_purity": 171,
     "avg_purity": 99.04,
@@ -12,6 +12,15 @@
     "below_98_count": 30
   },
   "reports": [
+    {
+      "product": "KLOW Blend",
+      "batch": "KLO06",
+      "purity_pct": null,
+      "mass": "97.47 mg",
+      "result_date": "2026-07-07",
+      "date_added": "2026-09-01",
+      "report_url": "https://verify.janoshik.com/tests/203784-KLOW_Blend_3DVFZHXUVVKQ"
+    },
     {
       "product": "NAD+ 600mg",
       "batch": "NAD05",
@@ -49,15 +58,6 @@
       "report_url": "https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
     },
     {
-      "product": "Human Growth Hormone",
-      "batch": "GGC41",
-      "purity_pct": 97.68,
-      "mass": "11.36 ius",
-      "result_date": "2026-08-20",
-      "date_added": "2026-08-20",
-      "report_url": "https://verify.janoshik.com/tests/224531-Human_Growth_Hormone_T8RG65MSWEIP"
-    },
-    {
       "product": "Retatrutide",
       "batch": "RET01",
       "purity_pct": 96.27,
@@ -65,6 +65,15 @@
       "result_date": "2024-09-30",
       "date_added": "2024-10-09",
       "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
+      "product": "Human Growth Hormone",
+      "batch": "GGC41",
+      "purity_pct": 97.68,
+      "mass": "11.36 ius",
+      "result_date": "2026-08-20",
+      "date_added": "2026-08-20",
+      "report_url": "https://verify.janoshik.com/tests/224531-Human_Growth_Hormone_T8RG65MSWEIP"
     },
     {
       "product": "GHK-Cu 100mg",
