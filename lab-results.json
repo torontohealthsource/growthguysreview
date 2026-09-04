@@ -1,17 +1,26 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-09-03",
+  "counted_on": "2026-09-04",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 230,
+    "total_reports": 231,
     "distinct_products": 128,
-    "reports_with_purity": 171,
-    "avg_purity": 99.04,
+    "reports_with_purity": 172,
+    "avg_purity": 99.03,
     "min_purity": 93.844,
     "max_purity": 99.99,
-    "below_98_count": 30
+    "below_98_count": 31
   },
   "reports": [
+    {
+      "product": "Tesamorelin 20mg",
+      "batch": "TES08",
+      "purity_pct": 97.74,
+      "mass": "22.47 mg",
+      "result_date": "2026-09-01",
+      "date_added": "2026-09-02",
+      "report_url": "https://verify.janoshik.com/tests/229125-Tesamorelin_FZ1S7HFE5F3P"
+    },
     {
       "product": "KLOW Blend",
       "batch": "KLO06",
@@ -49,15 +58,6 @@
       "report_url": "https://verify.janoshik.com/tests/216018-Tadalafil_TXCDTDVITABU"
     },
     {
-      "product": "MOTS-C 10mg",
-      "batch": "MOTS08",
-      "purity_pct": 98.84,
-      "mass": "10.67 mg",
-      "result_date": "2026-08-21",
-      "date_added": "2026-08-21",
-      "report_url": "https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
-    },
-    {
       "product": "Retatrutide",
       "batch": "RET01",
       "purity_pct": 96.27,
@@ -65,6 +65,15 @@
       "result_date": "2024-09-30",
       "date_added": "2024-10-09",
       "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
+      "product": "MOTS-C 10mg",
+      "batch": "MOTS08",
+      "purity_pct": 98.84,
+      "mass": "10.67 mg",
+      "result_date": "2026-08-21",
+      "date_added": "2026-08-21",
+      "report_url": "https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
     },
     {
       "product": "Human Growth Hormone",
