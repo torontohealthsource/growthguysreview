@@ -3,10 +3,10 @@
   "counted_on": "2026-09-05",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 228,
-    "distinct_products": 128,
-    "reports_with_purity": 171,
-    "avg_purity": 99.04,
+    "total_reports": 233,
+    "distinct_products": 130,
+    "reports_with_purity": 172,
+    "avg_purity": 99.03,
     "min_purity": 93.844,
     "max_purity": 99.99,
     "below_98_count": 31
@@ -20,6 +20,15 @@
       "result_date": "2026-08-06",
       "date_added": "2026-09-04",
       "report_url": "https://verify.janoshik.com/tests/216020-Aromasin_WJMM67885R66"
+    },
+    {
+      "product": "5-Amino-1MQ 50mg",
+      "batch": "5AM03",
+      "purity_pct": null,
+      "mass": "49.88 mg",
+      "result_date": "2026-09-02",
+      "date_added": "2026-09-04",
+      "report_url": "https://verify.janoshik.com/tests/229119-5Amino1MQ_WVZH2UG6Q3RM"
     },
     {
       "product": "Tesamorelin 20mg",
@@ -49,15 +58,6 @@
       "report_url": "https://verify.janoshik.com/tests/227441-NAD_5WCKK95LIVDS"
     },
     {
-      "product": "Retatrutide 20mg",
-      "batch": "RET27",
-      "purity_pct": 99.53,
-      "mass": "21.49 mg",
-      "result_date": "2026-08-31",
-      "date_added": "2026-08-31",
-      "report_url": "https://verify.janoshik.com/tests/227444-Retatrutide_SZRQKHISG84A"
-    },
-    {
       "product": "Retatrutide",
       "batch": "RET01",
       "purity_pct": 96.27,
@@ -65,6 +65,15 @@
       "result_date": "2024-09-30",
       "date_added": "2024-10-09",
       "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
+      "product": "Retatrutide 20mg",
+      "batch": "RET27",
+      "purity_pct": 99.53,
+      "mass": "21.49 mg",
+      "result_date": "2026-08-31",
+      "date_added": "2026-08-31",
+      "report_url": "https://verify.janoshik.com/tests/227444-Retatrutide_SZRQKHISG84A"
     },
     {
       "product": "Tadalafil 20mg",
@@ -101,6 +110,15 @@
       "result_date": "2026-08-05",
       "date_added": "2026-08-20",
       "report_url": "https://verify.janoshik.com/tests/215381-Sample_100_GHKCu_JMHLART6NIKH"
+    },
+    {
+      "product": "Human Chorionic Gonadotropin 18,000iu",
+      "batch": "HCG08",
+      "purity_pct": null,
+      "mass": "18083 ius",
+      "result_date": "2026-07-10",
+      "date_added": "2026-08-15",
+      "report_url": "https://verify.janoshik.com/tests/203792-Human_Chorionic_Gonadtropin_hCG_EYEP6E5MID5C"
     },
     {
       "product": "Human Chorionic Gonadotropin 8500iu",
@@ -218,6 +236,15 @@
       "result_date": "2026-07-30",
       "date_added": "2026-08-01",
       "report_url": "https://verify.janoshik.com/tests/212502-Sample_23_Retatrutide_8BYAWCM8X7MH"
+    },
+    {
+      "product": "Healing Blend 10mg/10mg",
+      "batch": "BPCTB10",
+      "purity_pct": null,
+      "mass": "20.39 mg",
+      "result_date": "2026-07-29",
+      "date_added": "2026-07-30",
+      "report_url": "https://verify.janoshik.com/tests/211380-BPC157_TB500_Healing_Blend_X2D658D9FRGI"
     },
     {
       "product": "Human Growth Hormone",
@@ -479,6 +506,15 @@
       "result_date": "2026-04-16",
       "date_added": "2026-04-23",
       "report_url": "https://verify.janoshik.com/tests/147606-Human_Growth_Hormone_Z4URN5QA5E42"
+    },
+    {
+      "product": "IGF-1 LR3 1mg",
+      "batch": "IGF04",
+      "purity_pct": 98.38,
+      "mass": "1.02 mg",
+      "result_date": "2026-02-05",
+      "date_added": "2026-04-23",
+      "report_url": "https://verify.janoshik.com/tests/105133-IGF1_LR3_6GCXHSQRFZ9L"
     },
     {
       "product": "Human Growth Hormone",
@@ -1055,6 +1091,15 @@
       "result_date": "2025-12-02",
       "date_added": "2025-12-30",
       "report_url": "https://janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14"
+    },
+    {
+      "product": "NAD+ 500mg",
+      "batch": "NAD02",
+      "purity_pct": null,
+      "mass": "522.45 mg",
+      "result_date": "2025-12-08",
+      "date_added": "2025-12-30",
+      "report_url": "https://janoshik.com/tests/91587-NAD_SLRB4M8VP9IG"
     },
     {
       "product": "5-Amino-1MQ 12.5mg",
