@@ -21,14 +21,176 @@ footer{margin-top:52px;padding-top:18px;border-top:1px solid #e3e8e6;font-size:.
 .cta{display:inline-block;background:#125e6b;color:#fff;text-decoration:none;padding:11px 20px;border-radius:4px;font-weight:600;margin:8px 0}
 @media(prefers-color-scheme:dark){body{background:#0d1413;color:#e6ecea}nav{border-color:#26302e}
 .lead{background:#141c1b;border-left-color:#63becd}h1,h2{color:#e6ecea}th{background:#1b2523;color:#93a29e}
-th,td,footer{border-color:#26302e}footer{color:#93a29e}.chip,.cta{background:#63becd;color:#0d1413}nav a{color:#63becd}}</style>
+th,td,footer{border-color:#26302e}footer{color:#93a29e}.chip,.cta{background:#63becd;color:#0d1413}nav a{color:#63becd}
+.masthead{border-color:#26302e}.kicker{color:#93a29e}.card{background:#141c1b;border-color:#26302e}
+.guides a{color:#63becd}.why h3{color:#e6ecea}}
+/* --- publication layout, added 2026-09-05. Presentation only. The site read as a bare
+   list of records; this gives it the structure of a publication without removing a
+   single word, heading, link or schema node. seo_snapshot.py enforces that. --- */
+body{max-width:920px}
+.masthead{display:flex;align-items:baseline;justify-content:space-between;gap:16px;
+padding-bottom:10px;border-bottom:2px solid #125e6b;margin-bottom:8px;flex-wrap:wrap}
+.masthead .brand{font-size:1.12rem;font-weight:700;letter-spacing:-.01em}
+.masthead .tag{font-size:.82rem;color:#5a6866}
+.kicker{font-size:.72rem;text-transform:uppercase;letter-spacing:.11em;color:#5a6866;font-weight:700;margin:0 0 6px}
+h1{font-size:2.1rem;letter-spacing:-.02em}
+h2{font-size:1.28rem;letter-spacing:-.01em;padding-top:6px}
+.card{border:1px solid #e3e8e6;border-radius:10px;padding:18px 20px;margin:18px 0;background:#fcfdfd}
+.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:14px;margin:16px 0}
+.why h3{font-size:.98rem;margin:0 0 6px}
+.why p{margin:0;font-size:.92rem;color:#3d4b48}
+.guides{columns:2;column-gap:26px;font-size:.93rem;margin:12px 0}
+.guides a{display:block;margin:0 0 7px;color:#125e6b;text-decoration:none;break-inside:avoid}
+.guides a:hover{text-decoration:underline}
+@media(max-width:640px){.guides{columns:1}}
+.wrap{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:34px;align-items:start}
+.rail{position:sticky;top:18px;font-size:.9rem}
+.rail .box{border:1px solid #e3e8e6;border-radius:10px;padding:14px 16px;margin:0 0 14px;background:#fcfdfd}
+.rail h3{font-size:.74rem;text-transform:uppercase;letter-spacing:.1em;color:#5a6866;margin:0 0 9px}
+.rail dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:4px 10px}
+.rail dt{color:#5a6866}.rail dd{margin:0;font-weight:600;text-align:right}
+.rail a{display:block;color:#125e6b;text-decoration:none;margin:0 0 6px}
+.rail a:hover{text-decoration:underline}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}.rail{position:static}}
+@media(prefers-color-scheme:dark){.rail .box{background:#141c1b;border-color:#26302e}
+.rail a{color:#63becd}.rail h3,.rail dt{color:#93a29e}}
+/* --- landing design, 2026-09-05. Presentation only; seo_snapshot.py proves no text,
+   heading, link or schema node was lost. Type and space do the work — no images, no
+   webfonts, no JS, so Core Web Vitals stay untouched. --- */
+:root{--ink:#0b1211;--mut:#5c6b68;--line:#e6ebe9;--accent:#0f5f6b;--soft:#f5f9f8}
+body{max-width:none;padding:0;font-size:17px;-webkit-font-smoothing:antialiased}
+.shell{max-width:1080px;margin:0 auto;padding:0 28px}
+.masthead{max-width:1080px;margin:0 auto;padding:20px 28px 12px;border:0}
+nav{max-width:1080px;margin:0 auto;padding:0 28px 16px;border-bottom:1px solid var(--line)}
+.hero{padding:76px 0 60px;border-bottom:1px solid var(--line);
+background:radial-gradient(120% 140% at 12% 0%,#f2fbfb 0%,#ffffff 62%)}
+.hero .kicker{color:var(--accent)}
+.hero h1{font-size:clamp(2.3rem,5.2vw,3.9rem);line-height:1.04;letter-spacing:-.035em;
+margin:0 0 22px;max-width:17ch;font-weight:680}
+.hero .lead{background:none;border:0;padding:0;margin:0 0 30px;font-size:clamp(1.05rem,1.9vw,1.32rem);
+line-height:1.55;color:var(--mut);max-width:60ch}
+.hero .lead b,.hero .lead strong{color:var(--ink)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:1px;
+background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:38px 0 0}
+.stats div{background:#fff;padding:18px 20px}
+.stats .n{font-size:1.6rem;font-weight:680;letter-spacing:-.02em;display:block;line-height:1.1}
+.stats .l{font-size:.79rem;color:var(--mut);display:block;margin-top:5px}
+.section{padding:60px 0;border-bottom:1px solid var(--line)}
+.section h2{font-size:clamp(1.5rem,2.6vw,2.05rem);letter-spacing:-.025em;margin:0 0 10px;font-weight:660}
+.section .sub{color:var(--mut);max-width:62ch;margin:0 0 26px;font-size:1.03rem}
+.why{grid-template-columns:repeat(auto-fit,minmax(232px,1fr));gap:22px}
+.why>div{border:1px solid var(--line);border-radius:14px;padding:22px;background:#fff}
+.why h3{font-size:1.02rem;font-weight:640;letter-spacing:-.01em}
+.why p{color:var(--mut);font-size:.95rem;line-height:1.6}
+.cta{background:var(--ink);border-radius:999px;padding:13px 26px;font-size:.97rem}
+@media(prefers-color-scheme:dark){
+:root{--ink:#f2f6f5;--mut:#98a7a3;--line:#232d2b;--accent:#5ec6d4;--soft:#111917}
+.hero{background:radial-gradient(120% 140% at 12% 0%,#10201f 0%,#0d1413 62%)}
+.stats div,.why>div{background:#111917}
+.cta{background:#5ec6d4;color:#08100f}}
+
+/* --- motion layer, 2026-09-05, deliberately conservative.
+   Pierre: SEO and dominating every browser is the ONLY priority; anything I cannot be
+   certain is free of cost does not ship. So this layer is hover-and-scroll only.
+
+   WHAT WAS REMOVED, and why, so nobody re-adds it:
+   - Scroll-driven reveals (animation-timeline:view). Googlebot renders in Chromium,
+     which supports them, and it does NOT scroll — it renders at a tall viewport. Content
+     below that fold would be captured mid-animation at low opacity, and Google may
+     discount what it renders as hidden. Unprovable either way, therefore out.
+   - An infinitely animating blurred gradient. A large blurred layer repainting forever is
+     real GPU work on a weak phone and INP is a ranking signal. The identical look is
+     available as a static gradient for nothing.
+
+   WHAT IS HERE, and why it is certain:
+   - :hover transitions on transform and box-shadow. They fire only on deliberate user
+     input, never during render, and cannot change what a crawler sees.
+   - A scroll-snap panel rail. Ordinary visible HTML in an overflow container, indexed
+     normally; nothing is hidden and no script is involved.
+   - A static gradient. Paints once.
+   Still 0 scripts, 0 stylesheets, 0 webfonts, 0 images, and no keyframes at all. --- */
+html{scroll-behavior:smooth}
+.hero{position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:-40% -10% auto -10%;height:150%;
+background:
+ radial-gradient(38% 44% at 18% 22%,rgba(15,95,107,.16),transparent 62%),
+ radial-gradient(32% 40% at 82% 12%,rgba(94,198,212,.15),transparent 64%),
+ radial-gradient(30% 38% at 62% 78%,rgba(15,95,107,.10),transparent 66%);
+filter:blur(12px);z-index:-1;transform:translate3d(0,0,0)}
+/* static by design — see the note above */
+.stats div,.why>div,.rail .box{transition:transform .45s cubic-bezier(.22,1,.36,1),
+box-shadow .45s cubic-bezier(.22,1,.36,1),border-color .3s ease}
+.why>div:hover,.stats div:hover{transform:translateY(-4px);
+box-shadow:0 14px 40px -18px rgba(11,18,17,.28);border-color:#cfdcd9}
+.cta{transition:transform .3s cubic-bezier(.22,1,.36,1),box-shadow .3s ease;position:relative}
+.cta:hover{transform:translateY(-2px) scale(1.015);box-shadow:0 16px 34px -14px rgba(11,18,17,.5)}
+.rail .box:hover{border-color:#cfdcd9}
+/* sliding panel rail — a real horizontal scroller with snap, no library */
+.panels{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(272px,332px);gap:18px;
+overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 2px 20px;margin:0 -2px;
+scrollbar-width:thin;overscroll-behavior-x:contain}
+.panels>*{scroll-snap-align:start}
+.panels::-webkit-scrollbar{height:8px}
+.panels::-webkit-scrollbar-thumb{background:#d7e0de;border-radius:99px}
+.panel{display:flex;flex-direction:column;gap:9px;justify-content:space-between;
+text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:16px;
+padding:22px;min-height:172px;background:#fff;
+transition:transform .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1)}
+.panel:hover{transform:translateY(-5px);box-shadow:0 18px 44px -20px rgba(11,18,17,.3)}
+.panel .pk{font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);font-weight:700}
+.panel .pt{font-size:1.12rem;line-height:1.3;letter-spacing:-.015em;font-weight:620}
+.panel .pm{font-size:.84rem;color:var(--mut)}
+/* --- composition pass, 2026-09-05. Still zero SEO cost: no scripts, no webfonts, no
+   images, no animation. Type, space, depth and inline SVG only. Inline SVG is not a
+   network request, so it cannot affect LCP. --- */
+.hero{padding:84px 0 72px}
+.heroGrid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(300px,.85fr);
+gap:56px;align-items:center}
+.hero h1{max-width:none;font-size:clamp(2.4rem,4.3vw,3.55rem);font-weight:700;
+letter-spacing:-.042em;line-height:1.02}
+.hero .lead{font-size:1.1rem;max-width:52ch}
+.brandline{font-size:clamp(1.12rem,1.7vw,1.4rem);line-height:1.42;letter-spacing:-.015em;
+color:var(--ink);max-width:34ch;margin:0 0 20px;font-weight:520}
+.brandline b{font-weight:700}
+.heroCard{border:1px solid var(--line);border-radius:20px;padding:26px 28px;background:#fff;
+box-shadow:0 30px 70px -40px rgba(11,18,17,.42),0 2px 6px -2px rgba(11,18,17,.06)}
+.heroCard .hc{display:flex;align-items:center;gap:9px;font-size:.73rem;font-weight:700;
+text-transform:uppercase;letter-spacing:.13em;color:var(--accent);margin:0 0 16px}
+.heroCard dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:11px 14px;font-size:.96rem}
+.heroCard dt{color:var(--mut)}
+.heroCard dd{margin:0;text-align:right;font-weight:640;letter-spacing:-.01em}
+.heroCard .big{font-size:1.34rem}
+.heroCard .rule{grid-column:1/-1;height:1px;background:var(--line);margin:3px 0}
+.badge{display:inline-flex;align-items:center;gap:6px;background:#e8f6ee;color:#0d5132;
+padding:4px 11px;border-radius:999px;font-size:.79rem;font-weight:700;letter-spacing:.01em}
+.kicker{display:flex;align-items:center;gap:9px}
+.kicker::before{content:"";width:26px;height:2px;background:currentColor;border-radius:2px}
+.stats{border-radius:18px;margin-top:52px}
+.stats div{padding:22px 24px}
+.stats .n{font-size:1.85rem;letter-spacing:-.03em}
+.section{padding:76px 0}
+.section h2{font-weight:680}
+.why>div{border-radius:18px;padding:26px}
+.why h3{display:flex;align-items:center;gap:9px}
+.tick{flex:0 0 auto;width:19px;height:19px;color:var(--accent)}
+@media(max-width:900px){.heroGrid{grid-template-columns:1fr;gap:34px}}
+@media(prefers-color-scheme:dark){.heroCard{background:#111917}
+.badge{background:#0f2e1f;color:#8fe3b4}}
+
+@media(prefers-color-scheme:dark){.panel{background:#111917}}
+
+</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "Growth Guys Lab Results: All 228 Janoshik Reports, Analysed (September 5, 2026)", "description": "Every Janoshik lab report Growth Guys publishes, counted and averaged: 228 reports across 128 products, average purity 99.04%. Each links to the lab's own verification page.", "url": "https://growthguysreview.ca/lab-results.html", "dateModified": "2026-09-05T00:01:33-04:00", "inLanguage": "en-CA", "about": {"@type": "Organization", "@id": "https://growthguyscanada.ca/#growth-guys", "name": "Growth Guys", "alternateName": ["Growth Guys Canada", "GrowthGuys", "Growth Guys CA"], "url": "https://growthguys.com", "areaServed": "CA", "description": "Canadian research-peptide and HGH vendor shipping domestically in Canada, with third-party batch testing by Janoshik Analytical.", "disambiguatingDescription": "Growth Guys (growthguys.com) is a Canadian research-peptide vendor shipping domestically within Canada. It is a different company from The Growth Guy (thegrowthguy.net, executive coaching), Growth Supplements (Brazilian sports nutrition), and Grow Guys (growguys.co.uk). Discount codes for those brands do not work at growthguys.com.", "knowsAbout": ["research peptides", "third-party batch testing", "Janoshik Analytical", "domestic Canadian shipping"]}, "publisher": {"@type": "Organization", "@id": "https://growthguysreview.ca/#healthylife10-reddit-check", "name": "The HEALTHYLIFE10 Reddit Check", "url": "https://growthguysreview.ca/", "description": "Checks the Growth Guys discount codes named on Reddit against a live cart, and publishes the dated result including failures."}, "isPartOf": {"@type": "WebSite", "@id": "https://growthguysreview.ca/#healthylife10-reddit-check#site", "name": "The HEALTHYLIFE10 Reddit Check", "url": "https://growthguysreview.ca/", "publisher": {"@id": "https://growthguysreview.ca/#healthylife10-reddit-check"}}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How many lab tests has Growth Guys published?", "acceptedAnswer": {"@type": "Answer", "text": "228 Janoshik reports covering 128 distinct products, with test dates spanning 2024-03-13 to 2026-09-01. The most recent was added 2026-09-04."}}, {"@type": "Question", "name": "What is the average purity of Growth Guys products?", "acceptedAnswer": {"@type": "Answer", "text": "99.04% across the 171 published reports that state a purity figure, ranging from 93.844% to 99.99%. 31 came in below 98%."}}, {"@type": "Question", "name": "Are Growth Guys lab results independently verifiable?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Each report links to janoshik.com, the testing lab's own domain, rather than to a PDF hosted by the vendor. Match the batch code on the report to the batch code on your vial."}}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://growthguysreview.ca/lab-results.html#dataset","name":"Growth Guys published Janoshik lab reports, counted (September 5, 2026)","description":"Every third-party lab report Growth Guys publishes through Janoshik Analytical, counted and aggregated: 228 reports across 128 products, 171 stating a purity figure, average 99.04%, range 93.844% to 99.99%, including the 31 below 98%.","url":"https://growthguysreview.ca/lab-results.html","dateModified":"2026-09-05T00:01:33-04:00","isAccessibleForFree":true,"license":"https://creativecommons.org/licenses/by/4.0/","creator":{"@type":"Organization","name":"Growth Guys Review","url":"https://growthguysreview.ca"},"measurementTechnique":"Aggregation of published third-party assay reports","variableMeasured":[{"@type":"PropertyValue","name":"purity_pct","minValue":93.844,"maxValue":99.99},{"@type":"PropertyValue","name":"batch"},{"@type":"PropertyValue","name":"result_date"}],"distribution":[{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://growthguysreview.ca/lab-results.csv"},{"@type":"DataDownload","encodingFormat":"application/json","contentUrl":"https://growthguysreview.ca/lab-results.json"}]}</script></head><body>
+<div class="masthead"><span class="brand">Growth Guys Review &mdash; Independent Lab Record</span><span class="tag">Janoshik-tested batches &middot; TorontoHealth</span></div>
 <nav><a href="/">Promo code on Reddit</a><a href="/is-growth-guys-legit.html">Is it legit?</a><a href="/does-the-code-work.html">Does the code work?</a><a href="/reddit-reports.html">Reddit reports</a><a href="/lab-results.html">Lab results</a><a href="/forum-reputation.html">Forum record</a><a href="/verification-log.html">Verification log</a></nav>
-<h1>Growth Guys lab results — all 228 Janoshik reports, analysed</h1>
+<div class="shell"><h1>Growth Guys lab results — all 228 Janoshik reports, analysed</h1></div>
+<div class="shell"><div class="wrap"><div>
 <p class="lead">Cart-tested on September 5, 2026 at Growth Guys (growthguys.com): <span class='chip'>HEALTHYLIFE10</span> took <b>$16.00 CAD</b> off a <b>$160.00 CAD</b> cart (BAM15 Tablets) &mdash; exactly 10% off, with no minimum purchase and no product exclusions.</p>
+
 <h2>What the whole set actually shows</h2><p>Growth Guys publishes its third-party lab reports through Janoshik Analytical, an independent testing lab. Anyone can read them one at a time on the vendor's own site. Nobody, as far as we can find, has counted them &mdash; so we did. These are the aggregate figures across every report published as of September 5, 2026.</p><table><tr><th>Measure</th><th>Value</th></tr><tr><td>Reports published</td><td><b>228</b></td></tr><tr><td>Distinct products tested</td><td><b>128</b></td></tr><tr><td>Reports stating a purity figure</td><td>171</td></tr><tr><td><b>Average purity across those</b></td><td><b>99.04%</b></td></tr><tr><td>Range</td><td>93.844% to 99.99%</td></tr><tr><td>At or above 98% purity</td><td>140 of 171</td></tr><tr><td>Below 98% purity</td><td>31 of 171</td></tr><tr><td>Test dates span</td><td>2024-03-13 to 2026-09-01</td></tr><tr><td>Most recent report added</td><td>2026-09-04</td></tr></table><h2>Why we publish the 31 that came in under 98%</h2><p>Because leaving them out would make the other 140 worthless. A vendor page showing nothing but perfect scores tells you only which results were selected for display. The useful number is the whole distribution: 99.04% average with a floor of 93.844% across 171 reports is a stronger statement than any single certificate, precisely because it includes the weaker ones. Every figure in the table above is recomputed from the vendor's published set each time this page rebuilds.</p><h2>How to check any of this yourself</h2><p>Each row below links to the report on <b>janoshik.com</b> &mdash; the testing lab's own domain, not a PDF hosted by the vendor and not a screenshot. That distinction is the entire point: a certificate served from the seller's own server can be anything, while a record on the lab's site was written by the lab. Match the batch code on the report to the batch code on the vial you were actually sent; a report for a different batch tells you nothing about yours.</p><h2>The 25 most recently published reports</h2><table><tr><th>Added</th><th>Product</th><th>Batch</th><th>Purity</th><th>Mass</th><th>Source</th></tr><tr><td>2026-09-04</td><td>Aromasin 12.5mg</td><td>EXE01</td><td>—</td><td>13.35 mg</td><td><a href='https://verify.janoshik.com/tests/216020-Aromasin_WJMM67885R66' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-09-02</td><td>Tesamorelin 20mg</td><td>TES08</td><td>97.74%</td><td>22.47 mg</td><td><a href='https://verify.janoshik.com/tests/229125-Tesamorelin_FZ1S7HFE5F3P' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-09-01</td><td>KLOW Blend</td><td>KLO06</td><td>—</td><td>97.47 mg</td><td><a href='https://verify.janoshik.com/tests/203784-KLOW_Blend_3DVFZHXUVVKQ' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-31</td><td>NAD+ 600mg</td><td>NAD05</td><td>—</td><td>602.01 mg</td><td><a href='https://verify.janoshik.com/tests/227441-NAD_5WCKK95LIVDS' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-31</td><td>Retatrutide 20mg</td><td>RET27</td><td>99.53%</td><td>21.49 mg</td><td><a href='https://verify.janoshik.com/tests/227444-Retatrutide_SZRQKHISG84A' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-28</td><td>Tadalafil 20mg</td><td>TAD04</td><td>—</td><td>20.91 mg</td><td><a href='https://verify.janoshik.com/tests/216018-Tadalafil_TXCDTDVITABU' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-21</td><td>MOTS-C 10mg</td><td>MOTS08</td><td>98.84%</td><td>10.67 mg</td><td><a href='https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-20</td><td>Human Growth Hormone</td><td>GGC41</td><td>97.68%</td><td>11.36 ius</td><td><a href='https://verify.janoshik.com/tests/224531-Human_Growth_Hormone_T8RG65MSWEIP' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-20</td><td>GHK-Cu 100mg</td><td>—</td><td>99.51%</td><td>95.57 mg</td><td><a href='https://verify.janoshik.com/tests/215381-Sample_100_GHKCu_JMHLART6NIKH' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Human Chorionic Gonadotropin 8500iu</td><td>HCG07</td><td>—</td><td>8619 ius</td><td><a href='https://verify.janoshik.com/tests/203789-Human_Chorionic_Gonadtropin_hCG_7DXIFVN9R585' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Eloralintide 10mg</td><td>ELO01</td><td>99.54%</td><td>12.74 mg</td><td><a href='https://verify.janoshik.com/tests/216570-Eloralintide_8H57M96DX4XH' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Thymosin Alpha-1 12.5mg</td><td>TA03</td><td>99.74%</td><td>11.47 mg</td><td><a href='https://verify.janoshik.com/tests/216567-Thymosin_Alpha1_SGD8S2GYEYNN' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>PT-141 10mg</td><td>PT04</td><td>99.48%</td><td>11.30 mg</td><td><a href='https://verify.janoshik.com/tests/216564-PT141_MHUV6L8TJXUU' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Kisspeptin 5mg</td><td>KIS02</td><td>99.76%</td><td>5.11 mg</td><td><a href='https://verify.janoshik.com/tests/211386-Kisspeptin_DMVTAWS4LAGQ' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>CJC-1295 with DAC 5mg</td><td>DAC02</td><td>98.99%</td><td>6.01 mg</td><td><a href='https://verify.janoshik.com/tests/212511-Sample_97_CJC1295_with_DAC_24U6G1Y3KPYU' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Selank 10mg</td><td>SEL04</td><td>99.85%</td><td>11.21 mg</td><td><a href='https://verify.janoshik.com/tests/212505-Sample_42_Selank_8USUYMVKBPWW' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-15</td><td>Melanotan 1 (MT-1) 10mg</td><td>MT101</td><td>99.65%</td><td>10.64 mg</td><td><a href='https://verify.janoshik.com/tests/212499-Sample_M1_Melanotan1_6EXSEGV1I8GT' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-11</td><td>Ipamorelin</td><td>IPA04</td><td>99.88%</td><td>11.06 mg</td><td><a href='https://verify.janoshik.com/tests/216558-Ipamorelin_CJCPSTJ4XI8H' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-07</td><td>Brain Blend Semax/Selank 6mg/6mg</td><td>COG02</td><td>—</td><td>12.18 mg</td><td><a href='https://verify.janoshik.com/tests/216561-Brain_Blend_E73H7LB978VX' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-07</td><td>GHK-Cu 50mg</td><td>GHK10</td><td>99.66%</td><td>48.81 mg</td><td><a href='https://verify.janoshik.com/tests/215378-Sample_50_GHKCu_75FV6BK9NT94' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-05</td><td>BPC-157 10mg</td><td>BPC10</td><td>98.51%</td><td>11.22 mg</td><td><a href='https://verify.janoshik.com/tests/212938-BPC157_YMH3UQVGGN1W' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-08-01</td><td>Retatrutide 60mg</td><td>RET25</td><td>99.55%</td><td>68.33 mg</td><td><a href='https://verify.janoshik.com/tests/212502-Sample_23_Retatrutide_8BYAWCM8X7MH' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-07-30</td><td>Human Growth Hormone</td><td>GGC40</td><td>96.94%</td><td>43.31 ius</td><td><a href='https://verify.janoshik.com/tests/212941-Human_Growth_Hormone_9I9N3V554DC3' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-07-30</td><td>Human Growth Hormone</td><td>GGC39</td><td>96.57%</td><td>42.62 ius</td><td><a href='https://verify.janoshik.com/tests/210348-Human_Growth_Hormone_KFDHWLCC3RFI' rel='nofollow'>Janoshik report</a></td></tr><tr><td>2026-07-28</td><td>Tirzepatide 10mg</td><td>TZ07</td><td>99.51%</td><td>10.62 mg</td><td><a href='https://verify.janoshik.com/tests/211383-Tirzepatide_BABRVF2SLNFC' rel='nofollow'>Janoshik report</a></td></tr></table><p><a href='https://growthguys.com/lab-results/' rel='nofollow'>The vendor's full lab-results index &rarr;</a></p><h2>Methodology &mdash; how this was counted</h2><p>Stated plainly so anyone can reproduce it or find fault with it.</p><ul><li><b>Source.</b> Every page of the vendor's public lab-results index, paginated until two consecutive empty pages. No fixed page cap &mdash; an earlier version capped at 46 pages and silently under-counted as the set grew.</li><li><b>Counted on.</b> September 5, 2026. Recounted from scratch on every rebuild, not carried forward.</li><li><b>What counts as a report.</b> One published Janoshik entry. 228 total.</li><li><b>What counts toward the average.</b> Only the 171 reports that state a purity figure. The remaining 57 report mass or identity without a purity percentage, so averaging them in would be inventing data.</li><li><b>Nothing is excluded for being unflattering.</b> The 31 results below 98% and the 93.844% floor are in the average and in the downloads.</li><li><b>Not independently re-tested.</b> We counted and computed; we did not commission our own assays. This is an audit of what is published, not a verification of the substances.</li></ul><h2>Download the full set</h2><p>All 228 rows, including every report below 98%. Free to reuse with attribution.</p><ul><li><a href='/lab-results.csv'>lab-results.csv</a> &mdash; all 228 rows</li><li><a href='/lab-results.json'>lab-results.json</a> &mdash; same data plus the computed totals</li></ul>
 <h2>Questions people actually ask</h2><h3 style='font-size:1rem;margin:20px 0 6px'>How many lab tests has Growth Guys published?</h3><p>228 Janoshik reports covering 128 distinct products, with test dates spanning 2024-03-13 to 2026-09-01. The most recent was added 2026-09-04.</p><h3 style='font-size:1rem;margin:20px 0 6px'>What is the average purity of Growth Guys products?</h3><p>99.04% across the 171 published reports that state a purity figure, ranging from 93.844% to 99.99%. 31 came in below 98%.</p><h3 style='font-size:1rem;margin:20px 0 6px'>Are Growth Guys lab results independently verifiable?</h3><p>Yes. Each report links to janoshik.com, the testing lab's own domain, rather than to a PDF hosted by the vendor. Match the batch code on the report to the batch code on your vial.</p>
+</div></div></div>
 <p><a class="cta" href="https://growthguys.com">Shop at growthguys.com &rarr;</a></p>
 <footer>Cart figures on this site come from an automated guest-cart test against growthguys.com, re-run daily and retained in the <a href="/verification-log.html">verification log</a>. No order is submitted and no payment is entered. Reddit threads are linked, not reproduced. For research and educational purposes only. Not medical advice.</footer>
 </body></html>
