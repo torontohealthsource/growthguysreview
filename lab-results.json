@@ -1,15 +1,15 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-09-07",
+  "counted_on": "2026-09-08",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 233,
-    "distinct_products": 130,
-    "reports_with_purity": 172,
+    "total_reports": 226,
+    "distinct_products": 128,
+    "reports_with_purity": 166,
     "avg_purity": 99.03,
     "min_purity": 93.844,
     "max_purity": 99.99,
-    "below_98_count": 31
+    "below_98_count": 30
   },
   "reports": [
     {
@@ -400,15 +400,6 @@
       "report_url": "https://verify.janoshik.com/tests/193863-KLOW_Blend_ZZ2SQN16VYHX"
     },
     {
-      "product": "Retatrutide 10mg",
-      "batch": "RET23",
-      "purity_pct": 99.69,
-      "mass": "10.99 mg",
-      "result_date": "2026-06-29",
-      "date_added": "2026-06-30",
-      "report_url": "https://verify.janoshik.com/tests/200510-Retatrutide_QF96WVK2V1NW"
-    },
-    {
       "product": "Tesamorelin 10mg",
       "batch": "TES07",
       "purity_pct": 99.86,
@@ -715,15 +706,6 @@
       "report_url": "https://verify.janoshik.com/tests/105140-CJC1295_no_DAC_Ipamorelin_N2WTIRKQ1D9A"
     },
     {
-      "product": "Retatrutide 10mg",
-      "batch": "RET19",
-      "purity_pct": 99.55,
-      "mass": "10.02 mg",
-      "result_date": "2026-02-25",
-      "date_added": "2026-02-25",
-      "report_url": "https://verify.janoshik.com/tests/110138-Retatrutide_XNM763Y6K834"
-    },
-    {
       "product": "GHK-Cu 70mg",
       "batch": "GHK06",
       "purity_pct": 99.8,
@@ -848,15 +830,6 @@
       "result_date": "2026-02-05",
       "date_added": "2026-02-11",
       "report_url": "https://verify.janoshik.com/tests/105621-Semax_HF715WN3MZDE"
-    },
-    {
-      "product": "CJC-1295 no DAC 10mg",
-      "batch": "CJC02",
-      "purity_pct": 99.77,
-      "mass": "12.72 mg",
-      "result_date": "2026-02-05",
-      "date_added": "2026-02-11",
-      "report_url": "https://verify.janoshik.com/tests/105144-CJC1295_no_DAC_AXFJMFK1HVZN"
     },
     {
       "product": "Tirzepatide 10mg",
@@ -1073,15 +1046,6 @@
       "result_date": "2025-12-10",
       "date_added": "2026-01-01",
       "report_url": "https://janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ"
-    },
-    {
-      "product": "Orforglipron 6mg",
-      "batch": "OR01",
-      "purity_pct": null,
-      "mass": "6.88 mg",
-      "result_date": "2025-12-10",
-      "date_added": "2026-01-01",
-      "report_url": "https://janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S"
     },
     {
       "product": "GLOW Blend",
@@ -1507,15 +1471,6 @@
       "report_url": "https://janoshik.com/tests/76563-Selank_BT83I7XGXS9V"
     },
     {
-      "product": "Tesamorelin 10mg",
-      "batch": "TES03",
-      "purity_pct": 99.11,
-      "mass": "10.72 mg",
-      "result_date": "2025-08-28",
-      "date_added": "2025-08-28",
-      "report_url": "https://janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI"
-    },
-    {
       "product": "CJC-1295 no DAC 5mg",
       "batch": "CJC01",
       "purity_pct": 99.41,
@@ -1597,15 +1552,6 @@
       "report_url": "https://janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN"
     },
     {
-      "product": "GHK-Cu 50mg",
-      "batch": "GHK03",
-      "purity_pct": 99.98,
-      "mass": "51.9 mg",
-      "result_date": "2025-08-07",
-      "date_added": "2025-08-07",
-      "report_url": "https://janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8"
-    },
-    {
       "product": "Cagrilintide 10mg",
       "batch": "CAG02",
       "purity_pct": 99.66,
@@ -1685,15 +1631,6 @@
       "result_date": "2025-06-25",
       "date_added": "2025-06-25",
       "report_url": "https://janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61"
-    },
-    {
-      "product": "Human Growth Hormone",
-      "batch": "GGC26",
-      "purity_pct": 96.27,
-      "mass": "41.43 ius",
-      "result_date": "2025-06-23",
-      "date_added": "2025-06-24",
-      "report_url": "https://janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF"
     },
     {
       "product": "Semax",
