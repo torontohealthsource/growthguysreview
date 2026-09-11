@@ -1,17 +1,35 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-09-10",
+  "counted_on": "2026-09-11",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 235,
-    "distinct_products": 131,
-    "reports_with_purity": 174,
+    "total_reports": 237,
+    "distinct_products": 132,
+    "reports_with_purity": 176,
     "avg_purity": 99.04,
     "min_purity": 93.844,
     "max_purity": 99.99,
-    "below_98_count": 31
+    "below_98_count": 32
   },
   "reports": [
+    {
+      "product": "TB-500 (TB4) 10mg",
+      "batch": "TB09",
+      "purity_pct": 97.66,
+      "mass": "9.95 mg",
+      "result_date": "2026-09-08",
+      "date_added": "2026-09-10",
+      "report_url": "https://verify.janoshik.com/tests/230521-TB500_TB4_DYUAF3PB73D6"
+    },
+    {
+      "product": "Retatrutide 10mg",
+      "batch": "RET26",
+      "purity_pct": 99.82,
+      "mass": "10.69 mg",
+      "result_date": "2026-08-21",
+      "date_added": "2026-09-10",
+      "report_url": "https://verify.janoshik.com/tests/225270-Retatrutide_Y1W6R81GVKLM"
+    },
     {
       "product": "Cartalax 20mg",
       "batch": "CAR02",
@@ -40,6 +58,15 @@
       "report_url": "https://verify.janoshik.com/tests/216020-Aromasin_WJMM67885R66"
     },
     {
+      "product": "Retatrutide",
+      "batch": "RET01",
+      "purity_pct": 96.27,
+      "mass": "10.94 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-09",
+      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
       "product": "5-Amino-1MQ 50mg",
       "batch": "5AM03",
       "purity_pct": null,
@@ -56,15 +83,6 @@
       "result_date": "2026-09-01",
       "date_added": "2026-09-02",
       "report_url": "https://verify.janoshik.com/tests/229125-Tesamorelin_FZ1S7HFE5F3P"
-    },
-    {
-      "product": "Retatrutide",
-      "batch": "RET01",
-      "purity_pct": 96.27,
-      "mass": "10.94 mg",
-      "result_date": "2024-09-30",
-      "date_added": "2024-10-09",
-      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
     },
     {
       "product": "KLOW Blend",
