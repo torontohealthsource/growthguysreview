@@ -1,12 +1,12 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-09-17",
+  "counted_on": "2026-09-18",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 237,
+    "total_reports": 236,
     "distinct_products": 132,
-    "reports_with_purity": 176,
-    "avg_purity": 99.04,
+    "reports_with_purity": 175,
+    "avg_purity": 99.03,
     "min_purity": 93.844,
     "max_purity": 99.99,
     "below_98_count": 32
@@ -587,15 +587,6 @@
       "result_date": "2026-04-14",
       "date_added": "2026-04-14",
       "report_url": "https://verify.janoshik.com/tests/136045-TB500_YFPQKI1PBFKD"
-    },
-    {
-      "product": "KPV 10mg",
-      "batch": "KPV03",
-      "purity_pct": 99.35,
-      "mass": "11.64 mg",
-      "result_date": "2026-04-14",
-      "date_added": "2026-04-14",
-      "report_url": "https://verify.janoshik.com/tests/136043-KPV_816SCBET3URV"
     },
     {
       "product": "Retatrutide 60mg",
