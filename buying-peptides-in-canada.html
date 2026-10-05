@@ -89,26 +89,6 @@ background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:
 .stats div,.why>div{background:#111917}
 .cta{background:#5ec6d4;color:#08100f}}
 
-/* --- motion layer, 2026-09-05, deliberately conservative.
-   Pierre: SEO and dominating every browser is the ONLY priority; anything I cannot be
-   certain is free of cost does not ship. So this layer is hover-and-scroll only.
-
-   WHAT WAS REMOVED, and why, so nobody re-adds it:
-   - Scroll-driven reveals (animation-timeline:view). Googlebot renders in Chromium,
-     which supports them, and it does NOT scroll — it renders at a tall viewport. Content
-     below that fold would be captured mid-animation at low opacity, and Google may
-     discount what it renders as hidden. Unprovable either way, therefore out.
-   - An infinitely animating blurred gradient. A large blurred layer repainting forever is
-     real GPU work on a weak phone and INP is a ranking signal. The identical look is
-     available as a static gradient for nothing.
-
-   WHAT IS HERE, and why it is certain:
-   - :hover transitions on transform and box-shadow. They fire only on deliberate user
-     input, never during render, and cannot change what a crawler sees.
-   - A scroll-snap panel rail. Ordinary visible HTML in an overflow container, indexed
-     normally; nothing is hidden and no script is involved.
-   - A static gradient. Paints once.
-   Still 0 scripts, 0 stylesheets, 0 webfonts, 0 images, and no keyframes at all. --- */
 html{scroll-behavior:smooth}
 .hero{position:relative;overflow:hidden}
 .hero::before{content:"";position:absolute;inset:-40% -10% auto -10%;height:150%;
