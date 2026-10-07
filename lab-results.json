@@ -3,15 +3,51 @@
   "counted_on": "2026-10-07",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 240,
-    "distinct_products": 131,
-    "reports_with_purity": 178,
-    "avg_purity": 99.03,
+    "total_reports": 244,
+    "distinct_products": 133,
+    "reports_with_purity": 182,
+    "avg_purity": 99.04,
     "min_purity": 93.844,
     "max_purity": 99.99,
     "below_98_count": 33
   },
   "reports": [
+    {
+      "product": "MOTS-C 40mg",
+      "batch": "MOTS09",
+      "purity_pct": 99.24,
+      "mass": "42.46 mg",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/238082-MOTSC_DRXX3B1H1PNR"
+    },
+    {
+      "product": "Semax 10mg",
+      "batch": "SEM05",
+      "purity_pct": 99.27,
+      "mass": "10.48 mg",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/238085-Semax_U3PR3QKLK123"
+    },
+    {
+      "product": "DSIP 10mg",
+      "batch": "DSP03",
+      "purity_pct": 99.04,
+      "mass": "11.04 mg",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/238076-DSIP_HM4UHXSC1CQY"
+    },
+    {
+      "product": "ARA-290 10mg",
+      "batch": "ARA02",
+      "purity_pct": 99.94,
+      "mass": "11.99 mg",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/238088-ARA290_RR5M267YK3HR"
+    },
     {
       "product": "CJC-1295 No DAC + Ipamorelin 10mg",
       "batch": "CJCIPA05",
@@ -20,6 +56,15 @@
       "result_date": null,
       "date_added": null,
       "report_url": "https://verify.janoshik.com/tests/229122-CJC1295_no_DAC_Ipamorelin_Blend_4ARBQFESMJ31"
+    },
+    {
+      "product": "Retatrutide",
+      "batch": "RET01",
+      "purity_pct": 96.27,
+      "mass": "10.94 mg",
+      "result_date": "2024-09-30",
+      "date_added": "2024-10-09",
+      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
     },
     {
       "product": "Human Growth Hormone",
@@ -56,15 +101,6 @@
       "result_date": null,
       "date_added": null,
       "report_url": "https://verify.janoshik.com/tests/225270-Retatrutide_Y1W6R81GVKLM"
-    },
-    {
-      "product": "Retatrutide",
-      "batch": "RET01",
-      "purity_pct": 96.27,
-      "mass": "10.94 mg",
-      "result_date": "2024-09-30",
-      "date_added": "2024-10-09",
-      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
     },
     {
       "product": "Cartalax 20mg",
