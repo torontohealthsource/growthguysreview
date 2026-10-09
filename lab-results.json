@@ -3,7 +3,7 @@
   "counted_on": "2026-10-08",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 244,
+    "total_reports": 245,
     "distinct_products": 133,
     "reports_with_purity": 182,
     "avg_purity": 99.04,
@@ -12,6 +12,15 @@
     "below_98_count": 33
   },
   "reports": [
+    {
+      "product": "Human Chorionic Gonadotropin (hCG) 7000iu",
+      "batch": "HCG07",
+      "purity_pct": null,
+      "mass": "7771 ius",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/99340-HCG_2HP5JYARC8RI"
+    },
     {
       "product": "MOTS-C 40mg",
       "batch": "MOTS09",
@@ -49,15 +58,6 @@
       "report_url": "https://verify.janoshik.com/tests/238088-ARA290_RR5M267YK3HR"
     },
     {
-      "product": "CJC-1295 No DAC + Ipamorelin 10mg",
-      "batch": "CJCIPA05",
-      "purity_pct": null,
-      "mass": "11.2 mg",
-      "result_date": null,
-      "date_added": null,
-      "report_url": "https://verify.janoshik.com/tests/229122-CJC1295_no_DAC_Ipamorelin_Blend_4ARBQFESMJ31"
-    },
-    {
       "product": "Retatrutide",
       "batch": "RET01",
       "purity_pct": 96.27,
@@ -65,6 +65,15 @@
       "result_date": "2024-09-30",
       "date_added": "2024-10-09",
       "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+    },
+    {
+      "product": "CJC-1295 No DAC + Ipamorelin 10mg",
+      "batch": "CJCIPA05",
+      "purity_pct": null,
+      "mass": "11.2 mg",
+      "result_date": null,
+      "date_added": null,
+      "report_url": "https://verify.janoshik.com/tests/229122-CJC1295_no_DAC_Ipamorelin_Blend_4ARBQFESMJ31"
     },
     {
       "product": "Human Growth Hormone",
