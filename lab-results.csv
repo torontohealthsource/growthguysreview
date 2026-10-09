@@ -4,7 +4,7 @@ added,product,batch,purity_pct,mass,result_date,report_url
 ,Semax 10mg,SEM05,99.27,10.48 mg,,https://verify.janoshik.com/tests/238085-Semax_U3PR3QKLK123
 ,DSIP 10mg,DSP03,99.04,11.04 mg,,https://verify.janoshik.com/tests/238076-DSIP_HM4UHXSC1CQY
 ,ARA-290 10mg,ARA02,99.94,11.99 mg,,https://verify.janoshik.com/tests/238088-ARA290_RR5M267YK3HR
-2024-10-09,Retatrutide,RET01,96.27,10.94 mg,2024-09-30,https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9
+2024-10-09,Retatrutide,RET01,96.27,10.94 mg,2024-09-30,https://verify.janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9
 ,CJC-1295 No DAC + Ipamorelin 10mg,CJCIPA05,,11.2 mg,,https://verify.janoshik.com/tests/229122-CJC1295_no_DAC_Ipamorelin_Blend_4ARBQFESMJ31
 ,Human Growth Hormone,GGC42,97.05,12.6 ius,,https://verify.janoshik.com/tests/227447-Human_Growth_Hormone_CWYGNR5QGRYI
 ,Retatrutide 30mg,RET28,99.81,33.62 mg,,https://verify.janoshik.com/tests/234011-Retatrutide_9YJ4G7CWMFZF
@@ -19,7 +19,7 @@ added,product,batch,purity_pct,mass,result_date,report_url
 ,NAD+ 600mg,NAD05,,602.01 mg,,https://verify.janoshik.com/tests/227441-NAD_5WCKK95LIVDS
 ,Retatrutide 20mg,RET27,99.53,21.49 mg,,https://verify.janoshik.com/tests/227444-Retatrutide_SZRQKHISG84A
 ,Tadalafil 20mg,TAD04,,20.91 mg,,https://verify.janoshik.com/tests/216018-Tadalafil_TXCDTDVITABU
-,MOTS-C 10mg,MOTS08,98.84,10.67 mg,,https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8
+,MOTS-C 10mg,MOTS08,98.84,10.67 mg,,https://verify.janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8
 ,Human Growth Hormone,GGC41,97.68,11.36 ius,,https://verify.janoshik.com/tests/224531-Human_Growth_Hormone_T8RG65MSWEIP
 ,GHK-Cu 100mg,,99.51,95.57 mg,,https://verify.janoshik.com/tests/215381-Sample_100_GHKCu_JMHLART6NIKH
 ,"Human Chorionic Gonadotropin 18,000iu",HCG08,,18083 ius,,https://verify.janoshik.com/tests/203792-Human_Chorionic_Gonadtropin_hCG_EYEP6E5MID5C
@@ -84,18 +84,18 @@ added,product,batch,purity_pct,mass,result_date,report_url
 ,Retatrutide 20mg,RET17,99.75,20.93 mg,,https://verify.janoshik.com/tests/99341-Retatrutide_RTX7IF6JUW83
 ,Tirzepatide 10mg,TZ05,99.86,11.49 mg,,https://verify.janoshik.com/tests/123404-Tirzepatide_M8KKGXSBJ7LZ
 ,Tirzepatide 30mg,TZ07,99.81,35.30 mg,,https://verify.janoshik.com/tests/123405-Tirzepatide_7QS5N4XNPXJF
-,Thymosin Alpha-1 12.5mg,TA02,99.69,13.26 mg,,https://janoshik.com/tests/91578-Thymosin_Alpha1_UCGZDR6EBM3J
+,Thymosin Alpha-1 12.5mg,TA02,99.69,13.26 mg,,https://verify.janoshik.com/tests/91578-Thymosin_Alpha1_UCGZDR6EBM3J
 ,BPC-157 5mg,BPC09,99.88,5.84 mg,,https://verify.janoshik.com/tests/99291-BPC157_1WVYWMTL2C4V
 ,HGH (110iu Kit),GGC32,97.27,11.03 ius,,https://verify.janoshik.com/tests/97722-Human_Growth_Hormone_8MXPDC1EQMWK
 ,Melanotan-II (MT2) 10mg,MT203,99.77,8.96 mg,,https://verify.janoshik.com/tests/112973-Melanotan2_CQGH6QRK44VN
 ,CJC-1295 No DAC + Ipamorelin 10mg,CJCIPA04,,11.40 mg,,https://verify.janoshik.com/tests/105140-CJC1295_no_DAC_Ipamorelin_N2WTIRKQ1D9A
 ,Retatrutide 10mg,RET19,99.55,10.02 mg,,https://verify.janoshik.com/tests/110138-Retatrutide_XNM763Y6K834
 ,GHK-Cu 70mg,GHK06,99.8,68.24 mg,,https://verify.janoshik.com/tests/108811-GHKCu_7I677PDRZGL6
-,Tesamorelin 10mg,TES06,99.89,11.91 mg,,https://janoshik.com/tests/108812-Tesamorelin_XW85ULFY4M8L
+,Tesamorelin 10mg,TES06,99.89,11.91 mg,,https://verify.janoshik.com/tests/108812-Tesamorelin_XW85ULFY4M8L
 ,BPC-157 10mg,BPC08-10,99.72,12.53 mg,,https://verify.janoshik.com/tests/84144-BPC157_FGSX2Z7KSHAQ
 ,Cartalax 25mg,CAR01,99.525,25.24 mg,,https://verify.janoshik.com/tests/94024-Cartalax_VTPQWE1TIRIK
 ,Melanotan-1 10mg,MT101,99.759,11.07 mg,,https://verify.janoshik.com/tests/99324-Melanotan1_CDPUG8C9T2NW
-,Semax / Selank Blend 6mg/6mg,COG01,,13 mg,,https://janoshik.com/tests/90603-Brain_Blend_RP5YH3YVW7TL
+,Semax / Selank Blend 6mg/6mg,COG01,,13 mg,,https://verify.janoshik.com/tests/90603-Brain_Blend_RP5YH3YVW7TL
 ,Chonluten 30mg,CHO01,97.76,31.05 mg,,https://verify.janoshik.com/tests/96029-Chonluten_UT24CNF329U8
 ,Cardiogen 20mg,CAR01,99.53,23.93 mg,,https://verify.janoshik.com/tests/96030-Cardiogen_XZCTA4ICNBVX
 ,Thymulin 15mg,THYM01,99.51,15.79 mg,,https://verify.janoshik.com/tests/94026-Thymulin_CJRII8D4TF9P
@@ -107,8 +107,8 @@ added,product,batch,purity_pct,mass,result_date,report_url
 ,CJC-1295 no DAC 10mg,CJC02,99.77,12.72 mg,,https://verify.janoshik.com/tests/105144-CJC1295_no_DAC_AXFJMFK1HVZN
 ,Tirzepatide 10mg,TZ04-10,99.49,11.20 mg,,https://verify.janoshik.com/tests/79794-Tirzepatide_MCMDRSALEUR2
 ,BPC-157 Arginate 500mcg Tablets,ARG01,,542 mcg,,https://verify.janoshik.com/tests/93494-BC500_BPC157_Arginate_3DW917CES62T
-,Clenbuterol HCL 40mcgs,CLEN01,,45.22 mcg,,https://janoshik.com/tests/94617-Clenbuterol_Z117RN95J6J8
-,Telmisartan 40mg Tablets,TEL01,,40.35 mg,,https://janoshik.com/tests/95248-Telmisartan_8C5YL2SGJRRT
+,Clenbuterol HCL 40mcgs,CLEN01,,45.22 mcg,,https://verify.janoshik.com/tests/94617-Clenbuterol_Z117RN95J6J8
+,Telmisartan 40mg Tablets,TEL01,,40.35 mg,,https://verify.janoshik.com/tests/95248-Telmisartan_8C5YL2SGJRRT
 ,Sermorelin 10mg,SER03,99.45,11.85 mg,,https://verify.janoshik.com/tests/94029-Sermorelin_5FSUJXR5I43K
 ,KLOW Blend 80mg,KLO03,,108.37 mg,,https://verify.janoshik.com/tests/102114-KLOW_Blend_HAYU8JDUPGI6
 ,HGH (400iu Kit),GGC33,97.44,38.88 ius,,https://verify.janoshik.com/tests/102115-Human_Growth_Hormone_G3A5RFTSAHFE
@@ -120,127 +120,126 @@ added,product,batch,purity_pct,mass,result_date,report_url
 ,Human Menopausal Gonadotropin 75iu,HMG01,,241 mcg,,https://verify.janoshik.com/tests/95808-Human_Menopausal_Gonadotropin_hMG_ZQ3DS1XBZ732
 ,Tesamorelin 20mg,TES05,99.6,23.84 mg,,https://verify.janoshik.com/tests/95809-Tesamorelin_2A5LCGSEGMYK
 ,BPC-157 / TB-500 Blend 10mg/10mg,BPCTB07,,22.54 mg,,https://verify.janoshik.com/tests/95807-BP10TB10_ABZRNVJMVH4E
-,HGH (150iu kit),GGC31,97.55,15.93 ius,,https://janoshik.com/tests/92926-Human_Growth_Hormone_74B6TJYKA9CW
-,HGH (270iu Kit),GGC30,96.05,27.65 ius,,https://janoshik.com/tests/92444-Human_Growth_Hormone_3WUIDJYGJQPT
-,BPC-157 10mg,BPC08,99.72,12.53 mg,,https://janoshik.com/tests/84144-BPC157_FGSX2Z7KSHAQ
-,GHK-Cu 50mg,GHK05,99.29,64.7 mg,,https://janoshik.com/tests/95969-GHKCu_BM7Q8ZK9M6ZF
-,Retatrutide 10mg,RET16,99.3,10.46 mg,,https://janoshik.com/tests/96828-Retatrutide_ZKUJ8US6IQD5
-,BPC-157 / TB-500 Blend 6mg / 6mg,BPCTB06,,7.13 mg,,https://janoshik.com/tests/93146-bt5_Healing_Blend_CFMGQXSNZ1GS
-,SS-31 50mg,SS02,99.78,50.27 mg,,https://janoshik.com/tests/96028-SS31_QMHKS712Y82P
-,Tadalafil 20mg,TAD01,,18.81 mg,,https://janoshik.com/tests/92440-T20_Tadalafil_CBR8P154LYNL
-,Sildenafil 50mg,SIL01,,48.92 mg,,https://janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ
-,Orforglipron 6mg,OR01,,6.88 mg,,https://janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S
-,GLOW Blend,GLOW05,,66.19 mg,,https://janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14
-,NAD+ 500mg,NAD02,,522.45 mg,,https://janoshik.com/tests/91587-NAD_SLRB4M8VP9IG
-,5-Amino-1MQ 12.5mg,5AM01,,12.72 mg,,https://janoshik.com/tests/90605-5Amino1MQ_MTI42QU9CXZK
-,Retatrutide 20mg,RET14,99.18,22.09 mg,,https://janoshik.com/tests/87874-Retatrutide_ETUAGIDRSLUC
-,TB-500 10mg,TB06,99.15,11.57 mg,,https://janoshik.com/tests/94417-TB500_X6AF33KU5IUX
-,Tesamorelin 10mg,TES04,99.54,11.78 mg,,https://janoshik.com/tests/94027-Tesamorelin_HSMPUV8N74EF
-,CJC-1295 with DAC 12.5mg,DAC01,99.07,13.05 mg,,https://janoshik.com/tests/89219-CJC1295_with_DAC_15FTGD28H6PV
-,LL-37 10mg,LL01,99.62,11.37 mg,,https://janoshik.com/tests/89218-LL37_4KG9NT5CZ91J
-,DSIP 12.5mg,DSP01,99.03,12.71 mg,,https://janoshik.com/tests/89412-DSIP_WIGURMXTN6I2
-,Kisspeptin 12.5mg,KIS01,99.54,12.69 mg,,https://janoshik.com/tests/89411-Kisspeptin_K4NVUGIU1L34
-,Ipamorelin 10mg,IPA03,99.82,11.72 mg,,https://janoshik.com/tests/93162-Ipamorelin_YTPKZP3NT9S9
-,Semax 10mg,SEM02,99.61,11.7 mg,,https://janoshik.com/tests/92927-Semax_DKUPNXRHX46Q
-,BPC-157 5mg,BPC08,99.83,6.01 mg,,https://janoshik.com/tests/91580-BPC157_TUHDLB5TS8ZN
-,Human Chorionic Gonadotropin (hCG) 14000iu,HCG05,,14590 ius,,https://janoshik.com/tests/92442-H10_hCG_T9XKW9IY9EUH
-,Human Chorionic Gonadotropin (hCG) 7000iu,HCG06,,8014 ius,,https://janoshik.com/tests/92443-H5_hCG_GYXG1EZBBDYH
-,NAD+ 600mg,NAD01,,595 mg,,https://janoshik.com/tests/80131-NAD_HQ5RLIIW5AK1
-,MOTS-C 10mg,MOTS05,99.58,11.94 mg,,https://janoshik.com/tests/91579-MOTSC_ISQ6QTXBH4XI
-,Tirzepatide 30mg,TZ04,99.88,32.81 mg,,https://janoshik.com/tests/90604-Tirzepatide_S7Y1D4AWB273
-,KPV 10mg,KPV02,99.76,9.7 mg,,https://janoshik.com/tests/86385-KPV_NDJHTG21ARAV
-,GHK-Cu 70mg,GHK04,99.52,72.33 mg,,https://janoshik.com/tests/86382-GHKCu_GMLCIY37P97S
-,IGF-1 LR3 1mg,IGF03,98.39,1.20 mg,,https://janoshik.com/tests/90606-IGF1_LR3_445TK79U8QXT
-,SLU-PP-332 20mg Tablets,SLU02,,22.21 mg,,https://janoshik.com/tests/88497-SLUPP332_8TX4JYMGGNVQ
-,Tadalafil 5mg Tablets,TAD02,,4.97 mg,,https://janoshik.com/tests/88496-Tadalafil_CNUHRKI25BZN
-,Sermorelin 10mg,SER02,99.65,10.53 mg,,https://janoshik.com/tests/80129-Sermorelin_ZF8QH4JW36XS
-,L-Carnitine 750mg/mL,LCAR01,,740.14 mg,,https://janoshik.com/tests/74195-LCarnitine_YCRUTRIAVJL1
-,Retatrutide 60mg,RET15,99.86,61.24 mg,,https://janoshik.com/tests/84358-Retatrutide_48E4KD8WTH76
-,Retatrutide 20mg,RET13,99.73,22.35 mg,,https://janoshik.com/tests/86689-Retatrutide_67J5V7B6898C
-,KLOW Blend 80mg,KLO02,,90.38 mg,,https://janoshik.com/tests/86384-KLOW_Blend_78B1VAW9LUT4
-,HGH (450iu kit),GGC29,95.88,44.9 ius,,https://janoshik.com/tests/86198-Human_Growth_Hormone_BJ8KP17PA7SA
-,Retatrutide 10mg,RET11,99.52,11.79 mg,,https://janoshik.com/tests/79796-Retatrutide_1AXMFWMQETW2
-,BPC-157 / TB-500 Blend,BPCTB05,,10.97 mg,,https://janoshik.com/tests/79785-BP5TB5_LMVYFRBJ9TEB
-,Epitalon 10mgq,EPI03,99.44,12.59 mg,,https://janoshik.com/tests/79789-Epitalon_HGDSATZ3PURY
-,Retatrutide 20mg,RET12,99.43,22.19 mg,,https://janoshik.com/tests/81966-Retatrutide_VEITWYLFZA6F
-,BPC-157 10mg,BPC06,99.3,12.93 mg,,https://janoshik.com/tests/79783-BPC157_LWGW44RWVSMR
-,PT-141 10mg,PT02,99.87,11.98 mg,,https://janoshik.com/tests/79788-PT141_XJBHZMJK5ATG
+,HGH (150iu kit),GGC31,97.55,15.93 ius,,https://verify.janoshik.com/tests/92926-Human_Growth_Hormone_74B6TJYKA9CW
+,HGH (270iu Kit),GGC30,96.05,27.65 ius,,https://verify.janoshik.com/tests/92444-Human_Growth_Hormone_3WUIDJYGJQPT
+,GHK-Cu 50mg,GHK05,99.29,64.7 mg,,https://verify.janoshik.com/tests/95969-GHKCu_BM7Q8ZK9M6ZF
+,Retatrutide 10mg,RET16,99.3,10.46 mg,,https://verify.janoshik.com/tests/96828-Retatrutide_ZKUJ8US6IQD5
+,BPC-157 / TB-500 Blend 6mg / 6mg,BPCTB06,,7.13 mg,,https://verify.janoshik.com/tests/93146-bt5_Healing_Blend_CFMGQXSNZ1GS
+,SS-31 50mg,SS02,99.78,50.27 mg,,https://verify.janoshik.com/tests/96028-SS31_QMHKS712Y82P
+,Tadalafil 20mg,TAD01,,18.81 mg,,https://verify.janoshik.com/tests/92440-T20_Tadalafil_CBR8P154LYNL
+,Sildenafil 50mg,SIL01,,48.92 mg,,https://verify.janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ
+,Orforglipron 6mg,OR01,,6.88 mg,,https://verify.janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S
+,GLOW Blend,GLOW05,,66.19 mg,,https://verify.janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14
+,NAD+ 500mg,NAD02,,522.45 mg,,https://verify.janoshik.com/tests/91587-NAD_SLRB4M8VP9IG
+,5-Amino-1MQ 12.5mg,5AM01,,12.72 mg,,https://verify.janoshik.com/tests/90605-5Amino1MQ_MTI42QU9CXZK
+,Retatrutide 20mg,RET14,99.18,22.09 mg,,https://verify.janoshik.com/tests/87874-Retatrutide_ETUAGIDRSLUC
+,TB-500 10mg,TB06,99.15,11.57 mg,,https://verify.janoshik.com/tests/94417-TB500_X6AF33KU5IUX
+,Tesamorelin 10mg,TES04,99.54,11.78 mg,,https://verify.janoshik.com/tests/94027-Tesamorelin_HSMPUV8N74EF
+,CJC-1295 with DAC 12.5mg,DAC01,99.07,13.05 mg,,https://verify.janoshik.com/tests/89219-CJC1295_with_DAC_15FTGD28H6PV
+,LL-37 10mg,LL01,99.62,11.37 mg,,https://verify.janoshik.com/tests/89218-LL37_4KG9NT5CZ91J
+,DSIP 12.5mg,DSP01,99.03,12.71 mg,,https://verify.janoshik.com/tests/89412-DSIP_WIGURMXTN6I2
+,Kisspeptin 12.5mg,KIS01,99.54,12.69 mg,,https://verify.janoshik.com/tests/89411-Kisspeptin_K4NVUGIU1L34
+,Ipamorelin 10mg,IPA03,99.82,11.72 mg,,https://verify.janoshik.com/tests/93162-Ipamorelin_YTPKZP3NT9S9
+,Semax 10mg,SEM02,99.61,11.7 mg,,https://verify.janoshik.com/tests/92927-Semax_DKUPNXRHX46Q
+,BPC-157 5mg,BPC08,99.83,6.01 mg,,https://verify.janoshik.com/tests/91580-BPC157_TUHDLB5TS8ZN
+,Human Chorionic Gonadotropin (hCG) 14000iu,HCG05,,14590 ius,,https://verify.janoshik.com/tests/92442-H10_hCG_T9XKW9IY9EUH
+,Human Chorionic Gonadotropin (hCG) 7000iu,HCG06,,8014 ius,,https://verify.janoshik.com/tests/92443-H5_hCG_GYXG1EZBBDYH
+,NAD+ 600mg,NAD01,,595 mg,,https://verify.janoshik.com/tests/80131-NAD_HQ5RLIIW5AK1
+,MOTS-C 10mg,MOTS05,99.58,11.94 mg,,https://verify.janoshik.com/tests/91579-MOTSC_ISQ6QTXBH4XI
+,Tirzepatide 30mg,TZ04,99.88,32.81 mg,,https://verify.janoshik.com/tests/90604-Tirzepatide_S7Y1D4AWB273
+,KPV 10mg,KPV02,99.76,9.7 mg,,https://verify.janoshik.com/tests/86385-KPV_NDJHTG21ARAV
+,GHK-Cu 70mg,GHK04,99.52,72.33 mg,,https://verify.janoshik.com/tests/86382-GHKCu_GMLCIY37P97S
+,IGF-1 LR3 1mg,IGF03,98.39,1.20 mg,,https://verify.janoshik.com/tests/90606-IGF1_LR3_445TK79U8QXT
+,SLU-PP-332 20mg Tablets,SLU02,,22.21 mg,,https://verify.janoshik.com/tests/88497-SLUPP332_8TX4JYMGGNVQ
+,Tadalafil 5mg Tablets,TAD02,,4.97 mg,,https://verify.janoshik.com/tests/88496-Tadalafil_CNUHRKI25BZN
+,Sermorelin 10mg,SER02,99.65,10.53 mg,,https://verify.janoshik.com/tests/80129-Sermorelin_ZF8QH4JW36XS
+,L-Carnitine 750mg/mL,LCAR01,,740.14 mg,,https://verify.janoshik.com/tests/74195-LCarnitine_YCRUTRIAVJL1
+,Retatrutide 60mg,RET15,99.86,61.24 mg,,https://verify.janoshik.com/tests/84358-Retatrutide_48E4KD8WTH76
+,Retatrutide 20mg,RET13,99.73,22.35 mg,,https://verify.janoshik.com/tests/86689-Retatrutide_67J5V7B6898C
+,KLOW Blend 80mg,KLO02,,90.38 mg,,https://verify.janoshik.com/tests/86384-KLOW_Blend_78B1VAW9LUT4
+,HGH (450iu kit),GGC29,95.88,44.9 ius,,https://verify.janoshik.com/tests/86198-Human_Growth_Hormone_BJ8KP17PA7SA
+,Retatrutide 10mg,RET11,99.52,11.79 mg,,https://verify.janoshik.com/tests/79796-Retatrutide_1AXMFWMQETW2
+,BPC-157 / TB-500 Blend,BPCTB05,,10.97 mg,,https://verify.janoshik.com/tests/79785-BP5TB5_LMVYFRBJ9TEB
+,Epitalon 10mgq,EPI03,99.44,12.59 mg,,https://verify.janoshik.com/tests/79789-Epitalon_HGDSATZ3PURY
+,Retatrutide 20mg,RET12,99.43,22.19 mg,,https://verify.janoshik.com/tests/81966-Retatrutide_VEITWYLFZA6F
+,BPC-157 10mg,BPC06,99.3,12.93 mg,,https://verify.janoshik.com/tests/79783-BPC157_LWGW44RWVSMR
+,PT-141 10mg,PT02,99.87,11.98 mg,,https://verify.janoshik.com/tests/79788-PT141_XJBHZMJK5ATG
 ,TB-500 10mg,TB05,99.53,12.13 mg,,https://verify.janoshik.com/tests/80133-TB500_JDH9G6WYRB72
-,BPC-157 5mg,BPC07,99.47,5.86 mg,,https://janoshik.com/tests/79786-BPC157_199QQCG4H3Y4
-,Ipamorelin 10mg,IPA02,99.89,10.06 mg,,https://janoshik.com/tests/80135-Ipamorelin_YNWBB1NAT2W8
-,HGH (400iu kit),GGC28,96.56,43.77 mg,,https://janoshik.com/tests/80137-Human_Growth_Hormone_7W7C3KKY5EWB
-,Tesamorelin 10mg,TES03,99.32,10.29 mg,,https://janoshik.com/tests/70033-Tesamorelin_JQDJ6M3ZSSX7
-,MOTS-C 10mg,MOTS04,99.457,11.23 mg,,https://janoshik.com/tests/80130-MOTSC_A2HRLWTWDMPZ
-,IGF-1 LR3 1mg,IGF02,99.51,1.11 mg,,https://janoshik.com/tests/78095-IGF1_LR3_WELEMMA2S6FV
-,Retatrutide 20mg,RET10,99.72,23.85 mg,,https://janoshik.com/tests/77672-Retatrutide_GZEN4QSYHW64
-,GLOW Blend,GLOW04,,66.63 mg,,https://janoshik.com/tests/76922-GLOW_Blend_E1CPQYGRYJ2K
-,CJC-1295 No DAC + Ipamorelin 10mg,CJCIPA03,,11.17 mg,,https://janoshik.com/tests/76562-CJC1295_no_DAC_Ipamorelin_Blend_PUQ715J2MRLV
-,SLU-PP-332 200MCG,,,214.31 mg,,https://janoshik.com/tests/76237-SLUPP332_NDBGUKV21WAF
-,Selank 10mg,SEL01,99.92,10.38 mg,,https://janoshik.com/tests/76563-Selank_BT83I7XGXS9V
-,Tesamorelin 10mg,TES03,99.11,10.72 mg,,https://janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI
-,CJC-1295 no DAC 5mg,CJC01,99.41,5.22 mg,,https://janoshik.com/tests/58686-CJC1295_no_DAC_B262VWAJ697U
-,Mazdutide 10mg,MAZ01,99.64,10.70 mg,,https://janoshik.com/tests/73421-Mazdutide_DTNN3VXD2JXH
-,Thymosin Alpha-1 12.5mg,TA01,99.32,12.58 mg,,https://janoshik.com/tests/73420-ThymosinAlpha_1_ADS2CJVU3RN4
-,KLOW Blend,KLO01,,92.01 mg,,https://janoshik.com/tests/73422-KLOW_DNBQBZASM655
-,KPV 12.5mg,KPV01,99.87,13.14 mg,,https://janoshik.com/tests/71254-KPV_JYGQ7S7J61Z2
-,MOTS-C 10mg,MOTS02,99.04,10.77 mg,,https://janoshik.com/tests/74196-MOTSC_IDG4RMXYIFBS
-,GLOW Blend,GLOW03,,60.53 mg,,https://janoshik.com/tests/74194-GLOW_ZR9Q2C6PIKH1
-,Semaglutide 5mg,SG05,99.39,5.03 mg,,https://janoshik.com/tests/73890-Semaglutide_DZ1HNV1F2DG6
-,BPC-157 / TB-500 Blend,BPCTB04,,5.09 mg,,https://janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN
-,GHK-Cu 50mg,GHK03,99.98,51.9 mg,,https://janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8
-,Cagrilintide 10mg,CAG02,99.66,10.28 mg,,https://janoshik.com/tests/71255-Cagrilintide_3GYPCWPET42D
-,Human Chorionic Gonadotropin (hCG),HCG04,,7861 ius,,https://janoshik.com/tests/70657-Human_Chorionic_Gonadotropin_hCG_8BG786457K14
-,Melanotan-2 (MT-2),MT202,99.73,10.60 mg,,https://janoshik.com/tests/70658-MelanotanII_MC9ZQP4WHQFB
-,Retatrutide 20mg,RET08,99.68,18.77 mg,,https://janoshik.com/tests/70656-Retatrutide_FP4Y98KA71RH
-,Tirzepatide 10mg,TZ03,99.74,10.57 mg,,https://janoshik.com/tests/70659-Tirzepatide_R2PSJNPFELAT
-,BPC-157 / TB-500 Blend,BPCTB02,,4.89 mg,,https://janoshik.com/tests/63522-BPC157_TB500_Healing_Blend_5N8QX9WL4BBX
-,Semaglutide 10mg,SG04,99.64,10.85 mg,,https://janoshik.com/tests/68856-Semaglutide_PMTUYB4SX7P7
-,Retatrutide 20mg,RET06,98.45,20.79 mg,,https://janoshik.com/tests/68529-Retatrutide_6V44PDQ1Y1TY
-,Tesamorelin 10mg,TES02,99.25,10.48 mg,,https://janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61
-,Human Growth Hormone,GGC26,96.27,41.43 ius,,https://janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF
-,Semax,SEM01,99.78,11.66 mg,,https://janoshik.com/tests/68528-Semax_GD7UKTV42RDF
-,MOTS-C,MOTS01,99.39,10.72 mg,,https://janoshik.com/tests/65690-MOTSC_ST831QU27QF1
-,SS-31 60mg,S3101,99.86,62.05 mg,,https://janoshik.com/tests/65168-SS31_UPNWT1NX4UBK
-,TB-500 10mg,TB04,99.45,11.10 mg,,https://janoshik.com/tests/63521-TB500_EMGVERWSYB97
-,TB-500 5mg,TB03,99.43,5.28 mg,,https://janoshik.com/tests/63520-TB500_NUFXMVU4F7PL
-,BPC-157 / TB-500 Blend 5mg/5mg,BPCTB03,,5.30 mg,,https://janoshik.com/tests/65692-BPC157_TB500_Healing_Blend_K6V7CJAK8HFD
-,Retatrutide 10mg,RET05,99.4,10.31 mg,,https://janoshik.com/tests/63515-Retatrutide_PR53CZB488M9
-,GLOW Blend,GLOW02,,59.8 mg,,https://janoshik.com/tests/65693-GLOW_VMS85WWL2IGQ
-,GHK-Cu 50mg,GHK01,99.9,57.75 mg,,https://janoshik.com/tests/65689-GHKCu_FJGXPWWSNXV5
-,Human Growth Hormone,GGC25,96.98,13.21 ius,,https://janoshik.com/tests/65169-Human_Growth_Hormone_191_rHGH_WMFDU1XXFLBZ
-,BPC-157,BPC04,99.59,5.07 mg,,https://janoshik.com/tests/63516-BPC157_316XJY3VQFWF
-,BPC-157 10mg,BPC05,99.77,10.53 mg,,https://janoshik.com/tests/63518-BPC157_D47WECAYUDMC
-,Retatrutide,RET06,99.6,11.19 mg,,https://janoshik.com/tests/65167-Retatrutide_1S5H7YT4EU87
-,Semaglutide,SG03,99.42,5.2 mg,,https://janoshik.com/tests/56313-Semaglutide_G2ZNEHW1675W
-,Human Growth Hormone,GGC23,95.7,39.98 ius,,https://janoshik.com/tests/59041-Human_Growth_Hormone_191_rHGH_1UZ5K67W3Y6C
-,Tirzepatide,TZ03,99.19,10.74 mg,,https://janoshik.com/tests/56319-Tirzepatide_T9BXMTNYUCPK
-,Sermorelin,SER01,99.2,5.02 mg,,https://janoshik.com/tests/55832-Sermorelin_24EKY194S89T
-,Retatrutide,RET04,99.65,12.11 mg,,https://janoshik.com/tests/59264-Retatrutide_84IMSIQUNYGH
-,Human Growth Hormone,GGC24,97.82,10.35 ius,,https://janoshik.com/tests/59265-Human_Growth_Hormone_191_rHGH_WDJS7YZ6EEQD
-,PT-141,PT01,99.83,11.31 mg,,https://janoshik.com/tests/56321-PT141_5ZDC9CHB1R22
-,Ipamorelin,IPA01,99.83,10.96 mg,,https://janoshik.com/tests/56320-Ipamorelin_FJBPZK9UN8S7
-,Epitalon,EPI01,99.84,11.82 mg,,https://janoshik.com/tests/56318-Epitalon_5DQIHUW1PFFT
-,CJC-1295 with DAC,CJC01,95.31,10.51 mg,,https://janoshik.com/tests/56317-CJCNo_DAC_P3BCGKYMFVRL
-,GLOW Blend,GLOW01,99.99,52.87 mg,,https://janoshik.com/tests/55834-GLOW_Blend_HHZX15K37WDY
-,CJC-1295 No DAC + Ipamorelin Blend,CJCIPA01,,9.81 mg,,https://janoshik.com/tests/55833-CJC1295_No_DAC_Ipamorelin_YLMYPZW4J22R
-,IGF-1 LR3,IGF1,99.354,1.03 mg,,https://janoshik.com/tests/56316-IGF1_LR3_BRULG5A8CLVX
-,Semaglutide,SG02,99.39,5.76 mg,,https://janoshik.com/tests/54918-Semaglutide_SB2C3PPUQAJW
-,Tesamorelin,TES01,99.205,10.77 mg,,https://janoshik.com/tests/54915-Tesamorelin_GBMI1ZWUPM5N
-,Cagrilintide,CAG01,98.37,10.31 mg,,https://janoshik.com/tests/54916-Cagrilintide_2IBDBFNLQEN4
-,Survodutide,SUR01,99.0,10.86 mg,,https://janoshik.com/tests/54914-Survodutide_6A6WR5T5BGG4
-,Melanotan-2,MT201,99.406,12.76 mg,,https://janoshik.com/tests/54917-Melanotan2_PXUAZGFDEGC1
-,Enclomiphene Citrate Tablets,202410-01,,12.51 mg,,https://janoshik.com/tests/51656-Enclomiphene_125mg_BP2UQGL8EIR7
-,Human Growth Hormone,GGC21,96.78,11.39 ius,,https://janoshik.com/tests/53123-Human_Growth_Hormone_191aa_rHGH_WY9ETXSKQA4R
-,Human Growth Hormone,GGC22,96.62,40.4 ius,,https://janoshik.com/tests/53125-Human_Growth_Hormone_191aa_rHGH_V82TRC4X1URL
-,Human Growth Hormone,GGC20,95.96,10.94 ius,,https://janoshik.com/tests/44982-Human_Growth_Hormone_191_rHGH_NWYQWS88HZVT
-,BPC-157 10mg,BPC02,99.44,11.82 mg,,https://janoshik.com/tests/49495-BPC157_8PMAGRAIH6GQ
-,BPC-157 / TB-500 Blend 6mg/6mg,BPCTB01,,6.5 mg,,https://janoshik.com/tests/49493-BPC157_TB500_Healing_Blend_XCFT8FGDF8V7
-,hCG (7000iu),HCG02,,7135 ius,,https://janoshik.com/tests/49490-Human_Chorionic_Gonadotropin_hCG_FHQT94N4SR7J
-,hCG (14000iu),HCG03,,14493 ius,,https://janoshik.com/tests/49491-Human_Chorionic_Gonadotropin_hCG_B5N8VY61WADF
-,Human Growth Hormone,GGC19,95.09,26.73 ius,,https://janoshik.com/tests/44981-Human_Growth_Hormone_191_rHGH_XSZVMT2EAYKK
-,TB-500,TB02,99.2,4.87 mg,,https://janoshik.com/tests/39893-TB500_P5Q1YM2H18LS
-,BPC-157,BPC03,99.84,6.12 mg,,https://janoshik.com/tests/49496-BPC157_BI6M9AQIP3AL
-,Human Growth Hormone,GGC16,97.33,3.98 mg,,https://janoshik.com/tests/41097-Human_Growth_Hormone_191_rHGH_ET3Q5V4RIRPJ
-,Human Growth Hormone,GGC17,96.59,11.1 ius,,https://janoshik.com/tests/43677-Human_Growth_Hormone_191_rHGH_8P3BQ64V5XKZ
-,Human Growth Hormone,GGC18,96.75,40.68 ius,,https://janoshik.com/tests/43791-Human_Growth_Hormone_191_rHGH_P2PAGMXQB7GI
-,Semaglutide,SG01,99.33,5.30 mg,,https://janoshik.com/tests/39891-Semaglutide_HSP3VPQPWUW5
+,BPC-157 5mg,BPC07,99.47,5.86 mg,,https://verify.janoshik.com/tests/79786-BPC157_199QQCG4H3Y4
+,Ipamorelin 10mg,IPA02,99.89,10.06 mg,,https://verify.janoshik.com/tests/80135-Ipamorelin_YNWBB1NAT2W8
+,HGH (400iu kit),GGC28,96.56,43.77 mg,,https://verify.janoshik.com/tests/80137-Human_Growth_Hormone_7W7C3KKY5EWB
+,Tesamorelin 10mg,TES03,99.32,10.29 mg,,https://verify.janoshik.com/tests/70033-Tesamorelin_JQDJ6M3ZSSX7
+,MOTS-C 10mg,MOTS04,99.457,11.23 mg,,https://verify.janoshik.com/tests/80130-MOTSC_A2HRLWTWDMPZ
+,IGF-1 LR3 1mg,IGF02,99.51,1.11 mg,,https://verify.janoshik.com/tests/78095-IGF1_LR3_WELEMMA2S6FV
+,Retatrutide 20mg,RET10,99.72,23.85 mg,,https://verify.janoshik.com/tests/77672-Retatrutide_GZEN4QSYHW64
+,GLOW Blend,GLOW04,,66.63 mg,,https://verify.janoshik.com/tests/76922-GLOW_Blend_E1CPQYGRYJ2K
+,CJC-1295 No DAC + Ipamorelin 10mg,CJCIPA03,,11.17 mg,,https://verify.janoshik.com/tests/76562-CJC1295_no_DAC_Ipamorelin_Blend_PUQ715J2MRLV
+,SLU-PP-332 200MCG,,,214.31 mg,,https://verify.janoshik.com/tests/76237-SLUPP332_NDBGUKV21WAF
+,Selank 10mg,SEL01,99.92,10.38 mg,,https://verify.janoshik.com/tests/76563-Selank_BT83I7XGXS9V
+,Tesamorelin 10mg,TES03,99.11,10.72 mg,,https://verify.janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI
+,CJC-1295 no DAC 5mg,CJC01,99.41,5.22 mg,,https://verify.janoshik.com/tests/58686-CJC1295_no_DAC_B262VWAJ697U
+,Mazdutide 10mg,MAZ01,99.64,10.70 mg,,https://verify.janoshik.com/tests/73421-Mazdutide_DTNN3VXD2JXH
+,Thymosin Alpha-1 12.5mg,TA01,99.32,12.58 mg,,https://verify.janoshik.com/tests/73420-ThymosinAlpha_1_ADS2CJVU3RN4
+,KLOW Blend,KLO01,,92.01 mg,,https://verify.janoshik.com/tests/73422-KLOW_DNBQBZASM655
+,KPV 12.5mg,KPV01,99.87,13.14 mg,,https://verify.janoshik.com/tests/71254-KPV_JYGQ7S7J61Z2
+,MOTS-C 10mg,MOTS02,99.04,10.77 mg,,https://verify.janoshik.com/tests/74196-MOTSC_IDG4RMXYIFBS
+,GLOW Blend,GLOW03,,60.53 mg,,https://verify.janoshik.com/tests/74194-GLOW_ZR9Q2C6PIKH1
+,Semaglutide 5mg,SG05,99.39,5.03 mg,,https://verify.janoshik.com/tests/73890-Semaglutide_DZ1HNV1F2DG6
+,BPC-157 / TB-500 Blend,BPCTB04,,5.09 mg,,https://verify.janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN
+,GHK-Cu 50mg,GHK03,99.98,51.9 mg,,https://verify.janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8
+,Cagrilintide 10mg,CAG02,99.66,10.28 mg,,https://verify.janoshik.com/tests/71255-Cagrilintide_3GYPCWPET42D
+,Human Chorionic Gonadotropin (hCG),HCG04,,7861 ius,,https://verify.janoshik.com/tests/70657-Human_Chorionic_Gonadotropin_hCG_8BG786457K14
+,Melanotan-2 (MT-2),MT202,99.73,10.60 mg,,https://verify.janoshik.com/tests/70658-MelanotanII_MC9ZQP4WHQFB
+,Retatrutide 20mg,RET08,99.68,18.77 mg,,https://verify.janoshik.com/tests/70656-Retatrutide_FP4Y98KA71RH
+,Tirzepatide 10mg,TZ03,99.74,10.57 mg,,https://verify.janoshik.com/tests/70659-Tirzepatide_R2PSJNPFELAT
+,BPC-157 / TB-500 Blend,BPCTB02,,4.89 mg,,https://verify.janoshik.com/tests/63522-BPC157_TB500_Healing_Blend_5N8QX9WL4BBX
+,Semaglutide 10mg,SG04,99.64,10.85 mg,,https://verify.janoshik.com/tests/68856-Semaglutide_PMTUYB4SX7P7
+,Retatrutide 20mg,RET06,98.45,20.79 mg,,https://verify.janoshik.com/tests/68529-Retatrutide_6V44PDQ1Y1TY
+,Tesamorelin 10mg,TES02,99.25,10.48 mg,,https://verify.janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61
+,Human Growth Hormone,GGC26,96.27,41.43 ius,,https://verify.janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF
+,Semax,SEM01,99.78,11.66 mg,,https://verify.janoshik.com/tests/68528-Semax_GD7UKTV42RDF
+,MOTS-C,MOTS01,99.39,10.72 mg,,https://verify.janoshik.com/tests/65690-MOTSC_ST831QU27QF1
+,SS-31 60mg,S3101,99.86,62.05 mg,,https://verify.janoshik.com/tests/65168-SS31_UPNWT1NX4UBK
+,TB-500 10mg,TB04,99.45,11.10 mg,,https://verify.janoshik.com/tests/63521-TB500_EMGVERWSYB97
+,TB-500 5mg,TB03,99.43,5.28 mg,,https://verify.janoshik.com/tests/63520-TB500_NUFXMVU4F7PL
+,BPC-157 / TB-500 Blend 5mg/5mg,BPCTB03,,5.30 mg,,https://verify.janoshik.com/tests/65692-BPC157_TB500_Healing_Blend_K6V7CJAK8HFD
+,Retatrutide 10mg,RET05,99.4,10.31 mg,,https://verify.janoshik.com/tests/63515-Retatrutide_PR53CZB488M9
+,GLOW Blend,GLOW02,,59.8 mg,,https://verify.janoshik.com/tests/65693-GLOW_VMS85WWL2IGQ
+,GHK-Cu 50mg,GHK01,99.9,57.75 mg,,https://verify.janoshik.com/tests/65689-GHKCu_FJGXPWWSNXV5
+,Human Growth Hormone,GGC25,96.98,13.21 ius,,https://verify.janoshik.com/tests/65169-Human_Growth_Hormone_191_rHGH_WMFDU1XXFLBZ
+,BPC-157,BPC04,99.59,5.07 mg,,https://verify.janoshik.com/tests/63516-BPC157_316XJY3VQFWF
+,BPC-157 10mg,BPC05,99.77,10.53 mg,,https://verify.janoshik.com/tests/63518-BPC157_D47WECAYUDMC
+,Retatrutide,RET06,99.6,11.19 mg,,https://verify.janoshik.com/tests/65167-Retatrutide_1S5H7YT4EU87
+,Semaglutide,SG03,99.42,5.2 mg,,https://verify.janoshik.com/tests/56313-Semaglutide_G2ZNEHW1675W
+,Human Growth Hormone,GGC23,95.7,39.98 ius,,https://verify.janoshik.com/tests/59041-Human_Growth_Hormone_191_rHGH_1UZ5K67W3Y6C
+,Tirzepatide,TZ03,99.19,10.74 mg,,https://verify.janoshik.com/tests/56319-Tirzepatide_T9BXMTNYUCPK
+,Sermorelin,SER01,99.2,5.02 mg,,https://verify.janoshik.com/tests/55832-Sermorelin_24EKY194S89T
+,Retatrutide,RET04,99.65,12.11 mg,,https://verify.janoshik.com/tests/59264-Retatrutide_84IMSIQUNYGH
+,Human Growth Hormone,GGC24,97.82,10.35 ius,,https://verify.janoshik.com/tests/59265-Human_Growth_Hormone_191_rHGH_WDJS7YZ6EEQD
+,PT-141,PT01,99.83,11.31 mg,,https://verify.janoshik.com/tests/56321-PT141_5ZDC9CHB1R22
+,Ipamorelin,IPA01,99.83,10.96 mg,,https://verify.janoshik.com/tests/56320-Ipamorelin_FJBPZK9UN8S7
+,Epitalon,EPI01,99.84,11.82 mg,,https://verify.janoshik.com/tests/56318-Epitalon_5DQIHUW1PFFT
+,CJC-1295 with DAC,CJC01,95.31,10.51 mg,,https://verify.janoshik.com/tests/56317-CJCNo_DAC_P3BCGKYMFVRL
+,GLOW Blend,GLOW01,99.99,52.87 mg,,https://verify.janoshik.com/tests/55834-GLOW_Blend_HHZX15K37WDY
+,CJC-1295 No DAC + Ipamorelin Blend,CJCIPA01,,9.81 mg,,https://verify.janoshik.com/tests/55833-CJC1295_No_DAC_Ipamorelin_YLMYPZW4J22R
+,IGF-1 LR3,IGF1,99.354,1.03 mg,,https://verify.janoshik.com/tests/56316-IGF1_LR3_BRULG5A8CLVX
+,Semaglutide,SG02,99.39,5.76 mg,,https://verify.janoshik.com/tests/54918-Semaglutide_SB2C3PPUQAJW
+,Tesamorelin,TES01,99.205,10.77 mg,,https://verify.janoshik.com/tests/54915-Tesamorelin_GBMI1ZWUPM5N
+,Cagrilintide,CAG01,98.37,10.31 mg,,https://verify.janoshik.com/tests/54916-Cagrilintide_2IBDBFNLQEN4
+,Survodutide,SUR01,99.0,10.86 mg,,https://verify.janoshik.com/tests/54914-Survodutide_6A6WR5T5BGG4
+,Melanotan-2,MT201,99.406,12.76 mg,,https://verify.janoshik.com/tests/54917-Melanotan2_PXUAZGFDEGC1
+,Enclomiphene Citrate Tablets,202410-01,,12.51 mg,,https://verify.janoshik.com/tests/51656-Enclomiphene_125mg_BP2UQGL8EIR7
+,Human Growth Hormone,GGC21,96.78,11.39 ius,,https://verify.janoshik.com/tests/53123-Human_Growth_Hormone_191aa_rHGH_WY9ETXSKQA4R
+,Human Growth Hormone,GGC22,96.62,40.4 ius,,https://verify.janoshik.com/tests/53125-Human_Growth_Hormone_191aa_rHGH_V82TRC4X1URL
+,Human Growth Hormone,GGC20,95.96,10.94 ius,,https://verify.janoshik.com/tests/44982-Human_Growth_Hormone_191_rHGH_NWYQWS88HZVT
+,BPC-157 10mg,BPC02,99.44,11.82 mg,,https://verify.janoshik.com/tests/49495-BPC157_8PMAGRAIH6GQ
+,BPC-157 / TB-500 Blend 6mg/6mg,BPCTB01,,6.5 mg,,https://verify.janoshik.com/tests/49493-BPC157_TB500_Healing_Blend_XCFT8FGDF8V7
+,hCG (7000iu),HCG02,,7135 ius,,https://verify.janoshik.com/tests/49490-Human_Chorionic_Gonadotropin_hCG_FHQT94N4SR7J
+,hCG (14000iu),HCG03,,14493 ius,,https://verify.janoshik.com/tests/49491-Human_Chorionic_Gonadotropin_hCG_B5N8VY61WADF
+,Human Growth Hormone,GGC19,95.09,26.73 ius,,https://verify.janoshik.com/tests/44981-Human_Growth_Hormone_191_rHGH_XSZVMT2EAYKK
+,TB-500,TB02,99.2,4.87 mg,,https://verify.janoshik.com/tests/39893-TB500_P5Q1YM2H18LS
+,BPC-157,BPC03,99.84,6.12 mg,,https://verify.janoshik.com/tests/49496-BPC157_BI6M9AQIP3AL
+,Human Growth Hormone,GGC16,97.33,3.98 mg,,https://verify.janoshik.com/tests/41097-Human_Growth_Hormone_191_rHGH_ET3Q5V4RIRPJ
+,Human Growth Hormone,GGC17,96.59,11.1 ius,,https://verify.janoshik.com/tests/43677-Human_Growth_Hormone_191_rHGH_8P3BQ64V5XKZ
+,Human Growth Hormone,GGC18,96.75,40.68 ius,,https://verify.janoshik.com/tests/43791-Human_Growth_Hormone_191_rHGH_P2PAGMXQB7GI
+,Semaglutide,SG01,99.33,5.30 mg,,https://verify.janoshik.com/tests/39891-Semaglutide_HSP3VPQPWUW5

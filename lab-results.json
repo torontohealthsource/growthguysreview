@@ -1,12 +1,12 @@
 {
   "name": "Growth Guys published Janoshik lab reports",
-  "counted_on": "2026-10-08",
+  "counted_on": "2026-10-09",
   "source": "https://growthguys.com/lab-results/",
   "totals": {
-    "total_reports": 245,
+    "total_reports": 244,
     "distinct_products": 133,
-    "reports_with_purity": 182,
-    "avg_purity": 99.04,
+    "reports_with_purity": 181,
+    "avg_purity": 99.03,
     "min_purity": 93.844,
     "max_purity": 99.99,
     "below_98_count": 33
@@ -64,7 +64,7 @@
       "mass": "10.94 mg",
       "result_date": "2024-09-30",
       "date_added": "2024-10-09",
-      "report_url": "https://janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
+      "report_url": "https://verify.janoshik.com/tests/49492-Retatrutide_F7V3B6EHEMK9"
     },
     {
       "product": "CJC-1295 No DAC + Ipamorelin 10mg",
@@ -199,7 +199,7 @@
       "mass": "10.67 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
+      "report_url": "https://verify.janoshik.com/tests/225267-MOTSC_IRF44CDCLXV8"
     },
     {
       "product": "Human Growth Hormone",
@@ -784,7 +784,7 @@
       "mass": "13.26 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/91578-Thymosin_Alpha1_UCGZDR6EBM3J"
+      "report_url": "https://verify.janoshik.com/tests/91578-Thymosin_Alpha1_UCGZDR6EBM3J"
     },
     {
       "product": "BPC-157 5mg",
@@ -847,7 +847,7 @@
       "mass": "11.91 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/108812-Tesamorelin_XW85ULFY4M8L"
+      "report_url": "https://verify.janoshik.com/tests/108812-Tesamorelin_XW85ULFY4M8L"
     },
     {
       "product": "BPC-157 10mg",
@@ -883,7 +883,7 @@
       "mass": "13 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/90603-Brain_Blend_RP5YH3YVW7TL"
+      "report_url": "https://verify.janoshik.com/tests/90603-Brain_Blend_RP5YH3YVW7TL"
     },
     {
       "product": "Chonluten 30mg",
@@ -991,7 +991,7 @@
       "mass": "45.22 mcg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/94617-Clenbuterol_Z117RN95J6J8"
+      "report_url": "https://verify.janoshik.com/tests/94617-Clenbuterol_Z117RN95J6J8"
     },
     {
       "product": "Telmisartan 40mg Tablets",
@@ -1000,7 +1000,7 @@
       "mass": "40.35 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/95248-Telmisartan_8C5YL2SGJRRT"
+      "report_url": "https://verify.janoshik.com/tests/95248-Telmisartan_8C5YL2SGJRRT"
     },
     {
       "product": "Sermorelin 10mg",
@@ -1108,7 +1108,7 @@
       "mass": "15.93 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92926-Human_Growth_Hormone_74B6TJYKA9CW"
+      "report_url": "https://verify.janoshik.com/tests/92926-Human_Growth_Hormone_74B6TJYKA9CW"
     },
     {
       "product": "HGH (270iu Kit)",
@@ -1117,16 +1117,7 @@
       "mass": "27.65 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92444-Human_Growth_Hormone_3WUIDJYGJQPT"
-    },
-    {
-      "product": "BPC-157 10mg",
-      "batch": "BPC08",
-      "purity_pct": 99.72,
-      "mass": "12.53 mg",
-      "result_date": null,
-      "date_added": null,
-      "report_url": "https://janoshik.com/tests/84144-BPC157_FGSX2Z7KSHAQ"
+      "report_url": "https://verify.janoshik.com/tests/92444-Human_Growth_Hormone_3WUIDJYGJQPT"
     },
     {
       "product": "GHK-Cu 50mg",
@@ -1135,7 +1126,7 @@
       "mass": "64.7 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/95969-GHKCu_BM7Q8ZK9M6ZF"
+      "report_url": "https://verify.janoshik.com/tests/95969-GHKCu_BM7Q8ZK9M6ZF"
     },
     {
       "product": "Retatrutide 10mg",
@@ -1144,7 +1135,7 @@
       "mass": "10.46 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/96828-Retatrutide_ZKUJ8US6IQD5"
+      "report_url": "https://verify.janoshik.com/tests/96828-Retatrutide_ZKUJ8US6IQD5"
     },
     {
       "product": "BPC-157 / TB-500 Blend 6mg / 6mg",
@@ -1153,7 +1144,7 @@
       "mass": "7.13 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/93146-bt5_Healing_Blend_CFMGQXSNZ1GS"
+      "report_url": "https://verify.janoshik.com/tests/93146-bt5_Healing_Blend_CFMGQXSNZ1GS"
     },
     {
       "product": "SS-31 50mg",
@@ -1162,7 +1153,7 @@
       "mass": "50.27 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/96028-SS31_QMHKS712Y82P"
+      "report_url": "https://verify.janoshik.com/tests/96028-SS31_QMHKS712Y82P"
     },
     {
       "product": "Tadalafil 20mg",
@@ -1171,7 +1162,7 @@
       "mass": "18.81 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92440-T20_Tadalafil_CBR8P154LYNL"
+      "report_url": "https://verify.janoshik.com/tests/92440-T20_Tadalafil_CBR8P154LYNL"
     },
     {
       "product": "Sildenafil 50mg",
@@ -1180,7 +1171,7 @@
       "mass": "48.92 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ"
+      "report_url": "https://verify.janoshik.com/tests/92439-S50_Sildenafil_I75QS7D85BRJ"
     },
     {
       "product": "Orforglipron 6mg",
@@ -1189,7 +1180,7 @@
       "mass": "6.88 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S"
+      "report_url": "https://verify.janoshik.com/tests/92441-OR_Orforglipron_LFNDACETWL5S"
     },
     {
       "product": "GLOW Blend",
@@ -1198,7 +1189,7 @@
       "mass": "66.19 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14"
+      "report_url": "https://verify.janoshik.com/tests/91581-GLOW_Blend_Z8FPJSZPZI14"
     },
     {
       "product": "NAD+ 500mg",
@@ -1207,7 +1198,7 @@
       "mass": "522.45 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/91587-NAD_SLRB4M8VP9IG"
+      "report_url": "https://verify.janoshik.com/tests/91587-NAD_SLRB4M8VP9IG"
     },
     {
       "product": "5-Amino-1MQ 12.5mg",
@@ -1216,7 +1207,7 @@
       "mass": "12.72 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/90605-5Amino1MQ_MTI42QU9CXZK"
+      "report_url": "https://verify.janoshik.com/tests/90605-5Amino1MQ_MTI42QU9CXZK"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1225,7 +1216,7 @@
       "mass": "22.09 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/87874-Retatrutide_ETUAGIDRSLUC"
+      "report_url": "https://verify.janoshik.com/tests/87874-Retatrutide_ETUAGIDRSLUC"
     },
     {
       "product": "TB-500 10mg",
@@ -1234,7 +1225,7 @@
       "mass": "11.57 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/94417-TB500_X6AF33KU5IUX"
+      "report_url": "https://verify.janoshik.com/tests/94417-TB500_X6AF33KU5IUX"
     },
     {
       "product": "Tesamorelin 10mg",
@@ -1243,7 +1234,7 @@
       "mass": "11.78 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/94027-Tesamorelin_HSMPUV8N74EF"
+      "report_url": "https://verify.janoshik.com/tests/94027-Tesamorelin_HSMPUV8N74EF"
     },
     {
       "product": "CJC-1295 with DAC 12.5mg",
@@ -1252,7 +1243,7 @@
       "mass": "13.05 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/89219-CJC1295_with_DAC_15FTGD28H6PV"
+      "report_url": "https://verify.janoshik.com/tests/89219-CJC1295_with_DAC_15FTGD28H6PV"
     },
     {
       "product": "LL-37 10mg",
@@ -1261,7 +1252,7 @@
       "mass": "11.37 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/89218-LL37_4KG9NT5CZ91J"
+      "report_url": "https://verify.janoshik.com/tests/89218-LL37_4KG9NT5CZ91J"
     },
     {
       "product": "DSIP 12.5mg",
@@ -1270,7 +1261,7 @@
       "mass": "12.71 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/89412-DSIP_WIGURMXTN6I2"
+      "report_url": "https://verify.janoshik.com/tests/89412-DSIP_WIGURMXTN6I2"
     },
     {
       "product": "Kisspeptin 12.5mg",
@@ -1279,7 +1270,7 @@
       "mass": "12.69 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/89411-Kisspeptin_K4NVUGIU1L34"
+      "report_url": "https://verify.janoshik.com/tests/89411-Kisspeptin_K4NVUGIU1L34"
     },
     {
       "product": "Ipamorelin 10mg",
@@ -1288,7 +1279,7 @@
       "mass": "11.72 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/93162-Ipamorelin_YTPKZP3NT9S9"
+      "report_url": "https://verify.janoshik.com/tests/93162-Ipamorelin_YTPKZP3NT9S9"
     },
     {
       "product": "Semax 10mg",
@@ -1297,7 +1288,7 @@
       "mass": "11.7 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92927-Semax_DKUPNXRHX46Q"
+      "report_url": "https://verify.janoshik.com/tests/92927-Semax_DKUPNXRHX46Q"
     },
     {
       "product": "BPC-157 5mg",
@@ -1306,7 +1297,7 @@
       "mass": "6.01 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/91580-BPC157_TUHDLB5TS8ZN"
+      "report_url": "https://verify.janoshik.com/tests/91580-BPC157_TUHDLB5TS8ZN"
     },
     {
       "product": "Human Chorionic Gonadotropin (hCG) 14000iu",
@@ -1315,7 +1306,7 @@
       "mass": "14590 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92442-H10_hCG_T9XKW9IY9EUH"
+      "report_url": "https://verify.janoshik.com/tests/92442-H10_hCG_T9XKW9IY9EUH"
     },
     {
       "product": "Human Chorionic Gonadotropin (hCG) 7000iu",
@@ -1324,7 +1315,7 @@
       "mass": "8014 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/92443-H5_hCG_GYXG1EZBBDYH"
+      "report_url": "https://verify.janoshik.com/tests/92443-H5_hCG_GYXG1EZBBDYH"
     },
     {
       "product": "NAD+ 600mg",
@@ -1333,7 +1324,7 @@
       "mass": "595 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/80131-NAD_HQ5RLIIW5AK1"
+      "report_url": "https://verify.janoshik.com/tests/80131-NAD_HQ5RLIIW5AK1"
     },
     {
       "product": "MOTS-C 10mg",
@@ -1342,7 +1333,7 @@
       "mass": "11.94 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/91579-MOTSC_ISQ6QTXBH4XI"
+      "report_url": "https://verify.janoshik.com/tests/91579-MOTSC_ISQ6QTXBH4XI"
     },
     {
       "product": "Tirzepatide 30mg",
@@ -1351,7 +1342,7 @@
       "mass": "32.81 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/90604-Tirzepatide_S7Y1D4AWB273"
+      "report_url": "https://verify.janoshik.com/tests/90604-Tirzepatide_S7Y1D4AWB273"
     },
     {
       "product": "KPV 10mg",
@@ -1360,7 +1351,7 @@
       "mass": "9.7 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/86385-KPV_NDJHTG21ARAV"
+      "report_url": "https://verify.janoshik.com/tests/86385-KPV_NDJHTG21ARAV"
     },
     {
       "product": "GHK-Cu 70mg",
@@ -1369,7 +1360,7 @@
       "mass": "72.33 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/86382-GHKCu_GMLCIY37P97S"
+      "report_url": "https://verify.janoshik.com/tests/86382-GHKCu_GMLCIY37P97S"
     },
     {
       "product": "IGF-1 LR3 1mg",
@@ -1378,7 +1369,7 @@
       "mass": "1.20 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/90606-IGF1_LR3_445TK79U8QXT"
+      "report_url": "https://verify.janoshik.com/tests/90606-IGF1_LR3_445TK79U8QXT"
     },
     {
       "product": "SLU-PP-332 20mg Tablets",
@@ -1387,7 +1378,7 @@
       "mass": "22.21 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/88497-SLUPP332_8TX4JYMGGNVQ"
+      "report_url": "https://verify.janoshik.com/tests/88497-SLUPP332_8TX4JYMGGNVQ"
     },
     {
       "product": "Tadalafil 5mg Tablets",
@@ -1396,7 +1387,7 @@
       "mass": "4.97 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/88496-Tadalafil_CNUHRKI25BZN"
+      "report_url": "https://verify.janoshik.com/tests/88496-Tadalafil_CNUHRKI25BZN"
     },
     {
       "product": "Sermorelin 10mg",
@@ -1405,7 +1396,7 @@
       "mass": "10.53 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/80129-Sermorelin_ZF8QH4JW36XS"
+      "report_url": "https://verify.janoshik.com/tests/80129-Sermorelin_ZF8QH4JW36XS"
     },
     {
       "product": "L-Carnitine 750mg/mL",
@@ -1414,7 +1405,7 @@
       "mass": "740.14 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/74195-LCarnitine_YCRUTRIAVJL1"
+      "report_url": "https://verify.janoshik.com/tests/74195-LCarnitine_YCRUTRIAVJL1"
     },
     {
       "product": "Retatrutide 60mg",
@@ -1423,7 +1414,7 @@
       "mass": "61.24 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/84358-Retatrutide_48E4KD8WTH76"
+      "report_url": "https://verify.janoshik.com/tests/84358-Retatrutide_48E4KD8WTH76"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1432,7 +1423,7 @@
       "mass": "22.35 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/86689-Retatrutide_67J5V7B6898C"
+      "report_url": "https://verify.janoshik.com/tests/86689-Retatrutide_67J5V7B6898C"
     },
     {
       "product": "KLOW Blend 80mg",
@@ -1441,7 +1432,7 @@
       "mass": "90.38 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/86384-KLOW_Blend_78B1VAW9LUT4"
+      "report_url": "https://verify.janoshik.com/tests/86384-KLOW_Blend_78B1VAW9LUT4"
     },
     {
       "product": "HGH (450iu kit)",
@@ -1450,7 +1441,7 @@
       "mass": "44.9 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/86198-Human_Growth_Hormone_BJ8KP17PA7SA"
+      "report_url": "https://verify.janoshik.com/tests/86198-Human_Growth_Hormone_BJ8KP17PA7SA"
     },
     {
       "product": "Retatrutide 10mg",
@@ -1459,7 +1450,7 @@
       "mass": "11.79 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79796-Retatrutide_1AXMFWMQETW2"
+      "report_url": "https://verify.janoshik.com/tests/79796-Retatrutide_1AXMFWMQETW2"
     },
     {
       "product": "BPC-157 / TB-500 Blend",
@@ -1468,7 +1459,7 @@
       "mass": "10.97 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79785-BP5TB5_LMVYFRBJ9TEB"
+      "report_url": "https://verify.janoshik.com/tests/79785-BP5TB5_LMVYFRBJ9TEB"
     },
     {
       "product": "Epitalon 10mgq",
@@ -1477,7 +1468,7 @@
       "mass": "12.59 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79789-Epitalon_HGDSATZ3PURY"
+      "report_url": "https://verify.janoshik.com/tests/79789-Epitalon_HGDSATZ3PURY"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1486,7 +1477,7 @@
       "mass": "22.19 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/81966-Retatrutide_VEITWYLFZA6F"
+      "report_url": "https://verify.janoshik.com/tests/81966-Retatrutide_VEITWYLFZA6F"
     },
     {
       "product": "BPC-157 10mg",
@@ -1495,7 +1486,7 @@
       "mass": "12.93 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79783-BPC157_LWGW44RWVSMR"
+      "report_url": "https://verify.janoshik.com/tests/79783-BPC157_LWGW44RWVSMR"
     },
     {
       "product": "PT-141 10mg",
@@ -1504,7 +1495,7 @@
       "mass": "11.98 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79788-PT141_XJBHZMJK5ATG"
+      "report_url": "https://verify.janoshik.com/tests/79788-PT141_XJBHZMJK5ATG"
     },
     {
       "product": "TB-500 10mg",
@@ -1522,7 +1513,7 @@
       "mass": "5.86 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/79786-BPC157_199QQCG4H3Y4"
+      "report_url": "https://verify.janoshik.com/tests/79786-BPC157_199QQCG4H3Y4"
     },
     {
       "product": "Ipamorelin 10mg",
@@ -1531,7 +1522,7 @@
       "mass": "10.06 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/80135-Ipamorelin_YNWBB1NAT2W8"
+      "report_url": "https://verify.janoshik.com/tests/80135-Ipamorelin_YNWBB1NAT2W8"
     },
     {
       "product": "HGH (400iu kit)",
@@ -1540,7 +1531,7 @@
       "mass": "43.77 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/80137-Human_Growth_Hormone_7W7C3KKY5EWB"
+      "report_url": "https://verify.janoshik.com/tests/80137-Human_Growth_Hormone_7W7C3KKY5EWB"
     },
     {
       "product": "Tesamorelin 10mg",
@@ -1549,7 +1540,7 @@
       "mass": "10.29 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/70033-Tesamorelin_JQDJ6M3ZSSX7"
+      "report_url": "https://verify.janoshik.com/tests/70033-Tesamorelin_JQDJ6M3ZSSX7"
     },
     {
       "product": "MOTS-C 10mg",
@@ -1558,7 +1549,7 @@
       "mass": "11.23 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/80130-MOTSC_A2HRLWTWDMPZ"
+      "report_url": "https://verify.janoshik.com/tests/80130-MOTSC_A2HRLWTWDMPZ"
     },
     {
       "product": "IGF-1 LR3 1mg",
@@ -1567,7 +1558,7 @@
       "mass": "1.11 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/78095-IGF1_LR3_WELEMMA2S6FV"
+      "report_url": "https://verify.janoshik.com/tests/78095-IGF1_LR3_WELEMMA2S6FV"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1576,7 +1567,7 @@
       "mass": "23.85 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/77672-Retatrutide_GZEN4QSYHW64"
+      "report_url": "https://verify.janoshik.com/tests/77672-Retatrutide_GZEN4QSYHW64"
     },
     {
       "product": "GLOW Blend",
@@ -1585,7 +1576,7 @@
       "mass": "66.63 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/76922-GLOW_Blend_E1CPQYGRYJ2K"
+      "report_url": "https://verify.janoshik.com/tests/76922-GLOW_Blend_E1CPQYGRYJ2K"
     },
     {
       "product": "CJC-1295 No DAC + Ipamorelin 10mg",
@@ -1594,7 +1585,7 @@
       "mass": "11.17 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/76562-CJC1295_no_DAC_Ipamorelin_Blend_PUQ715J2MRLV"
+      "report_url": "https://verify.janoshik.com/tests/76562-CJC1295_no_DAC_Ipamorelin_Blend_PUQ715J2MRLV"
     },
     {
       "product": "SLU-PP-332 200MCG",
@@ -1603,7 +1594,7 @@
       "mass": "214.31 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/76237-SLUPP332_NDBGUKV21WAF"
+      "report_url": "https://verify.janoshik.com/tests/76237-SLUPP332_NDBGUKV21WAF"
     },
     {
       "product": "Selank 10mg",
@@ -1612,7 +1603,7 @@
       "mass": "10.38 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/76563-Selank_BT83I7XGXS9V"
+      "report_url": "https://verify.janoshik.com/tests/76563-Selank_BT83I7XGXS9V"
     },
     {
       "product": "Tesamorelin 10mg",
@@ -1621,7 +1612,7 @@
       "mass": "10.72 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI"
+      "report_url": "https://verify.janoshik.com/tests/76559-Tesamorelin_X3UPYIPZMMYI"
     },
     {
       "product": "CJC-1295 no DAC 5mg",
@@ -1630,7 +1621,7 @@
       "mass": "5.22 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/58686-CJC1295_no_DAC_B262VWAJ697U"
+      "report_url": "https://verify.janoshik.com/tests/58686-CJC1295_no_DAC_B262VWAJ697U"
     },
     {
       "product": "Mazdutide 10mg",
@@ -1639,7 +1630,7 @@
       "mass": "10.70 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73421-Mazdutide_DTNN3VXD2JXH"
+      "report_url": "https://verify.janoshik.com/tests/73421-Mazdutide_DTNN3VXD2JXH"
     },
     {
       "product": "Thymosin Alpha-1 12.5mg",
@@ -1648,7 +1639,7 @@
       "mass": "12.58 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73420-ThymosinAlpha_1_ADS2CJVU3RN4"
+      "report_url": "https://verify.janoshik.com/tests/73420-ThymosinAlpha_1_ADS2CJVU3RN4"
     },
     {
       "product": "KLOW Blend",
@@ -1657,7 +1648,7 @@
       "mass": "92.01 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73422-KLOW_DNBQBZASM655"
+      "report_url": "https://verify.janoshik.com/tests/73422-KLOW_DNBQBZASM655"
     },
     {
       "product": "KPV 12.5mg",
@@ -1666,7 +1657,7 @@
       "mass": "13.14 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/71254-KPV_JYGQ7S7J61Z2"
+      "report_url": "https://verify.janoshik.com/tests/71254-KPV_JYGQ7S7J61Z2"
     },
     {
       "product": "MOTS-C 10mg",
@@ -1675,7 +1666,7 @@
       "mass": "10.77 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/74196-MOTSC_IDG4RMXYIFBS"
+      "report_url": "https://verify.janoshik.com/tests/74196-MOTSC_IDG4RMXYIFBS"
     },
     {
       "product": "GLOW Blend",
@@ -1684,7 +1675,7 @@
       "mass": "60.53 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/74194-GLOW_ZR9Q2C6PIKH1"
+      "report_url": "https://verify.janoshik.com/tests/74194-GLOW_ZR9Q2C6PIKH1"
     },
     {
       "product": "Semaglutide 5mg",
@@ -1693,7 +1684,7 @@
       "mass": "5.03 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73890-Semaglutide_DZ1HNV1F2DG6"
+      "report_url": "https://verify.janoshik.com/tests/73890-Semaglutide_DZ1HNV1F2DG6"
     },
     {
       "product": "BPC-157 / TB-500 Blend",
@@ -1702,7 +1693,7 @@
       "mass": "5.09 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN"
+      "report_url": "https://verify.janoshik.com/tests/73889-Healing_Blend_33UH9LY865AN"
     },
     {
       "product": "GHK-Cu 50mg",
@@ -1711,7 +1702,7 @@
       "mass": "51.9 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8"
+      "report_url": "https://verify.janoshik.com/tests/73882-GHKCu_SH9ARQ1IDUV8"
     },
     {
       "product": "Cagrilintide 10mg",
@@ -1720,7 +1711,7 @@
       "mass": "10.28 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/71255-Cagrilintide_3GYPCWPET42D"
+      "report_url": "https://verify.janoshik.com/tests/71255-Cagrilintide_3GYPCWPET42D"
     },
     {
       "product": "Human Chorionic Gonadotropin (hCG)",
@@ -1729,7 +1720,7 @@
       "mass": "7861 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/70657-Human_Chorionic_Gonadotropin_hCG_8BG786457K14"
+      "report_url": "https://verify.janoshik.com/tests/70657-Human_Chorionic_Gonadotropin_hCG_8BG786457K14"
     },
     {
       "product": "Melanotan-2 (MT-2)",
@@ -1738,7 +1729,7 @@
       "mass": "10.60 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/70658-MelanotanII_MC9ZQP4WHQFB"
+      "report_url": "https://verify.janoshik.com/tests/70658-MelanotanII_MC9ZQP4WHQFB"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1747,7 +1738,7 @@
       "mass": "18.77 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/70656-Retatrutide_FP4Y98KA71RH"
+      "report_url": "https://verify.janoshik.com/tests/70656-Retatrutide_FP4Y98KA71RH"
     },
     {
       "product": "Tirzepatide 10mg",
@@ -1756,7 +1747,7 @@
       "mass": "10.57 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/70659-Tirzepatide_R2PSJNPFELAT"
+      "report_url": "https://verify.janoshik.com/tests/70659-Tirzepatide_R2PSJNPFELAT"
     },
     {
       "product": "BPC-157 / TB-500 Blend",
@@ -1765,7 +1756,7 @@
       "mass": "4.89 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63522-BPC157_TB500_Healing_Blend_5N8QX9WL4BBX"
+      "report_url": "https://verify.janoshik.com/tests/63522-BPC157_TB500_Healing_Blend_5N8QX9WL4BBX"
     },
     {
       "product": "Semaglutide 10mg",
@@ -1774,7 +1765,7 @@
       "mass": "10.85 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/68856-Semaglutide_PMTUYB4SX7P7"
+      "report_url": "https://verify.janoshik.com/tests/68856-Semaglutide_PMTUYB4SX7P7"
     },
     {
       "product": "Retatrutide 20mg",
@@ -1783,7 +1774,7 @@
       "mass": "20.79 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/68529-Retatrutide_6V44PDQ1Y1TY"
+      "report_url": "https://verify.janoshik.com/tests/68529-Retatrutide_6V44PDQ1Y1TY"
     },
     {
       "product": "Tesamorelin 10mg",
@@ -1792,7 +1783,7 @@
       "mass": "10.48 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61"
+      "report_url": "https://verify.janoshik.com/tests/68855-Tesamorelin_NJ7XZG1HGJ61"
     },
     {
       "product": "Human Growth Hormone",
@@ -1801,7 +1792,7 @@
       "mass": "41.43 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF"
+      "report_url": "https://verify.janoshik.com/tests/68527-Human_Growth_Hormone_191_rHGH_9P1RPEH7ULXF"
     },
     {
       "product": "Semax",
@@ -1810,7 +1801,7 @@
       "mass": "11.66 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/68528-Semax_GD7UKTV42RDF"
+      "report_url": "https://verify.janoshik.com/tests/68528-Semax_GD7UKTV42RDF"
     },
     {
       "product": "MOTS-C",
@@ -1819,7 +1810,7 @@
       "mass": "10.72 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65690-MOTSC_ST831QU27QF1"
+      "report_url": "https://verify.janoshik.com/tests/65690-MOTSC_ST831QU27QF1"
     },
     {
       "product": "SS-31 60mg",
@@ -1828,7 +1819,7 @@
       "mass": "62.05 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65168-SS31_UPNWT1NX4UBK"
+      "report_url": "https://verify.janoshik.com/tests/65168-SS31_UPNWT1NX4UBK"
     },
     {
       "product": "TB-500 10mg",
@@ -1837,7 +1828,7 @@
       "mass": "11.10 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63521-TB500_EMGVERWSYB97"
+      "report_url": "https://verify.janoshik.com/tests/63521-TB500_EMGVERWSYB97"
     },
     {
       "product": "TB-500 5mg",
@@ -1846,7 +1837,7 @@
       "mass": "5.28 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63520-TB500_NUFXMVU4F7PL"
+      "report_url": "https://verify.janoshik.com/tests/63520-TB500_NUFXMVU4F7PL"
     },
     {
       "product": "BPC-157 / TB-500 Blend 5mg/5mg",
@@ -1855,7 +1846,7 @@
       "mass": "5.30 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65692-BPC157_TB500_Healing_Blend_K6V7CJAK8HFD"
+      "report_url": "https://verify.janoshik.com/tests/65692-BPC157_TB500_Healing_Blend_K6V7CJAK8HFD"
     },
     {
       "product": "Retatrutide 10mg",
@@ -1864,7 +1855,7 @@
       "mass": "10.31 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63515-Retatrutide_PR53CZB488M9"
+      "report_url": "https://verify.janoshik.com/tests/63515-Retatrutide_PR53CZB488M9"
     },
     {
       "product": "GLOW Blend",
@@ -1873,7 +1864,7 @@
       "mass": "59.8 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65693-GLOW_VMS85WWL2IGQ"
+      "report_url": "https://verify.janoshik.com/tests/65693-GLOW_VMS85WWL2IGQ"
     },
     {
       "product": "GHK-Cu 50mg",
@@ -1882,7 +1873,7 @@
       "mass": "57.75 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65689-GHKCu_FJGXPWWSNXV5"
+      "report_url": "https://verify.janoshik.com/tests/65689-GHKCu_FJGXPWWSNXV5"
     },
     {
       "product": "Human Growth Hormone",
@@ -1891,7 +1882,7 @@
       "mass": "13.21 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65169-Human_Growth_Hormone_191_rHGH_WMFDU1XXFLBZ"
+      "report_url": "https://verify.janoshik.com/tests/65169-Human_Growth_Hormone_191_rHGH_WMFDU1XXFLBZ"
     },
     {
       "product": "BPC-157",
@@ -1900,7 +1891,7 @@
       "mass": "5.07 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63516-BPC157_316XJY3VQFWF"
+      "report_url": "https://verify.janoshik.com/tests/63516-BPC157_316XJY3VQFWF"
     },
     {
       "product": "BPC-157 10mg",
@@ -1909,7 +1900,7 @@
       "mass": "10.53 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/63518-BPC157_D47WECAYUDMC"
+      "report_url": "https://verify.janoshik.com/tests/63518-BPC157_D47WECAYUDMC"
     },
     {
       "product": "Retatrutide",
@@ -1918,7 +1909,7 @@
       "mass": "11.19 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/65167-Retatrutide_1S5H7YT4EU87"
+      "report_url": "https://verify.janoshik.com/tests/65167-Retatrutide_1S5H7YT4EU87"
     },
     {
       "product": "Semaglutide",
@@ -1927,7 +1918,7 @@
       "mass": "5.2 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56313-Semaglutide_G2ZNEHW1675W"
+      "report_url": "https://verify.janoshik.com/tests/56313-Semaglutide_G2ZNEHW1675W"
     },
     {
       "product": "Human Growth Hormone",
@@ -1936,7 +1927,7 @@
       "mass": "39.98 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/59041-Human_Growth_Hormone_191_rHGH_1UZ5K67W3Y6C"
+      "report_url": "https://verify.janoshik.com/tests/59041-Human_Growth_Hormone_191_rHGH_1UZ5K67W3Y6C"
     },
     {
       "product": "Tirzepatide",
@@ -1945,7 +1936,7 @@
       "mass": "10.74 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56319-Tirzepatide_T9BXMTNYUCPK"
+      "report_url": "https://verify.janoshik.com/tests/56319-Tirzepatide_T9BXMTNYUCPK"
     },
     {
       "product": "Sermorelin",
@@ -1954,7 +1945,7 @@
       "mass": "5.02 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/55832-Sermorelin_24EKY194S89T"
+      "report_url": "https://verify.janoshik.com/tests/55832-Sermorelin_24EKY194S89T"
     },
     {
       "product": "Retatrutide",
@@ -1963,7 +1954,7 @@
       "mass": "12.11 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/59264-Retatrutide_84IMSIQUNYGH"
+      "report_url": "https://verify.janoshik.com/tests/59264-Retatrutide_84IMSIQUNYGH"
     },
     {
       "product": "Human Growth Hormone",
@@ -1972,7 +1963,7 @@
       "mass": "10.35 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/59265-Human_Growth_Hormone_191_rHGH_WDJS7YZ6EEQD"
+      "report_url": "https://verify.janoshik.com/tests/59265-Human_Growth_Hormone_191_rHGH_WDJS7YZ6EEQD"
     },
     {
       "product": "PT-141",
@@ -1981,7 +1972,7 @@
       "mass": "11.31 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56321-PT141_5ZDC9CHB1R22"
+      "report_url": "https://verify.janoshik.com/tests/56321-PT141_5ZDC9CHB1R22"
     },
     {
       "product": "Ipamorelin",
@@ -1990,7 +1981,7 @@
       "mass": "10.96 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56320-Ipamorelin_FJBPZK9UN8S7"
+      "report_url": "https://verify.janoshik.com/tests/56320-Ipamorelin_FJBPZK9UN8S7"
     },
     {
       "product": "Epitalon",
@@ -1999,7 +1990,7 @@
       "mass": "11.82 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56318-Epitalon_5DQIHUW1PFFT"
+      "report_url": "https://verify.janoshik.com/tests/56318-Epitalon_5DQIHUW1PFFT"
     },
     {
       "product": "CJC-1295 with DAC",
@@ -2008,7 +1999,7 @@
       "mass": "10.51 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56317-CJCNo_DAC_P3BCGKYMFVRL"
+      "report_url": "https://verify.janoshik.com/tests/56317-CJCNo_DAC_P3BCGKYMFVRL"
     },
     {
       "product": "GLOW Blend",
@@ -2017,7 +2008,7 @@
       "mass": "52.87 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/55834-GLOW_Blend_HHZX15K37WDY"
+      "report_url": "https://verify.janoshik.com/tests/55834-GLOW_Blend_HHZX15K37WDY"
     },
     {
       "product": "CJC-1295 No DAC + Ipamorelin Blend",
@@ -2026,7 +2017,7 @@
       "mass": "9.81 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/55833-CJC1295_No_DAC_Ipamorelin_YLMYPZW4J22R"
+      "report_url": "https://verify.janoshik.com/tests/55833-CJC1295_No_DAC_Ipamorelin_YLMYPZW4J22R"
     },
     {
       "product": "IGF-1 LR3",
@@ -2035,7 +2026,7 @@
       "mass": "1.03 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/56316-IGF1_LR3_BRULG5A8CLVX"
+      "report_url": "https://verify.janoshik.com/tests/56316-IGF1_LR3_BRULG5A8CLVX"
     },
     {
       "product": "Semaglutide",
@@ -2044,7 +2035,7 @@
       "mass": "5.76 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/54918-Semaglutide_SB2C3PPUQAJW"
+      "report_url": "https://verify.janoshik.com/tests/54918-Semaglutide_SB2C3PPUQAJW"
     },
     {
       "product": "Tesamorelin",
@@ -2053,7 +2044,7 @@
       "mass": "10.77 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/54915-Tesamorelin_GBMI1ZWUPM5N"
+      "report_url": "https://verify.janoshik.com/tests/54915-Tesamorelin_GBMI1ZWUPM5N"
     },
     {
       "product": "Cagrilintide",
@@ -2062,7 +2053,7 @@
       "mass": "10.31 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/54916-Cagrilintide_2IBDBFNLQEN4"
+      "report_url": "https://verify.janoshik.com/tests/54916-Cagrilintide_2IBDBFNLQEN4"
     },
     {
       "product": "Survodutide",
@@ -2071,7 +2062,7 @@
       "mass": "10.86 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/54914-Survodutide_6A6WR5T5BGG4"
+      "report_url": "https://verify.janoshik.com/tests/54914-Survodutide_6A6WR5T5BGG4"
     },
     {
       "product": "Melanotan-2",
@@ -2080,7 +2071,7 @@
       "mass": "12.76 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/54917-Melanotan2_PXUAZGFDEGC1"
+      "report_url": "https://verify.janoshik.com/tests/54917-Melanotan2_PXUAZGFDEGC1"
     },
     {
       "product": "Enclomiphene Citrate Tablets",
@@ -2089,7 +2080,7 @@
       "mass": "12.51 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/51656-Enclomiphene_125mg_BP2UQGL8EIR7"
+      "report_url": "https://verify.janoshik.com/tests/51656-Enclomiphene_125mg_BP2UQGL8EIR7"
     },
     {
       "product": "Human Growth Hormone",
@@ -2098,7 +2089,7 @@
       "mass": "11.39 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/53123-Human_Growth_Hormone_191aa_rHGH_WY9ETXSKQA4R"
+      "report_url": "https://verify.janoshik.com/tests/53123-Human_Growth_Hormone_191aa_rHGH_WY9ETXSKQA4R"
     },
     {
       "product": "Human Growth Hormone",
@@ -2107,7 +2098,7 @@
       "mass": "40.4 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/53125-Human_Growth_Hormone_191aa_rHGH_V82TRC4X1URL"
+      "report_url": "https://verify.janoshik.com/tests/53125-Human_Growth_Hormone_191aa_rHGH_V82TRC4X1URL"
     },
     {
       "product": "Human Growth Hormone",
@@ -2116,7 +2107,7 @@
       "mass": "10.94 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/44982-Human_Growth_Hormone_191_rHGH_NWYQWS88HZVT"
+      "report_url": "https://verify.janoshik.com/tests/44982-Human_Growth_Hormone_191_rHGH_NWYQWS88HZVT"
     },
     {
       "product": "BPC-157 10mg",
@@ -2125,7 +2116,7 @@
       "mass": "11.82 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/49495-BPC157_8PMAGRAIH6GQ"
+      "report_url": "https://verify.janoshik.com/tests/49495-BPC157_8PMAGRAIH6GQ"
     },
     {
       "product": "BPC-157 / TB-500 Blend 6mg/6mg",
@@ -2134,7 +2125,7 @@
       "mass": "6.5 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/49493-BPC157_TB500_Healing_Blend_XCFT8FGDF8V7"
+      "report_url": "https://verify.janoshik.com/tests/49493-BPC157_TB500_Healing_Blend_XCFT8FGDF8V7"
     },
     {
       "product": "hCG (7000iu)",
@@ -2143,7 +2134,7 @@
       "mass": "7135 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/49490-Human_Chorionic_Gonadotropin_hCG_FHQT94N4SR7J"
+      "report_url": "https://verify.janoshik.com/tests/49490-Human_Chorionic_Gonadotropin_hCG_FHQT94N4SR7J"
     },
     {
       "product": "hCG (14000iu)",
@@ -2152,7 +2143,7 @@
       "mass": "14493 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/49491-Human_Chorionic_Gonadotropin_hCG_B5N8VY61WADF"
+      "report_url": "https://verify.janoshik.com/tests/49491-Human_Chorionic_Gonadotropin_hCG_B5N8VY61WADF"
     },
     {
       "product": "Human Growth Hormone",
@@ -2161,7 +2152,7 @@
       "mass": "26.73 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/44981-Human_Growth_Hormone_191_rHGH_XSZVMT2EAYKK"
+      "report_url": "https://verify.janoshik.com/tests/44981-Human_Growth_Hormone_191_rHGH_XSZVMT2EAYKK"
     },
     {
       "product": "TB-500",
@@ -2170,7 +2161,7 @@
       "mass": "4.87 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/39893-TB500_P5Q1YM2H18LS"
+      "report_url": "https://verify.janoshik.com/tests/39893-TB500_P5Q1YM2H18LS"
     },
     {
       "product": "BPC-157",
@@ -2179,7 +2170,7 @@
       "mass": "6.12 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/49496-BPC157_BI6M9AQIP3AL"
+      "report_url": "https://verify.janoshik.com/tests/49496-BPC157_BI6M9AQIP3AL"
     },
     {
       "product": "Human Growth Hormone",
@@ -2188,7 +2179,7 @@
       "mass": "3.98 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/41097-Human_Growth_Hormone_191_rHGH_ET3Q5V4RIRPJ"
+      "report_url": "https://verify.janoshik.com/tests/41097-Human_Growth_Hormone_191_rHGH_ET3Q5V4RIRPJ"
     },
     {
       "product": "Human Growth Hormone",
@@ -2197,7 +2188,7 @@
       "mass": "11.1 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/43677-Human_Growth_Hormone_191_rHGH_8P3BQ64V5XKZ"
+      "report_url": "https://verify.janoshik.com/tests/43677-Human_Growth_Hormone_191_rHGH_8P3BQ64V5XKZ"
     },
     {
       "product": "Human Growth Hormone",
@@ -2206,7 +2197,7 @@
       "mass": "40.68 ius",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/43791-Human_Growth_Hormone_191_rHGH_P2PAGMXQB7GI"
+      "report_url": "https://verify.janoshik.com/tests/43791-Human_Growth_Hormone_191_rHGH_P2PAGMXQB7GI"
     },
     {
       "product": "Semaglutide",
@@ -2215,7 +2206,7 @@
       "mass": "5.30 mg",
       "result_date": null,
       "date_added": null,
-      "report_url": "https://janoshik.com/tests/39891-Semaglutide_HSP3VPQPWUW5"
+      "report_url": "https://verify.janoshik.com/tests/39891-Semaglutide_HSP3VPQPWUW5"
     }
   ]
 }
